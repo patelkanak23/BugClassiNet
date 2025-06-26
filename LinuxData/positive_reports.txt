@@ -1,0 +1,6748 @@
+Bug ID: 5383
+Description: VIA Nehemiah ondemand scaling governor critical DMA error
+Resolution: DUPLICATE
+
+Bug ID: 92561
+Description: [i915] drivers/gpu/drm/drm_irq.c:1121 drm_wait_one_vblank+0x177/0x180() vblank not available on crtc 1, ret=-22
+Resolution: DUPLICATE
+
+Bug ID: 4535
+Description: wrong batt. info
+Resolution: DUPLICATE
+
+Bug ID: 5100
+Description: S3 resume: no Battery info - Samsung nv5000
+Resolution: DUPLICATE
+
+Bug ID: 7515
+Description: Conexant audio fails to produce sound with acpi enabled on Toshiba P100 series laptops
+Resolution: DUPLICATE
+
+Bug ID: 45851
+Description: Regression: New warning: SystemIO conflicts with Region \PMIO
+Resolution: DUPLICATE
+
+Bug ID: 15336
+Description: PS/2 mouse driver is faulty
+Resolution: DUPLICATE
+
+Bug ID: 1997
+Description: cash accessing /proc/acpi/embedded_controller/ A30p, T40p
+Resolution: DUPLICATE
+
+Bug ID: 121281
+Description: ImPS/2 BYD TouchPad not recognized as a touchpad
+Resolution: DUPLICATE
+
+Bug ID: 5858
+Description: wish: support ip100a ethernet card
+Resolution: DUPLICATE
+
+Bug ID: 113831
+Description: Suspend fails - 11,4 and 11,5 Macbook Pros
+Resolution: DUPLICATE
+
+Bug ID: 78311
+Description: [BISECTED] cannot resume from suspend
+Resolution: DUPLICATE
+
+Bug ID: 6862
+Description: RPC: bad TCP reclen
+Resolution: DUPLICATE
+
+Bug ID: 195675
+Description: iwlwifi: 8260: UMAC ASSERT 0x67 in monitor mode
+Resolution: DUPLICATE
+
+Bug ID: 15347
+Description: eeepc-laptop module not loading by default
+Resolution: DUPLICATE
+
+Bug ID: 56081
+Description: Kernel doesn't produce any power related uevents on Samsung NP535U3C
+Resolution: DUPLICATE
+
+Bug ID: 199919
+Description: WIFI not working. RT3290 Wireless 802.11n 1T/1R PCIe
+Resolution: DUPLICATE
+
+Bug ID: 7504
+Description: Si3132 + Nvidia Data Corruption
+Resolution: DUPLICATE
+
+Bug ID: 10047
+Description: Thinkpad T30 docking oopses
+Resolution: DUPLICATE
+
+Bug ID: 18922
+Description: hiddev_open - BUG: unable to handle kernel NULL pointer dereference
+Resolution: DUPLICATE
+
+Bug ID: 91
+Description: 2.5.48 nfs v4 compile error on fs/nfsd/nfs4proc.c
+Resolution: DUPLICATE
+
+Bug ID: 3200
+Description: linux-2.6.8-rc4-mm1: IPv6-in-IPv6 undefined references
+Resolution: DUPLICATE
+
+Bug ID: 6566
+Description: Kernel Panic-not syncing
+Resolution: DUPLICATE
+
+Bug ID: 88681
+Description: rtl8192ce: No connectivity with RTL8188CE (already bisected)
+Resolution: DUPLICATE
+
+Bug ID: 4766
+Description: hang on boot
+Resolution: DUPLICATE
+
+Bug ID: 4891
+Description: Unable to read battery information ( Acpi patch 20050708 )
+Resolution: DUPLICATE
+
+Bug ID: 121851
+Description: X450LCP touchpad stops working after suspend/resume
+Resolution: DUPLICATE
+
+Bug ID: 552
+Description: USB Floppy disk drive doesn't work on a Sony VAIO C1VE
+Resolution: DUPLICATE
+
+Bug ID: 9511
+Description: RTC 'hwclock' causes system freeze
+Resolution: DUPLICATE
+
+Bug ID: 2046
+Description: Kernel oops when PNP enabled
+Resolution: DUPLICATE
+
+Bug ID: 71471
+Description: Oops: NULL pointer dereference in mousedev
+Resolution: DUPLICATE
+
+Bug ID: 43391
+Description: some usb sticks are not recognized correct
+Resolution: DUPLICATE
+
+Bug ID: 42721
+Description: no poweroff but reboot when hibernate with uhci-hcd devices connected to Asus A8V-E SE onboard USB pins , since 3.2 (rc...)
+Resolution: DUPLICATE
+
+Bug ID: 6164
+Description: compilation of fs/nfs/direct.c is broken
+Resolution: DUPLICATE
+
+Bug ID: 12710
+Description: resume from disk slows down after a while (bisected)
+Resolution: DUPLICATE
+
+Bug ID: 98411
+Description: iwlwifi module unpredictably crashes
+Resolution: DUPLICATE
+
+Bug ID: 114811
+Description: ACPI Error: No handler or method for GPE N, disabling event (20160108/evgpe-790) - AMD A8-4500M APU - Lenovo E145
+Resolution: DUPLICATE
+
+Bug ID: 42951
+Description: Kernel oops when unplugging USB flash drive
+Resolution: DUPLICATE
+
+Bug ID: 98651
+Description: HDMI goes black on Radeon HD 6950
+Resolution: DUPLICATE
+
+Bug ID: 28822
+Description: Commit 500f7147cf5bafd139056d521536b10c2bc2e154 breaks _resume_
+Resolution: DUPLICATE
+
+Bug ID: 14766
+Description: screen brightness won't come back when I open the lid
+Resolution: DUPLICATE
+
+Bug ID: 3291
+Description: store_edid hangs boot
+Resolution: DUPLICATE
+
+Bug ID: 191801
+Description: Kernels from 4.9-rc1 through 4.10-rc2 fail to boot
+Resolution: DUPLICATE
+
+Bug ID: 15552
+Description: nfs is blocking processes
+Resolution: DUPLICATE
+
+Bug ID: 41912
+Description: Lenovo x220i doesn't shutdown but reboot
+Resolution: DUPLICATE
+
+Bug ID: 15324
+Description: kernel BUG at fs/inode.c:1343!
+Resolution: DUPLICATE
+
+Bug ID: 12328
+Description: Low memory corruption on laptop lid close
+Resolution: DUPLICATE
+
+Bug ID: 31852
+Description: Keyboard don't work on netbook Lenovo s10-3c with ACPI
+Resolution: DUPLICATE
+
+Bug ID: 16326
+Description: i8042 input not built when X86_MRST is selected
+Resolution: DUPLICATE
+
+Bug ID: 6897
+Description: don't compile kernel with 2.6.17.7 patch - in "ttpci budget av" error, skystar2 DVB PCI card
+Resolution: DUPLICATE
+
+Bug ID: 14450
+Description: [2.6.31] Network interfaces are dead with 2.6.31 (iwlagn and sky2)
+Resolution: DUPLICATE
+
+Bug ID: 67461
+Description: [bisected] [regression] vgaswitcheroo & runpm causing lockups with radeon
+Resolution: DUPLICATE
+
+Bug ID: 15286
+Description: Cannot change brightness with Intel Arrandale on Sony VPCS111FM laptop
+Resolution: DUPLICATE
+
+Bug ID: 33702
+Description: Screen becomes blank if you switch display mode between single internal and external with the same resolution
+Resolution: DUPLICATE
+
+Bug ID: 4449
+Description: IPSec tunnel forwarding problem
+Resolution: DUPLICATE
+
+Bug ID: 12005
+Description: Regression: 2.6.28-rc2 thru -rc4 Hibernation fails -- no write to disk
+Resolution: DUPLICATE
+
+Bug ID: 11089
+Description: Asus Eee PC hotkeys stop working if pressed quickly
+Resolution: DUPLICATE
+
+Bug ID: 2799
+Description: "irq 11: nobody cared! (...) Disabling IRQ #11"
+Resolution: DUPLICATE
+
+Bug ID: 2964
+Description: general slowdown without cpu load after ca. one hour of uptime
+Resolution: DUPLICATE
+
+Bug ID: 11910
+Description: System doesn't restart
+Resolution: DUPLICATE
+
+Bug ID: 5243
+Description: IRQ8 (rtc) screams w/o pnpacpi=off -- IO-APIC-level
+Resolution: DUPLICATE
+
+Bug ID: 14475
+Description: 0 order page allocation failure in kcryptd
+Resolution: DUPLICATE
+
+Bug ID: 70401
+Description: No battery or AC information on Venue 8 Pro (Bay Trail tablet device)
+Resolution: DUPLICATE
+
+Bug ID: 5604
+Description: S3: no resume - IDE - HP nx6130
+Resolution: DUPLICATE
+
+Bug ID: 7194
+Description: ACPI related problems (Thermal, Fan, BIOS Bad State) with recent HP Laptops
+Resolution: DUPLICATE
+
+Bug ID: 2957
+Description: Strange IRQ-numbers / System sometimes hangs during heavy 'irq-load'
+Resolution: DUPLICATE
+
+Bug ID: 4926
+Description: S3: hang in 2nd suspend -- Thinkpad 600X
+Resolution: DUPLICATE
+
+Bug ID: 8622
+Description: saa7146_i2c_writeout: timed out waiting for end of xfer
+Resolution: DUPLICATE
+
+Bug ID: 7664
+Description: PCI Bus hidden behind transparent bridge
+Resolution: DUPLICATE
+
+Bug ID: 6279
+Description: KERNEL: assertion (!sk->sk_forward_alloc) failed at net/core/stream.c (279) ...
+Resolution: DUPLICATE
+
+Bug ID: 12457
+Description: IBM X40 laptop does no longer resume
+Resolution: DUPLICATE
+
+Bug ID: 8684
+Description: BUG: soft lockup detected on CPU#0!
+Resolution: DUPLICATE
+
+Bug ID: 4539
+Description: Missing /proc/acpi/toshiba
+Resolution: DUPLICATE
+
+Bug ID: 8827
+Description: HD wrong detection
+Resolution: DUPLICATE
+
+Bug ID: 17461
+Description: WARNING at fs/fs-writeback.c:972 __mark_inode_dirty+0x1d4/0x1e0()
+Resolution: DUPLICATE
+
+Bug ID: 11301
+Description: Recent snapshots fail to build with CONFIG_ITCO_WDT but without CONFIG_ITCO_VENDOR_SUPPORT
+Resolution: DUPLICATE
+
+Bug ID: 65951
+Description: WARNING: at drivers/pci/search.c:46 pci_find_upstream_pcie_bridge+0x59/0x80()
+Resolution: DUPLICATE
+
+Bug ID: 53601
+Description: nVMX meta-bug
+Resolution: DUPLICATE
+
+Bug ID: 66181
+Description: WARNING: CPU: 3 PID: 3737 at lib/list_debug.c:59 __list_del_entry+0xa1/0xd0()
+Resolution: DUPLICATE
+
+Bug ID: 43250
+Description: [REGRESSION]Can't wake up PC form suspend to ram using usb devices on Asus P8P67 Pro
+Resolution: DUPLICATE
+
+Bug ID: 13412
+Description: [regression] [bisected] oops when closing laptop lid -- HP Compaq 6720s
+Resolution: DUPLICATE
+
+Bug ID: 6743
+Description: Size of initramfs_data.cpio.gz is doubled.
+Resolution: DUPLICATE
+
+Bug ID: 13238
+Description: kernel BUG at arch/x86/kernel/irq_32.c:219!
+Resolution: DUPLICATE
+
+Bug ID: 43345
+Description: EFI_STUB doesn't work on 3.5-rc1 for Thinkpads laptops
+Resolution: DUPLICATE
+
+Bug ID: 72331
+Description: failed to get NCQ Send/Recv Log Emask 0x1
+Resolution: DUPLICATE
+
+Bug ID: 11992
+Description: [drivers/pcmcia/cistpl.c:357]: Unreachable code
+Resolution: DUPLICATE
+
+Bug ID: 14731
+Description: rt61pci regression
+Resolution: DUPLICATE
+
+Bug ID: 164
+Description: Linking Failure:  drivers/built-in.o
+Resolution: DUPLICATE
+
+Bug ID: 3919
+Description: SIGFPE in libc6's difftime() when waking up from sleep under zsh
+Resolution: DUPLICATE
+
+Bug ID: 2622
+Description: panic after kfree(ec_ecdt) in acpi_ec_add()
+Resolution: DUPLICATE
+
+Bug ID: 9523
+Description: NFSv2/3 broken exporting/mounting (permission denied) in 2.6.24-rc4
+Resolution: DUPLICATE
+
+Bug ID: 12237
+Description: Add hotkeys support for Samsung NC10
+Resolution: DUPLICATE
+
+Bug ID: 707
+Description: Compilation error of Initio9100 SCSI
+Resolution: DUPLICATE
+
+Bug ID: 13198
+Description: B43 (BCM4312 on USB bus) rarely recognized
+Resolution: DUPLICATE
+
+Bug ID: 7056
+Description: Conservative governor dosen't work
+Resolution: DUPLICATE
+
+Bug ID: 8480
+Description: Bus #0a (-#0d) is hidden behind transparent bridge #09 (-#09)
+Resolution: DUPLICATE
+
+Bug ID: 5048
+Description: Batery state is completely messed up
+Resolution: DUPLICATE
+
+Bug ID: 89401
+Description: Regression with ASUS backlight brightness buttons
+Resolution: DUPLICATE
+
+Bug ID: 18052
+Description: Realtek RTL8180 / RTL8185 Driver
+Resolution: DUPLICATE
+
+Bug ID: 79501
+Description: BUG: unable to handle kernel paging request at 48d8ff05 - AMD Dual-Core E350
+Resolution: DUPLICATE
+
+Bug ID: 13655
+Description: [Oops] 2.6.31-rc1: tun
+Resolution: DUPLICATE
+
+Bug ID: 65921
+Description: BUG: unable to handle kernel paging request at 00000000002000d4
+Resolution: DUPLICATE
+
+Bug ID: 30222
+Description: BUG in xs_tcp_setup_socket
+Resolution: DUPLICATE
+
+Bug ID: 65791
+Description: LG laptops: keyboard does not work
+Resolution: DUPLICATE
+
+Bug ID: 11284
+Description: WARNING: at drivers/base/power/main.c:82 device_pm_add
+Resolution: DUPLICATE
+
+Bug ID: 10483
+Description: lockup in sbshc.c in wait_transaction_complete - Acer TravelMate 4502WLMi - 2.6.25 regression
+Resolution: DUPLICATE
+
+Bug ID: 66811
+Description: Partition remains active and array in_sync after removal of disk
+Resolution: DUPLICATE
+
+Bug ID: 426
+Description: sound/isa/opl3sa2.c needs PNP conversion.
+Resolution: DUPLICATE
+
+Bug ID: 4124
+Description: EC confusion, wrong _Qxx methods executed
+Resolution: DUPLICATE
+
+Bug ID: 88941
+Description: asus brightness hotkeys doesn't work
+Resolution: DUPLICATE
+
+Bug ID: 6411
+Description: DVB-S doesn't work
+Resolution: DUPLICATE
+
+Bug ID: 16110
+Description: b43 produces a warning when the AP signal is very poor
+Resolution: DUPLICATE
+
+Bug ID: 200959
+Description: Early boot CPU stalling and then frozen boot - related to kernel/time/clocksource.c
+Resolution: DUPLICATE
+
+Bug ID: 5190
+Description: No /proc/acpi/processor/ with kernel 2.6.23 & Acpi 20050902
+Resolution: DUPLICATE
+
+Bug ID: 7001
+Description: HD make a strange sound when laptop turn-off
+Resolution: DUPLICATE
+
+Bug ID: 3378
+Description: set_rtc_mmss functioin smp deadlock
+Resolution: DUPLICATE
+
+Bug ID: 2438
+Description: Network (8139too) offline after resume
+Resolution: DUPLICATE
+
+Bug ID: 72881
+Description: S4 reboot instead of resume after suspend on Broadwell
+Resolution: DUPLICATE
+
+Bug ID: 13982
+Description: [libata] (?) causing Hardlock in 2.6.30.4 during simultaneous read & write
+Resolution: DUPLICATE
+
+Bug ID: 33222
+Description: [RADEON] Oops in worker thread for radeon_unpin_work_func
+Resolution: DUPLICATE
+
+Bug ID: 26422
+Description: HP6930p reboots after poweroff
+Resolution: DUPLICATE
+
+Bug ID: 229
+Description: diffsrv URL changed
+Resolution: DUPLICATE
+
+Bug ID: 114681
+Description: ACPI Error: No handler or method for GPE - AMD
+Resolution: DUPLICATE
+
+Bug ID: 5275
+Description: Error inserting snd_via82xx
+Resolution: DUPLICATE
+
+Bug ID: 20672
+Description: Kernel bug, possible double free, effecting kernel.org machines
+Resolution: DUPLICATE
+
+Bug ID: 28072
+Description: 2.6.38rc Kernels break LCD brightness adjustment on Acer Laptop
+Resolution: DUPLICATE
+
+Bug ID: 19602
+Description: Acer AO521 no battery detected
+Resolution: DUPLICATE
+
+Bug ID: 42945
+Description: EC Errors in dmesg - Dell Precision M6600/04YY4M
+Resolution: DUPLICATE
+
+Bug ID: 8899
+Description: PCI: Bus #04 (-#07) is hidden behind transparent bridge #03 (-#04)
+Resolution: DUPLICATE
+
+Bug ID: 6376
+Description: cpufreq wrongly reports "frequency should be within 600 MHz and 600 MHz"
+Resolution: DUPLICATE
+
+Bug ID: 5373
+Description: The Read access automatic dereference for Index reference doesn't work
+Resolution: DUPLICATE
+
+Bug ID: 5649
+Description: compilation problems
+Resolution: DUPLICATE
+
+Bug ID: 12850
+Description: On resume irq 16 get's disabled.
+Resolution: DUPLICATE
+
+Bug ID: 2694
+Description: boot hang unless "nolapic" - Compaq Presario 2100 (2199us)
+Resolution: DUPLICATE
+
+Bug ID: 4783
+Description: if processor is hot, hang all system.
+Resolution: DUPLICATE
+
+Bug ID: 6820
+Description: Bug with bcm43xx drivers
+Resolution: DUPLICATE
+
+Bug ID: 2602
+Description: ping with ipsec enviroment causes oops
+Resolution: DUPLICATE
+
+Bug ID: 7163
+Description: Memory leak with LG-81 motherboard
+Resolution: DUPLICATE
+
+Bug ID: 11537
+Description: WARNING: at net/ipv4/tcp_input.c:2569 tcp_ack+0xcd9/0x1f90()
+Resolution: DUPLICATE
+
+Bug ID: 8119
+Description: Merge Microsoft Natural Ergonomic Keyboard 4000 driver (nek4k)
+Resolution: DUPLICATE
+
+Bug ID: 54421
+Description: BUG: unabe to handle kernel NULL pointer dereference at 0000000000000148
+Resolution: DUPLICATE
+
+Bug ID: 5588
+Description: AE_NOT_FOUND - No  battery information for Toshiba Satellite L20
+Resolution: DUPLICATE
+
+Bug ID: 5525
+Description: usb scanner doesn't work with >= 2.6.13
+Resolution: DUPLICATE
+
+Bug ID: 11662
+Description: possible recursive locking in ps2_command
+Resolution: DUPLICATE
+
+Bug ID: 48221
+Description: EC: input buffer is not empty, aborting transaction
+Resolution: DUPLICATE
+
+Bug ID: 4271
+Description: [\MCTH] (Node c17f25b8), AE_AML_BUFFER_LIMIT
+Resolution: DUPLICATE
+
+Bug ID: 16524
+Description: 2.6.35-rc6+: i915: Bisected regression
+Resolution: DUPLICATE
+
+Bug ID: 63871
+Description: BUG skbuff_head_cache (Tainted: G        W   ): Object padding overwritten
+Resolution: DUPLICATE
+
+Bug ID: 5305
+Description: no AC events on AC plug/un-plug
+Resolution: DUPLICATE
+
+Bug ID: 3047
+Description: network card doesn't work with acpi enabled on T22 thinkpad
+Resolution: DUPLICATE
+
+Bug ID: 824
+Description: 2.5.67 > panics on boot with latest thinkpad bios 2.04
+Resolution: DUPLICATE
+
+Bug ID: 7277
+Description: PS2 Touchpad (Synaptics) disappears after wake-up from S3 suspend
+Resolution: DUPLICATE
+
+Bug ID: 92231
+Description: [linux] crash iwlwifi driver
+Resolution: DUPLICATE
+
+Bug ID: 3942
+Description: x86_64 with 4GB RAM & 2 Operons Panics
+Resolution: DUPLICATE
+
+Bug ID: 196641
+Description: iwlwifi: 8265: ASSERT 1007
+Resolution: DUPLICATE
+
+Bug ID: 10497
+Description: BUG: unable to handle kernel paging request at c7503f6c pb with xawtv
+Resolution: DUPLICATE
+
+Bug ID: 9088
+Description: ACPI several problems on ACER 5050-4697
+Resolution: DUPLICATE
+
+Bug ID: 3532
+Description: ACPI poweroff stopped working (Dell Inspiron 8600)
+Resolution: DUPLICATE
+
+Bug ID: 14917
+Description: Video get very slowly when keyboard bright keys are pressed.
+Resolution: DUPLICATE
+
+Bug ID: 36272
+Description: iwlagn: Microcode SW error detected
+Resolution: DUPLICATE
+
+Bug ID: 11935
+Description: ext3 __log_wait_for_space: no transactions
+Resolution: DUPLICATE
+
+Bug ID: 178271
+Description: Asus Laptop Touchpad not detected
+Resolution: DUPLICATE
+
+Bug ID: 1908
+Description: Kernel panic booting 2.4 on Abit VP6 w/ ACPI
+Resolution: DUPLICATE
+
+Bug ID: 11656
+Description: touchpad (and sometimes keyboard) stops working after suspend
+Resolution: DUPLICATE
+
+Bug ID: 15518
+Description: CONFIG_NO_BOOTMEM=y breaks boot on 32bit
+Resolution: DUPLICATE
+
+Bug ID: 7257
+Description: (Nvidia sil3512) Data Corruption on SATA Drives
+Resolution: DUPLICATE
+
+Bug ID: 13805
+Description: [855GM KMS S3] With i915 modeset=1 TP R50e locks up during suspend (not powering off)
+Resolution: DUPLICATE
+
+Bug ID: 69291
+Description: Hybrid graphic problem
+Resolution: DUPLICATE
+
+Bug ID: 14161
+Description: ACPI conflict with i2c-driver (i2c-viapro)
+Resolution: DUPLICATE
+
+Bug ID: 1582
+Description: a bug in mp_override_legacy_irq (mpparse.c) (only in 2.4 kernel)
+Resolution: DUPLICATE
+
+Bug ID: 68751
+Description: Aspire V5-431: backlight acpi_video0 not working
+Resolution: DUPLICATE
+
+Bug ID: 11987
+Description: Bootup time regression from 2.6.27 to 2.6.28-rc3+
+Resolution: DUPLICATE
+
+Bug ID: 10260
+Description: Suspend to RAM reboots on resume with S3
+Resolution: DUPLICATE
+
+Bug ID: 27782
+Description: Connecting/mounting HFS+ volumes causes kernel oops
+Resolution: DUPLICATE
+
+Bug ID: 33112
+Description: Possible file corruption (RAID10+LVM+ext4) with chromium and kernel build
+Resolution: DUPLICATE
+
+Bug ID: 4161
+Description: After acpi_power_off call computer is don't answer.
+Resolution: DUPLICATE
+
+Bug ID: 3895
+Description: The linux kernel freezes when tryin to access a LaCie Terabyte storage disk, connected via a Firewire 800 PCI Card
+Resolution: DUPLICATE
+
+Bug ID: 1975
+Description: AE_ALREADY_EXISTS on /proc/acpi/battery/BAT1/state
+Resolution: DUPLICATE
+
+Bug ID: 8456
+Description: Long delay, high CPU for suspend to RAM
+Resolution: DUPLICATE
+
+Bug ID: 23572
+Description: Acer AO521 Does Not Wake
+Resolution: DUPLICATE
+
+Bug ID: 1878
+Description: screen controls dont work under ACPI
+Resolution: DUPLICATE
+
+Bug ID: 13044
+Description: 2.6.30-rc1 can't find the root fs
+Resolution: DUPLICATE
+
+Bug ID: 7019
+Description: power button and Lid not working -  Dell Inspiron 5160
+Resolution: DUPLICATE
+
+Bug ID: 11183
+Description: BUG: SCSI: usb storage SDHC card doesn't work in 2.6.27-rc1
+Resolution: DUPLICATE
+
+Bug ID: 74831
+Description: Hibernate failing on my hardware
+Resolution: DUPLICATE
+
+Bug ID: 2575
+Description: mounting usbfs still ignores devmode permissions
+Resolution: DUPLICATE
+
+Bug ID: 198923
+Description: Linux 4.15.4+: Write on Ext4 causes system block
+Resolution: DUPLICATE
+
+Bug ID: 1588
+Description: Resum from S1 will hang , after several times of sleep state transition (S1)
+Resolution: DUPLICATE
+
+Bug ID: 15767
+Description: Kernel does not recognize USB devices on some machines
+Resolution: DUPLICATE
+
+Bug ID: 2703
+Description: BTTV, IDE DMA contention freezes VT8235 South Bridge system
+Resolution: DUPLICATE
+
+Bug ID: 15300
+Description: rt2800usb - Linksys WUSB600N rev2 (still) doesn't work
+Resolution: DUPLICATE
+
+Bug ID: 15513
+Description: LCD Brightness cannot be controlled on Gateway NV5927U
+Resolution: DUPLICATE
+
+Bug ID: 929
+Description: USB devices detection do not seem to work on Nforce 1st gen
+Resolution: DUPLICATE
+
+Bug ID: 10204
+Description: WARNING trace for ACPI ECDT
+Resolution: DUPLICATE
+
+Bug ID: 16619
+Description: iwlagn on Centrino Ultimate-N 6300: wlan0: direct probe to [ap mac] timed out
+Resolution: DUPLICATE
+
+Bug ID: 32842
+Description: kernel BUG at mm/vmalloc.c:893!
+Resolution: DUPLICATE
+
+Bug ID: 4876
+Description: porting_sony_acpi_to_generic_driver.patch
+Resolution: DUPLICATE
+
+Bug ID: 1480
+Description: IDE-SCSI: abort called for 3693, 4072, 4073 and more...
+Resolution: DUPLICATE
+
+Bug ID: 2262
+Description: unregistering and registering ide devices creates multiple /proc/ide/ide# entries
+Resolution: DUPLICATE
+
+Bug ID: 69561
+Description: kernel/time/tick-broadcast
+Resolution: DUPLICATE
+
+Bug ID: 8082
+Description: kernel doesn't link properly because of net/built-in.o
+Resolution: DUPLICATE
+
+Bug ID: 234
+Description: cdrom/cdu31a.c Out of bounds according to Andy Chou <acc@cs.stanford.edu>
+Resolution: DUPLICATE
+
+Bug ID: 16551
+Description: iwlagn driver spams "BA scd_flow 0 does not match txq_id 10" and drops a lot of packets
+Resolution: DUPLICATE
+
+Bug ID: 5211
+Description: system clock speed is double than normal. some components aren't recognized.
+Resolution: DUPLICATE
+
+Bug ID: 11313
+Description: Plugging HDMI causes "unable to handle kernel paging request"
+Resolution: DUPLICATE
+
+Bug ID: 16149
+Description: VGA display is off: blame commit "drm/i915: Don't enable pipe/plane/VCO early (wait for DPMS on)."
+Resolution: DUPLICATE
+
+Bug ID: 61011
+Description: Radeon Screen Corruption since merged patch of Bug 60639
+Resolution: DUPLICATE
+
+Bug ID: 34612
+Description: hangs during boot
+Resolution: DUPLICATE
+
+Bug ID: 5362
+Description: No AC Adapter Event from MSI 510C
+Resolution: DUPLICATE
+
+Bug ID: 4064
+Description: Timeout during IDE probe
+Resolution: DUPLICATE
+
+Bug ID: 6978
+Description: No fan after S3 - 2.6.18 regression - HP/Compaq nc6120
+Resolution: DUPLICATE
+
+Bug ID: 470
+Description: Permit drivers to enable their devices for wake (e.g. sleep button)
+Resolution: DUPLICATE
+
+Bug ID: 196415
+Description: "cannot release Mutex [PATM]" when resuming
+Resolution: DUPLICATE
+
+Bug ID: 13048
+Description: /sys/class/backlight/acpi_video0/* is gone on vaio laptop with Intel GM45.
+Resolution: DUPLICATE
+
+Bug ID: 197373
+Description: iwlwifi: 7265: BAD COMMAND after connection loss
+Resolution: DUPLICATE
+
+Bug ID: 69551
+Description: acpi_idle does not register
+Resolution: DUPLICATE
+
+Bug ID: 18932
+Description: Bluetooth dosnt work up kernel 2.6.33
+Resolution: DUPLICATE
+
+Bug ID: 194845
+Description: AML Debugger - UBSAN: Undefined behaviour in drivers/acpi/acpica/dsutils.c:640:16
+Resolution: DUPLICATE
+
+Bug ID: 49401
+Description: cifs requires cifs-utils since kernel 3.4
+Resolution: DUPLICATE
+
+Bug ID: 8643
+Description: Bug with negative timestamps on 64bit machines
+Resolution: DUPLICATE
+
+Bug ID: 6165
+Description: bug in line 110 of /fs/nfs/direct.c
+Resolution: DUPLICATE
+
+Bug ID: 90611
+Description: Asus G751JY: acpi reporting wrong battery status
+Resolution: DUPLICATE
+
+Bug ID: 8641
+Description: interrupts not properly handled for VIA K8M800 / UniChrome Pro
+Resolution: DUPLICATE
+
+Bug ID: 4090
+Description: ide_dma_read() and ide_dma_write() are not protected against  ide_write_setting().
+Resolution: DUPLICATE
+
+Bug ID: 13187
+Description: garbled screen on video
+Resolution: DUPLICATE
+
+Bug ID: 1759
+Description: Battery info available on a warm boot, but gives errors on cold boot
+Resolution: DUPLICATE
+
+Bug ID: 33422
+Description: oops in radeon_ddc_get_modes on first boot of rc3
+Resolution: DUPLICATE
+
+Bug ID: 15660
+Description: [Regresion] [2.6.34-rc1] [drm:i915_hangcheck_elapsed] *ERROR* Hangcheck timer elapsed... GPU hung
+Resolution: DUPLICATE
+
+Bug ID: 24292
+Description: kernel panic while using airmon-ng and iwl3945
+Resolution: DUPLICATE
+
+Bug ID: 5216
+Description: 2.6.13 hangs on boot with interrupt conflict
+Resolution: DUPLICATE
+
+Bug ID: 55171
+Description: ath9k randomly loses communication with the AP (O2box6431) and requires reboot of AP
+Resolution: DUPLICATE
+
+Bug ID: 1619
+Description: poweroff unless no LAPIC
+Resolution: DUPLICATE
+
+Bug ID: 7368
+Description: It's driver bug or hardware problem?
+Resolution: DUPLICATE
+
+Bug ID: 3249
+Description: Possible bug in acpi_os_install_interrupt_handler
+Resolution: DUPLICATE
+
+Bug ID: 117431
+Description: 2nd battery swap not detected - Lenovo x260
+Resolution: DUPLICATE
+
+Bug ID: 5304
+Description: missing power events
+Resolution: DUPLICATE
+
+Bug ID: 20632
+Description: dvd drive fails on dvd's with 4gb~+ info wrighten on it.
+Resolution: DUPLICATE
+
+Bug ID: 3883
+Description: Burning a session beyond 2.2 Gig on a multisession DVD.
+Resolution: DUPLICATE
+
+Bug ID: 1801
+Description: ACPI interrupts are lost after wakeup from S3
+Resolution: DUPLICATE
+
+Bug ID: 985
+Description: SB16/ALSA Acts Used
+Resolution: DUPLICATE
+
+Bug ID: 13834
+Description: device mapper fails on some logical volumes
+Resolution: DUPLICATE
+
+Bug ID: 20002
+Description: x86_64 2.6.35.* kernels and Intel Xeon X5550
+Resolution: DUPLICATE
+
+Bug ID: 6565
+Description: Kernel Panic-not syncing
+Resolution: DUPLICATE
+
+Bug ID: 15072
+Description: i915: *ERROR* Execbuf while wedged
+Resolution: DUPLICATE
+
+Bug ID: 8477
+Description: /proc/acpi/battery/BAT0 disappeared
+Resolution: DUPLICATE
+
+Bug ID: 13642
+Description: Kernel bug with dock driver
+Resolution: DUPLICATE
+
+Bug ID: 18992
+Description: warn_slow_path_common in iwlagn/mac80211 in 2.6.36-rc5
+Resolution: DUPLICATE
+
+Bug ID: 110251
+Description: wifi RT3290 Wireless 802.11n stop working after a while
+Resolution: DUPLICATE
+
+Bug ID: 38402
+Description: Thinkpad t420s can do either s2disk or s2ram only from second attempt
+Resolution: DUPLICATE
+
+Bug ID: 56011
+Description: Backlight controls not working properly on Lenovo Thinkpad Edge e14 (0578A21)
+Resolution: DUPLICATE
+
+Bug ID: 8872
+Description: CONFIG_SCSI_WAIT_SCAN doesn't show in menuconfig
+Resolution: DUPLICATE
+
+Bug ID: 14823
+Description: kacpid goes into infinite loop and takes 100% of 1 core
+Resolution: DUPLICATE
+
+Bug ID: 48401
+Description: Does not change the battery indicator when the charger on / off
+Resolution: DUPLICATE
+
+Bug ID: 199989
+Description: use-after-free() detected by KASAN in ext4_find_extent() when mounting and writing to a crafted ext4 image
+Resolution: DUPLICATE
+
+Bug ID: 71111
+Description: WARNING: CPU: 0 PID: 54 at drivers/usb/host/xhci-ring.c:1584 handle_cmd_completion+0xd17/0xe00()
+Resolution: DUPLICATE
+
+Bug ID: 13251
+Description: WARNING: at fs/namei.c
+Resolution: DUPLICATE
+
+Bug ID: 1939
+Description: WLAN card (orinoco_cs) not working in kernel 2.6
+Resolution: DUPLICATE
+
+Bug ID: 42628
+Description: Toshiba L655 not able to detect battery presence
+Resolution: DUPLICATE
+
+Bug ID: 394
+Description: unexpected IO-APIC, please file a report at...
+Resolution: DUPLICATE
+
+Bug ID: 40082
+Description: RCU stall in linux-3.0.0
+Resolution: DUPLICATE
+
+Bug ID: 2083
+Description: evo N620C: no fan, AE_AML_NO_RETURN_VALUE
+Resolution: DUPLICATE
+
+Bug ID: 1385
+Description: crash on boot on Compaq N620c with 2.6.0-test8
+Resolution: DUPLICATE
+
+Bug ID: 1099
+Description: black screen
+Resolution: DUPLICATE
+
+Bug ID: 2792
+Description: Kernel don't recognize UART on ISA modem. No such problem in 2.4
+Resolution: DUPLICATE
+
+Bug ID: 193131
+Description: iwlwifi: 7260: hardware error detected (0x5a5a5a5a)
+Resolution: DUPLICATE
+
+Bug ID: 77371
+Description: ACPI Warning on D2xxx/N2xxx - Resource conflict(s) found affecting gpio_ich
+Resolution: DUPLICATE
+
+Bug ID: 1367
+Description: Ooop in 2.6.0-test7 (top proc)
+Resolution: DUPLICATE
+
+Bug ID: 13095
+Description: thinkpad-acpi: cannot control brightness with hotkeys
+Resolution: DUPLICATE
+
+Bug ID: 1326
+Description: ACPI doesn't work on IBM Thinkpad G40
+Resolution: DUPLICATE
+
+Bug ID: 196439
+Description: iwl8265: "Microcode SW error detected" when using 5Ghz wifi with width 80
+Resolution: DUPLICATE
+
+Bug ID: 60825
+Description: kernel: [drm:i915_hangcheck_elapsed] *ERROR* stuck on render ring
+Resolution: DUPLICATE
+
+Bug ID: 9633
+Description: kernel BUG at block/cfq-iosched.c:1147
+Resolution: DUPLICATE
+
+Bug ID: 16447
+Description: BUG at drivers/scsi/scsi_lib.c:1113
+Resolution: DUPLICATE
+
+Bug ID: 12643
+Description: suspend to disk does not power off
+Resolution: DUPLICATE
+
+Bug ID: 64311
+Description: xhci: usb 1-1: device not accepting address 35, error -71 then crashes at hw level ?
+Resolution: DUPLICATE
+
+Bug ID: 8029
+Description: bogomips reports incorrectly and gettimeofday increments too slowly
+Resolution: DUPLICATE
+
+Bug ID: 11785
+Description: boot hang - unless "nolapic" - Asus M3N, Asus M300N
+Resolution: DUPLICATE
+
+Bug ID: 4793
+Description: Battery reads result in high cpu usage
+Resolution: DUPLICATE
+
+Bug ID: 30232
+Description: BUG in xs_tcp_setup_socket
+Resolution: DUPLICATE
+
+Bug ID: 8233
+Description: Creator3D Framebuffer (sparc64) on Sbus/UPA workstation
+Resolution: DUPLICATE
+
+Bug ID: 2998
+Description: (sata sii) file system failures on sata drive
+Resolution: DUPLICATE
+
+Bug ID: 44181
+Description: Cannot boot with kernel >=3.4.0.2
+Resolution: DUPLICATE
+
+Bug ID: 189171
+Description: ACPI Lid state does not switch from closed to open after suspend
+Resolution: DUPLICATE
+
+Bug ID: 14453
+Description: NULL pointer dereference on NFSv4 client
+Resolution: DUPLICATE
+
+Bug ID: 39122
+Description: IRQ issues with ASUS E35M1-M
+Resolution: DUPLICATE
+
+Bug ID: 104151
+Description: Only one core being used
+Resolution: DUPLICATE
+
+Bug ID: 4093
+Description: USB2 doesn''t work on 2.6.10 - 2.6.11-rc2
+Resolution: DUPLICATE
+
+Bug ID: 9789
+Description: Deadlock on _any_ ACPI event
+Resolution: DUPLICATE
+
+Bug ID: 9686
+Description: Leadtek Winfast 2000XP Expert
+Resolution: DUPLICATE
+
+Bug ID: 2733
+Description: Reserve IRQs for motherboard devices - unable to grab IRQ 7 - _CRS outside _PRS
+Resolution: DUPLICATE
+
+Bug ID: 1983
+Description: warning during compiling
+Resolution: DUPLICATE
+
+Bug ID: 17792
+Description: \_SB_.PCI0:_OSC invalid UUID
+Resolution: DUPLICATE
+
+Bug ID: 196109
+Description: iwlwifi: ASSERT 1007
+Resolution: DUPLICATE
+
+Bug ID: 6741
+Description: Size of initramfs_data.cpio.gz is doubled.
+Resolution: DUPLICATE
+
+Bug ID: 43851
+Description: i2o_proc.c:262:Returning pointer to local array variable
+Resolution: DUPLICATE
+
+Bug ID: 4128
+Description: Don't work usb mass-storage driver for Vendor: ERATECH   Model: EMP-200 UMS DISK  Rev: 0.01
+Resolution: DUPLICATE
+
+Bug ID: 28032
+Description: [2.6.38-0.rc2.git7.1.fc15.x86_64] oops mounting possible HFS disk image
+Resolution: DUPLICATE
+
+Bug ID: 109741
+Description: Battery information is incorrect on VOYO V2
+Resolution: DUPLICATE
+
+Bug ID: 29352
+Description: kernel bug at fs/inode.c:1421 when unmounting a fuse device
+Resolution: DUPLICATE
+
+Bug ID: 78731
+Description: [bisected regression] Screen gets corrupted when using external monitor on T61
+Resolution: DUPLICATE
+
+Bug ID: 62501
+Description: alx 0000:02:00.0: invalid PHY speed/duplex: 0xffff  after sleep mode
+Resolution: DUPLICATE
+
+Bug ID: 7915
+Description: Kernel OOPS while I/O scheduling
+Resolution: DUPLICATE
+
+Bug ID: 198417
+Description: iwlwifi: 9260: Slow download speed with Netgear R7800 router
+Resolution: DUPLICATE
+
+Bug ID: 38562
+Description: Black locked screen after inserting only i915 or radeon+starting X server
+Resolution: DUPLICATE
+
+Bug ID: 9663
+Description: in 2.6.24-rc6 function keys stopped working - toshiba u300-13m, FSC V5505
+Resolution: DUPLICATE
+
+Bug ID: 8806
+Description: ACPI Exception (processor_throttling-0084): AE_NOT_FOUND
+Resolution: DUPLICATE
+
+Bug ID: 1443
+Description: orinoco_cs doesn't seem to work in 2.6.0-test9
+Resolution: DUPLICATE
+
+Bug ID: 3875
+Description: Kernel panic when unplug usb device with hal running
+Resolution: DUPLICATE
+
+Bug ID: 9930
+Description: [regression] after resume from mem: Method parse/execution failed [\_SB_.PCI0.IDE0.RATA]
+Resolution: DUPLICATE
+
+Bug ID: 21222
+Description: Bluetooth high pitch noise Broadcom 4353
+Resolution: DUPLICATE
+
+Bug ID: 10009
+Description: Kernel segfault at 0806de20 related to wpa_supplicant
+Resolution: DUPLICATE
+
+Bug ID: 28342
+Description: suspend to RAM completely fails
+Resolution: DUPLICATE
+
+Bug ID: 13607
+Description: No ACPI events for power button and lid-switch on sony vaio vgn-sz61mn
+Resolution: DUPLICATE
+
+Bug ID: 159
+Description: compile failure on drivers/isdn/i4l/isdn_net_lib.c
+Resolution: DUPLICATE
+
+Bug ID: 198663
+Description: Battery drains when laptop is off (shutdown)  . WOL disabled and no usb device connected.
+Resolution: DUPLICATE
+
+Bug ID: 4896
+Description: Computer turns itself on at midnight.  Really.
+Resolution: DUPLICATE
+
+Bug ID: 16146
+Description: Alps DualPoint touchpad on Dell Latitude E6510 not recognized
+Resolution: DUPLICATE
+
+Bug ID: 197281
+Description: iwlwifi: Oops in iwl_mvm_set_tx_cmd
+Resolution: DUPLICATE
+
+Bug ID: 4521
+Description: kernel crash
+Resolution: DUPLICATE
+
+Bug ID: 15099
+Description: ath5k does not see Atheros AR2427 hardware
+Resolution: DUPLICATE
+
+Bug ID: 48711
+Description: BUG: unable to handle kernel NULL pointer dereference at 0000000000000028
+Resolution: DUPLICATE
+
+Bug ID: 3453
+Description: Linux goes very slow when accessing cdrom
+Resolution: DUPLICATE
+
+Bug ID: 197361
+Description: Powering up or resuming when in docking station does not detect LID closed
+Resolution: DUPLICATE
+
+Bug ID: 13862
+Description: PROBLEM: SiS 191 mtu bug
+Resolution: DUPLICATE
+
+Bug ID: 1979
+Description: USB speedtch unplugging causes oops (in modem_run?)
+Resolution: DUPLICATE
+
+Bug ID: 107921
+Description: Regression with KVM virtual machine using VFIO for PCI passthrough.
+Resolution: DUPLICATE
+
+Bug ID: 4258
+Description: strip won't strip non-executable files on XFS
+Resolution: DUPLICATE
+
+Bug ID: 9369
+Description: stuck nfsd processes with 2.6.24-rc2
+Resolution: DUPLICATE
+
+Bug ID: 34892
+Description: ACPI Error: could not map memory + ACPI Error: parsing error \_PR_.CPU1
+Resolution: DUPLICATE
+
+Bug ID: 9588
+Description: Smart Battery not recognized by sbs module
+Resolution: DUPLICATE
+
+Bug ID: 37242
+Description: lockdep deadlock warning in shutdown
+Resolution: DUPLICATE
+
+Bug ID: 2888
+Description: lost interrupt : fujitsu-siemens
+Resolution: DUPLICATE
+
+Bug ID: 6305
+Description: Cannot allocate resource region
+Resolution: DUPLICATE
+
+Bug ID: 156271
+Description: Wifi suddenly stops working
+Resolution: DUPLICATE
+
+Bug ID: 10454
+Description: (probably) BIOS bug in Fujitsu Lifebook S6410
+Resolution: DUPLICATE
+
+Bug ID: 667
+Description: Removing USB mass storage causes slab corruption, oops
+Resolution: DUPLICATE
+
+Bug ID: 42202
+Description: Caught 64-bit read from uninitialized memory in kmem_cache_alloc
+Resolution: DUPLICATE
+
+Bug ID: 71171
+Description: Computer hang because connect external USB HDD and not enough amperage for work.
+Resolution: DUPLICATE
+
+Bug ID: 6159
+Description: nfs/direct.c:127:: error: static declaration of 
+Resolution: DUPLICATE
+
+Bug ID: 15306
+Description: Filesystem I/O is CPU-bound
+Resolution: DUPLICATE
+
+Bug ID: 14309
+Description: MCA on hp rx8640
+Resolution: DUPLICATE
+
+Bug ID: 10207
+Description: INFO: task mount:11202 blocked for more than 120 seconds
+Resolution: DUPLICATE
+
+Bug ID: 1248
+Description: need CONFIG_ACPI_RELAXED_AML
+Resolution: DUPLICATE
+
+Bug ID: 125
+Description: PCI compile error
+Resolution: DUPLICATE
+
+Bug ID: 9952
+Description: 2.6.25-rc1: Lguest build failure
+Resolution: DUPLICATE
+
+Bug ID: 199869
+Description: use-after-free in ext4_journal_get_write_access() when mounting and operating a crafted ext4 image
+Resolution: DUPLICATE
+
+Bug ID: 4663
+Description: usbnet broken - can't connect to zaurus
+Resolution: DUPLICATE
+
+Bug ID: 13018
+Description: 2.6.29 on MacBook 2,1 fails to reboot
+Resolution: DUPLICATE
+
+Bug ID: 15081
+Description: Not mount USB-Storage
+Resolution: DUPLICATE
+
+Bug ID: 8545
+Description: "cat /proc/acpi/debug_level" truncated
+Resolution: DUPLICATE
+
+Bug ID: 9740
+Description: pnpacpi : exceeded the max number of IO resources
+Resolution: DUPLICATE
+
+Bug ID: 48921
+Description: iwlwifi triggers HW restart each 300 seconds
+Resolution: DUPLICATE
+
+Bug ID: 7485
+Description: Unable to handle kernel paging request for data at address 0x5a5a5a5a5a5a5a5a
+Resolution: DUPLICATE
+
+Bug ID: 9188
+Description: No fan control on Lenovo 3000 V100 (Model 0763-4NH)
+Resolution: DUPLICATE
+
+Bug ID: 15463
+Description: DRI seems to clash with disk I/O
+Resolution: DUPLICATE
+
+Bug ID: 4371
+Description: Battery doesn't work after suspend
+Resolution: DUPLICATE
+
+Bug ID: 10040
+Description: [ALSA] 2.6.25-rc2 compilation broken
+Resolution: DUPLICATE
+
+Bug ID: 156191
+Description: intel_sst_acpi 808622A8:00: No matching machine driver found
+Resolution: DUPLICATE
+
+Bug ID: 6481
+Description: kernel: hdc: cdrom_pc_intr: The drive appears confused (ireason = 0x01)
+Resolution: DUPLICATE
+
+Bug ID: 24542
+Description: kernel 2.6.36 - intel i915 - random crashes
+Resolution: DUPLICATE
+
+Bug ID: 10758
+Description: ieee80211: unable to handle kernel NULL pointer dereference
+Resolution: DUPLICATE
+
+Bug ID: 16122
+Description: 2.6.35-rc1: WARNING at fs/fs-writeback.c:1142 __mark_inode_dirty+0x103/0x170
+Resolution: DUPLICATE
+
+Bug ID: 14074
+Description: Oops on disk access after suspend/resume
+Resolution: DUPLICATE
+
+Bug ID: 5032
+Description: Sempron 2800+ (1.6GHz) sleeps half as long as it should
+Resolution: DUPLICATE
+
+Bug ID: 61581
+Description: WARNING: at drivers/pci/search.c:46 pci_find_upstream_pcie_bridge+0x59/0x80()
+Resolution: DUPLICATE
+
+Bug ID: 2067
+Description: Battery status not displayed
+Resolution: DUPLICATE
+
+Bug ID: 8951
+Description: Suspend to RAM - Bug
+Resolution: DUPLICATE
+
+Bug ID: 2595
+Description: 3c59x driver fails with ACPI on IBM Thinkpad T22
+Resolution: DUPLICATE
+
+Bug ID: 3810
+Description: Bug tracker cannot attach patch
+Resolution: DUPLICATE
+
+Bug ID: 1012
+Description: 2.5.x - acpi doesn't like my power status
+Resolution: DUPLICATE
+
+Bug ID: 788
+Description: Security!->Chmod changes two files instead of one on ext3fs !
+Resolution: DUPLICATE
+
+Bug ID: 16189
+Description: sis191 fails during iperf
+Resolution: DUPLICATE
+
+Bug ID: 10229
+Description: revert "ACPI: thermal fixup"
+Resolution: DUPLICATE
+
+Bug ID: 108271
+Description: iwlwifi-7265: connection freezes with firmware version 17.246894.0
+Resolution: DUPLICATE
+
+Bug ID: 8324
+Description: sky2 hangs
+Resolution: DUPLICATE
+
+Bug ID: 50031
+Description: soc camera driver module may case memory leak
+Resolution: DUPLICATE
+
+Bug ID: 4160
+Description: Computer don't off
+Resolution: DUPLICATE
+
+Bug ID: 20532
+Description: Kernel locks up in macb interrupt handler on a flooded network
+Resolution: DUPLICATE
+
+Bug ID: 21162
+Description: Acpi on or off doesn't matter.
+Resolution: DUPLICATE
+
+Bug ID: 79711
+Description: iwlwifi 0000:01:00.0: fail to flush all tx fifo queues Q 2
+Resolution: DUPLICATE
+
+Bug ID: 62451
+Description: [drm:intel_pipe_config_compare] *ERROR* mismatch in adjusted_mode.flags (expected 2, found 0)
+Resolution: DUPLICATE
+
+Bug ID: 106641
+Description: Problem with SHIFT, ALT and CTRL buttons of keyboard
+Resolution: DUPLICATE
+
+Bug ID: 1697
+Description: ACPI Powermanangemet (Speedstep) does not work anymore
+Resolution: DUPLICATE
+
+Bug ID: 7136
+Description: Ide driver piix.c does not implement suspend/resume. Resume from ram suspend takes 30  seconds waiting for HD to spin up - piix.c doesn't implement resume/suspend.
+Resolution: DUPLICATE
+
+Bug ID: 16304
+Description: i915 - high number of wakeups
+Resolution: DUPLICATE
+
+Bug ID: 15800
+Description: _PR namespace not initialised on HP Pavilion dm1 with Intel Celeron SU2300
+Resolution: DUPLICATE
+
+Bug ID: 7138
+Description: modprobe eth modules random loading order
+Resolution: DUPLICATE
+
+Bug ID: 4599
+Description: DMA cannot be reenabled after an IDE device has been unregistered and reregistered
+Resolution: DUPLICATE
+
+Bug ID: 10228
+Description: endless loop in native_flush_tlb_others in smp_64.c
+Resolution: DUPLICATE
+
+Bug ID: 8049
+Description: Fan does not start - Fujitsu-Siemens Amilo l1310g
+Resolution: DUPLICATE
+
+Bug ID: 14526
+Description: no battery information after suspend
+Resolution: DUPLICATE
+
+Bug ID: 6547
+Description: MPPE Encrypt Decrypt module bug.
+Resolution: DUPLICATE
+
+Bug ID: 106401
+Description: A pair of i915 traces
+Resolution: DUPLICATE
+
+Bug ID: 3420
+Description: CPU load is 100% on any read/write operations
+Resolution: DUPLICATE
+
+Bug ID: 8067
+Description: paging opps in keyring_destroy
+Resolution: DUPLICATE
+
+Bug ID: 15586
+Description: Unable to adjust backlight - Gateway M7315U
+Resolution: DUPLICATE
+
+Bug ID: 29742
+Description: Dell E6510 with Nvidia unable to wake up
+Resolution: DUPLICATE
+
+Bug ID: 7486
+Description: sata_promise/hdparm freeze on setting write_cache off
+Resolution: DUPLICATE
+
+Bug ID: 29042
+Description: Cannot set sens with iwconfig for ath5k
+Resolution: DUPLICATE
+
+Bug ID: 192691
+Description: iwlwifi: 8260: ASSERT UMAC 067 in sniffer mode - WIFILNX-94
+Resolution: DUPLICATE
+
+Bug ID: 7087
+Description: ext3 filesystem ro remounted during i/o traffic
+Resolution: DUPLICATE
+
+Bug ID: 96391
+Description: iwlwifi crash with REPLY_ADD_STA time out.
+Resolution: DUPLICATE
+
+Bug ID: 72641
+Description: NO BATTERY ICON DISPLAYED-POWER MANAGEMENT ISSUE
+Resolution: DUPLICATE
+
+Bug ID: 194697
+Description: Xorg freeze on Apple MacBook Pro 8,2
+Resolution: DUPLICATE
+
+Bug ID: 8547
+Description: "Hardware error - pending bit very stuck" on Mobile AMD Sempron
+Resolution: DUPLICATE
+
+Bug ID: 68371
+Description: NFSv4.0 on RDMA kernel panic when decoding READDIR result
+Resolution: DUPLICATE
+
+Bug ID: 530
+Description: dma not enabled for IDE hard drives
+Resolution: DUPLICATE
+
+Bug ID: 15841
+Description: dell optiplex 755 with sata controller in ahci mode won't boot without pci=nocrs
+Resolution: DUPLICATE
+
+Bug ID: 4329
+Description: USB-HDD were not recognized
+Resolution: DUPLICATE
+
+Bug ID: 3004
+Description: mouse wheel stops working after using kvm switch
+Resolution: DUPLICATE
+
+Bug ID: 1742
+Description: Enabling DMA while MD array rebuilding causes hard hang
+Resolution: DUPLICATE
+
+Bug ID: 14492
+Description: speedstep-ich with compaq evo n800c not working anymore since 2.6.31.4
+Resolution: DUPLICATE
+
+Bug ID: 60881
+Description: Dell XPS 13 (L322X) display does not work anymore with kernel 3.10
+Resolution: DUPLICATE
+
+Bug ID: 63091
+Description: iwlwifi - frequent drops on wifi - possible regression (was OK in 3.12rc4)
+Resolution: DUPLICATE
+
+Bug ID: 3718
+Description: ALSA nm256 driver causes system lockup
+Resolution: DUPLICATE
+
+Bug ID: 4399
+Description: Source code release of frame buffer device for XGI Volari V5,V8 and V3XT
+Resolution: DUPLICATE
+
+Bug ID: 2963
+Description: ACPI Oopses since 2.6.6 on Intel S875WP1-E Board while booting
+Resolution: DUPLICATE
+
+Bug ID: 15710
+Description: NumLock LED stays on after PC poweroff.
+Resolution: DUPLICATE
+
+Bug ID: 67861
+Description: Venue 8 Pro (valleyview): 'unable to handle kernel paging request' error and trace in __add_pin_to_irq_node on boot
+Resolution: DUPLICATE
+
+Bug ID: 630
+Description: stream of bugus retval mask errors from ips on boot
+Resolution: DUPLICATE
+
+Bug ID: 14422
+Description: EXT4 is corrupted after clean shutdown
+Resolution: DUPLICATE
+
+Bug ID: 3838
+Description: 2.6.9-gentoo-r3, 2.6.9-gentoo-r4 and 2.6.10-rc2 crash with mplayer and celestia
+Resolution: DUPLICATE
+
+Bug ID: 15766
+Description: iwlagn failing order 2 allocations
+Resolution: DUPLICATE
+
+Bug ID: 83821
+Description: After two successfull suspend/resume in a row the third suspend fails
+Resolution: DUPLICATE
+
+Bug ID: 59771
+Description: mode selection on edp panel fails (dell xps 13 ivy bridge 1080p version)
+Resolution: DUPLICATE
+
+Bug ID: 12178
+Description: Xorg crash at first start
+Resolution: DUPLICATE
+
+Bug ID: 16616
+Description: kmemcheck: Fatal error since 2.6.36-rc1
+Resolution: DUPLICATE
+
+Bug ID: 7628
+Description: all vanilla kernels crash, also debian and ubuntu kernels. xen'ified kernels are 100% stable
+Resolution: DUPLICATE
+
+Bug ID: 14912
+Description: WARNING: at fs/notify/inotify/inotify_fsnotify.c:129
+Resolution: DUPLICATE
+
+Bug ID: 104701
+Description: Intel Wireless 7260 Microcode SW error detected on association in monitor mode
+Resolution: DUPLICATE
+
+Bug ID: 113351
+Description: i7-6500U CPU on Thinkpad X1 Yoga does not boot without intel_pstate=no_hwp
+Resolution: DUPLICATE
+
+Bug ID: 42659
+Description: PCI extension cards not working (Disabling IRQ) with Asus Z68 board based on Sandy Bridge chipset and ASM1083 PCIe to PCI bridge
+Resolution: DUPLICATE
+
+Bug ID: 10793
+Description: Missing asm/page.h on X86 kernel header install
+Resolution: DUPLICATE
+
+Bug ID: 7218
+Description: PCI: Cannot allocate resource region 7 of bridge 0000:00:1c.0
+Resolution: DUPLICATE
+
+Bug ID: 100801
+Description: iwlwifi: 7265: TFD queue hang
+Resolution: DUPLICATE
+
+Bug ID: 8095
+Description: pata_via: ACPI dsopcode and psparse error
+Resolution: DUPLICATE
+
+Bug ID: 198017
+Description: iwlwifi: microcode error and kernel panic with Intel wireless 8260
+Resolution: DUPLICATE
+
+Bug ID: 10902
+Description: "Write Protect is on" error
+Resolution: DUPLICATE
+
+Bug ID: 15820
+Description: [REGRESSION 2.6.34] Suspend fails in pm_test=processor on Dell laptop
+Resolution: DUPLICATE
+
+Bug ID: 100431
+Description: rt5642 no sound / drivers for T100TAF
+Resolution: DUPLICATE
+
+Bug ID: 65261
+Description: Packet loss or excessive packet delay repeatedly for some seconds
+Resolution: DUPLICATE
+
+Bug ID: 4300
+Description: hpt366 S-ATA driver causes the kernel to freeze when probing for disks
+Resolution: DUPLICATE
+
+Bug ID: 22462
+Description: 2.6.33.1 Regression: Unexpected power-off during boot or when resuming from suspend on Vostro V13
+Resolution: DUPLICATE
+
+Bug ID: 111001
+Description: Surface Pro 4 doesn't receive notification of adapter status update.
+Resolution: DUPLICATE
+
+Bug ID: 8493
+Description: 2.6.21 regression - BAT0 no longer seen, Method parse/execution failed [\_SB_.PCI0.SBRG.EC0_.BATS] - ASUSTek M6NE
+Resolution: DUPLICATE
+
+Bug ID: 70691
+Description: kernel: general protection fault: 0000 [#1] SMP
+Resolution: DUPLICATE
+
+Bug ID: 793
+Description: Thinkpad T30, new BIOS, and ACPI
+Resolution: DUPLICATE
+
+Bug ID: 15236
+Description: Unhandled sense code
+Resolution: DUPLICATE
+
+Bug ID: 112011
+Description: Bug in net/sched/sch_hfsc.c
+Resolution: DUPLICATE
+
+Bug ID: 5989
+Description: S3 sleep hangs the second time - 600X
+Resolution: DUPLICATE
+
+Bug ID: 11592
+Description: make rpm-pkg error
+Resolution: DUPLICATE
+
+Bug ID: 98091
+Description: kernel/sched/core.c:7291 __might_sleep+0x87/0x90()
+Resolution: DUPLICATE
+
+Bug ID: 1721
+Description: S3 resume hangs -- fujitsu-siemens e6624
+Resolution: DUPLICATE
+
+Bug ID: 9946
+Description: [Wireless, ath5k] 2.6.24-git13 9135f1901ee6449dfe338adf6e40e9c2025b8150
+Resolution: DUPLICATE
+
+Bug ID: 3909
+Description: S3 failure -- HP nx5000
+Resolution: DUPLICATE
+
+Bug ID: 14506
+Description: Backlight not working when KMS is enabled
+Resolution: DUPLICATE
+
+Bug ID: 4846
+Description: ACPI-0287: *** Error: Region EmbeddedControl(3) has no handler
+Resolution: DUPLICATE
+
+Bug ID: 10014
+Description: commit 45b503548210fe6f23e92b856421c2a3f05fd034 is broken
+Resolution: DUPLICATE
+
+Bug ID: 1513
+Description: GeForce MX 440 (10DE0171) and rivafb - rubbish on screen
+Resolution: DUPLICATE
+
+Bug ID: 26602
+Description: BUG: blank screen i915 (N10) LVDS in 2.6.37
+Resolution: DUPLICATE
+
+Bug ID: 33442
+Description: 2.6.39-rc(3?) ACPI reboot broken on HP Compaq nx7300.
+Resolution: DUPLICATE
+
+Bug ID: 9854
+Description: High-bit-set characters not displayed
+Resolution: DUPLICATE
+
+Bug ID: 561
+Description: Build failure in drivers/net/fc/iph5526.c
+Resolution: DUPLICATE
+
+Bug ID: 12183
+Description: Poweroff doesn't - PackardBell V7900
+Resolution: DUPLICATE
+
+Bug ID: 95461
+Description: [drm:intel_cpu_fifo_underrun_irq_handler [i915]] *ERROR* CPU pipe A FIFO underrun
+Resolution: DUPLICATE
+
+Bug ID: 8748
+Description: bus hidden behind bridge / i965GM
+Resolution: DUPLICATE
+
+Bug ID: 43186
+Description: Wireless not connecting with Intel Wifi Link 5100 and N mode
+Resolution: DUPLICATE
+
+Bug ID: 843
+Description: Getting very high CPU load on Laptop with ACPI
+Resolution: DUPLICATE
+
+Bug ID: 2570
+Description: irq21 (ehci_hcd) gets hit VERY often on this nforce2 MSI-K7N2-Delta
+Resolution: DUPLICATE
+
+Bug ID: 85171
+Description: Hang on boot in 3.17+
+Resolution: DUPLICATE
+
+Bug ID: 9616
+Description: oops with macbook in target disk mode (ohci1394)
+Resolution: DUPLICATE
+
+Bug ID: 10277
+Description: ACPI Error [...] AE_NOT_FOUND -> Cpu frequency scaling not working on C2D T7250
+Resolution: DUPLICATE
+
+Bug ID: 7204
+Description: /proc/acpi/ac_adapter doesn't have its module owner
+Resolution: DUPLICATE
+
+Bug ID: 96681
+Description: Macbook sbs hangs in acpi_battery_get_state
+Resolution: DUPLICATE
+
+Bug ID: 110151
+Description: No driver for Intel Atom x7 (Cherrytrail) ISP [Surface 3]
+Resolution: DUPLICATE
+
+Bug ID: 155271
+Description: intel_sst_acpi 808622A8:00: No matching machine driver found
+Resolution: DUPLICATE
+
+Bug ID: 18882
+Description: Kernel panic in 2.6.36-rc4 after suspend/resume
+Resolution: DUPLICATE
+
+Bug ID: 9705
+Description: Cannot resume from STR on Linux
+Resolution: DUPLICATE
+
+Bug ID: 2969
+Description: S3 resume: IDE fails - Sony Vaio PCG-FXA49
+Resolution: DUPLICATE
+
+Bug ID: 8779
+Description: Method parse/execution failed [\_PR_.CPU2_PSS] AE_AML_PACKAGE_LIMIT - Asus f3jr
+Resolution: DUPLICATE
+
+Bug ID: 178601
+Description: brcmfmac regression in chip recognition
+Resolution: DUPLICATE
+
+Bug ID: 4435
+Description: IDE failure after S3 on Acer Travelmate 661lci
+Resolution: DUPLICATE
+
+Bug ID: 14740
+Description: battery status info dissapears in 2.6.32 - MSI PR200
+Resolution: DUPLICATE
+
+Bug ID: 2897
+Description: USB HDD not detected with 2.6.7 (works fine with 2.6.0-2.6.6)
+Resolution: DUPLICATE
+
+Bug ID: 116381
+Description: ALC255, power_save crashes system when headphones are plugged in on an aspire
+Resolution: DUPLICATE
+
+Bug ID: 16303
+Description: Diodes for RTL-8110SC/8169SC does not work
+Resolution: DUPLICATE
+
+Bug ID: 16000
+Description: Temporary freezes, acpi does not work
+Resolution: DUPLICATE
+
+Bug ID: 4261
+Description: No SMP support for suspend/resume
+Resolution: DUPLICATE
+
+Bug ID: 200417
+Description: [32bits] Can't resume from hibernation if KASLR is enabled
+Resolution: DUPLICATE
+
+Bug ID: 8080
+Description: First battery is not detected - regression vs 2.6.20 - Asus M6Ne
+Resolution: DUPLICATE
+
+Bug ID: 5664
+Description: Data Corruption with Kernel Version greater 2.6.10 on S-ATA System
+Resolution: DUPLICATE
+
+Bug ID: 5944
+Description: killing hciattach causes kernel oops if card was removed before
+Resolution: DUPLICATE
+
+Bug ID: 198287
+Description: NUC7i7BNH broken sensor after bios update 0060
+Resolution: DUPLICATE
+
+Bug ID: 3641
+Description: klogd: page allocation failure. order:0, mode:0x20
+Resolution: DUPLICATE
+
+Bug ID: 6955
+Description: S3 resume: No video - ASUS-P5LD2-VM  Intel 945g
+Resolution: DUPLICATE
+
+Bug ID: 85401
+Description: PCIe ASPM almost completely disabled when BOOT_ARCH[4] is set / PCIe ASPM Not supported (V4): 0x1; Intel series 8 chipset mainboard processors don't reach P-state pc6/pc7
+Resolution: DUPLICATE
+
+Bug ID: 28432
+Description: khugepaged: gets stuck when writing to USB flash, 2.6.38-rc2
+Resolution: DUPLICATE
+
+Bug ID: 11553
+Description: Strange looking line from "ps aux"
+Resolution: DUPLICATE
+
+Bug ID: 3377
+Description: set_rtc_mmss functioin smp deadlock
+Resolution: DUPLICATE
+
+Bug ID: 3809
+Description: Bug tracker cannot attach patch
+Resolution: DUPLICATE
+
+Bug ID: 7905
+Description: CIFS 1.45 fails to mount when a password is required.
+Resolution: DUPLICATE
+
+Bug ID: 7248
+Description: Microsoft Wireless Keyboard & Mouse (Wireless Desktop) not working on USB
+Resolution: DUPLICATE
+
+Bug ID: 6945
+Description: sbp2 hotplug does not seems to work properly
+Resolution: DUPLICATE
+
+Bug ID: 4267
+Description: lpfcdriver-2.6-8.0.24 failed to compile in 2.6.10 kernel
+Resolution: DUPLICATE
+
+Bug ID: 14569
+Description: BCC_LE macro in cifspdu.h
+Resolution: DUPLICATE
+
+Bug ID: 6665
+Description: Kernel is frozen during removal of SATA disk from RAID1 (sata_nv/libata/raid1 issue?)
+Resolution: DUPLICATE
+
+Bug ID: 9988
+Description: Boot ACPI error (psargs-0355): [\_SB_.PHSR] Namespace lookup failure, AE_NOT_FOUND
+Resolution: DUPLICATE
+
+Bug ID: 195461
+Description: Acer E5-575-53EJ laptop: ubuntu  boots with all wifi adapters in "device not ready" status
+Resolution: DUPLICATE
+
+Bug ID: 15425
+Description: Wrong ACPI temperature after suspend/resume
+Resolution: DUPLICATE
+
+Bug ID: 29952
+Description: btrfs as root filesystems hangs on mount after d863b50ab01333659314c2034890cb76d9fdc3c7
+Resolution: DUPLICATE
+
+Bug ID: 7094
+Description: Unpluggin USB with DVB stream hangs
+Resolution: DUPLICATE
+
+Bug ID: 14398
+Description: Blank  display on resume from Suspend-to-RAM (HP ZV5400t CTO laptop)
+Resolution: DUPLICATE
+
+Bug ID: 8528
+Description: random hangs with ati dri enabled
+Resolution: DUPLICATE
+
+Bug ID: 10005
+Description: 2.6.25-rc2 wpa_supplicant segfault and causes kernel panic
+Resolution: DUPLICATE
+
+Bug ID: 67031
+Description: Lenovo L530: the brightness is updated only for certain values multiple of 5 (max = 100)
+Resolution: DUPLICATE
+
+Bug ID: 3368
+Description: Lack of smart battery support in Linux
+Resolution: DUPLICATE
+
+Bug ID: 195239
+Description: after wake up from suspend, fan locked a full speed
+Resolution: DUPLICATE
+
+Bug ID: 1348
+Description: processor.c using byte IO even if DSDT prescribes otherwise
+Resolution: DUPLICATE
+
+Bug ID: 65801
+Description: BUG: scheduling while atomic: Compositor/22518/0x40000001
+Resolution: DUPLICATE
+
+Bug ID: 66421
+Description: I can't unblock rfkill for my wifi card.
+Resolution: DUPLICATE
+
+Bug ID: 63761
+Description: BUG: Bad page state in process chrome  pfn:6b0e1f
+Resolution: DUPLICATE
+
+Bug ID: 7670
+Description: BUG: spinlock recursion on CPU#0, swapper/0
+Resolution: DUPLICATE
+
+Bug ID: 7016
+Description: ide/pci/generic fails to claim unknown chipsets (and some distros won't install)
+Resolution: DUPLICATE
+
+Bug ID: 12222
+Description: kernel BUG at drivers/pci/intel-iommu.c:1373!
+Resolution: DUPLICATE
+
+Bug ID: 1893
+Description: running Mozilla's update routine causes kernel oops, reliably!
+Resolution: DUPLICATE
+
+Bug ID: 33772
+Description: ath: Failed to stop TX DMA in 100 msec after killing last frame
+Resolution: DUPLICATE
+
+Bug ID: 8911
+Description: Intel Core Duo 2: acpi_cpufreq fails to load
+Resolution: DUPLICATE
+
+Bug ID: 70
+Description: Local UP apic kills usb
+Resolution: DUPLICATE
+
+Bug ID: 13234
+Description: Long delays on booting time if powering from battery
+Resolution: DUPLICATE
+
+Bug ID: 197089
+Description: BUG: unable to handle kernel paging request at 000006c000000a4a
+Resolution: DUPLICATE
+
+Bug ID: 6783
+Description: Bus hidden behind transparent bridge on HP Compaq nx6125
+Resolution: DUPLICATE
+
+Bug ID: 2074
+Description: Allowed active cooling devices missmatch ACPI 2.0b specification
+Resolution: DUPLICATE
+
+Bug ID: 13696
+Description: Reading a DVD crashes the kernel
+Resolution: DUPLICATE
+
+Bug ID: 113751
+Description: Can not wake up from suspend - MacBook Pro 15 inch (Mid 2015)
+Resolution: DUPLICATE
+
+Bug ID: 6853
+Description: NFS-stress triggers Kernel BUG at mm/truncate.c:76
+Resolution: DUPLICATE
+
+Bug ID: 1938
+Description: WLAN card (orinoco_cs) not working in kernel 2.6
+Resolution: DUPLICATE
+
+Bug ID: 8298
+Description: ACPI Error (psparse-0537): Method parse/execution failed [\_PR_.CPU1._PSS]  AE_AML_PACKAGE_LIMIT - Asus F2JE
+Resolution: DUPLICATE
+
+Bug ID: 45061
+Description: Power consumption higher after resume, probably vgaswitcheroo/radeon related
+Resolution: DUPLICATE
+
+Bug ID: 2785
+Description: ACPI page fault during boot in acpi_hw_set_mode()
+Resolution: DUPLICATE
+
+Bug ID: 7556
+Description: Have to reconnect keyboard after s2ram
+Resolution: DUPLICATE
+
+Bug ID: 10560
+Description: ISA NE2000 not working on 2.6.21.5
+Resolution: DUPLICATE
+
+Bug ID: 192501
+Description: _REG execution: Xiaomi Air 13 ACPI errors in dmesg
+Resolution: DUPLICATE
+
+Bug ID: 5488
+Description: Boot fails with BIOS memory remapping enabled on an Adaptec SCSI system with Asus A8V and 4GB of RAM
+Resolution: DUPLICATE
+
+Bug ID: 43259
+Description: iwlwifi: hardware reset ("Queue 11 stuck for 10000 ms.")
+Resolution: DUPLICATE
+
+Bug ID: 7459
+Description: nfs-kernel-server does not start with exported ext3 partitions
+Resolution: DUPLICATE
+
+Bug ID: 37652
+Description: kernel oops with latencytop
+Resolution: DUPLICATE
+
+Bug ID: 3662
+Description: HDD problems when waking from S3 in Acer Aspire 1314
+Resolution: DUPLICATE
+
+Bug ID: 563
+Description: Build failure at drivers/media/video/zr36120.c
+Resolution: DUPLICATE
+
+Bug ID: 2600
+Description: Kernel oops when removing ohci_hcd module
+Resolution: DUPLICATE
+
+Bug ID: 15487
+Description: System hangs during retransmit of TCP ACK or SACK
+Resolution: DUPLICATE
+
+Bug ID: 27602
+Description: kworker/0:0: page allocation failure. order:1, mode:0x4020
+Resolution: DUPLICATE
+
+Bug ID: 111171
+Description: Oops in the i915 driver with kernel 4.4
+Resolution: DUPLICATE
+
+Bug ID: 7831
+Description: pci=assign-busses suggested when running on HP Compaq nx8220
+Resolution: DUPLICATE
+
+Bug ID: 13261
+Description: rtl8187 and associated modules prevent machine from suspend/hybernate
+Resolution: DUPLICATE
+
+Bug ID: 6575
+Description: sound only through headphones when acpi turned on
+Resolution: DUPLICATE
+
+Bug ID: 198375
+Description: Updating to 4.13 breaks keyboard but not trackpad on ASUS Chromebook C301SA
+Resolution: DUPLICATE
+
+Bug ID: 9792
+Description: Problem with ACPI on Acer Aspire 5050 (Also mentions Aspire 5053 NWXMi)
+Resolution: DUPLICATE
+
+Bug ID: 5451
+Description: 2.6.13.x ''locks'' network card.
+Resolution: DUPLICATE
+
+Bug ID: 2362
+Description: USB Modules [u|o|e]hci_hcd can't be unloaded
+Resolution: DUPLICATE
+
+Bug ID: 12810
+Description: No more Intel HDA soundcard
+Resolution: DUPLICATE
+
+Bug ID: 15371
+Description: [synaptics] possible recursive locking
+Resolution: DUPLICATE
+
+Bug ID: 12083
+Description: snail boot on GA-EP45-DS5
+Resolution: DUPLICATE
+
+Bug ID: 10703
+Description: 2.6.26-rc2 pcsp lockdep warnings
+Resolution: DUPLICATE
+
+Bug ID: 176481
+Description: System keeps locking up
+Resolution: DUPLICATE
+
+Bug ID: 5515
+Description: 2.6.14 compile fails: undefined reference to `barrier
+Resolution: DUPLICATE
+
+Bug ID: 676
+Description: make stops compiling diva.c
+Resolution: DUPLICATE
+
+Bug ID: 15032
+Description: Oops in uart_resume_port() on resume
+Resolution: DUPLICATE
+
+Bug ID: 6093
+Description: ieee1394 storage disconnects abruptly
+Resolution: DUPLICATE
+
+Bug ID: 1330
+Description: No sound from via82xx driver in mmap mode.
+Resolution: DUPLICATE
+
+Bug ID: 13094
+Description: Thinkpad X40 randomly hangs while booting.
+Resolution: DUPLICATE
+
+Bug ID: 6509
+Description: hp4x serial usb driver stopped working with 2.6.16
+Resolution: DUPLICATE
+
+Bug ID: 113441
+Description: kernel does not receive any USB3.0 plug/unplug events in certain system configurations
+Resolution: DUPLICATE
+
+Bug ID: 7796
+Description: NFS Oopses with high load
+Resolution: DUPLICATE
+
+Bug ID: 2068
+Description: Disabling IRQ #11 on yenta insert
+Resolution: DUPLICATE
+
+Bug ID: 37532
+Description: 3.0.0-rc1-git5 - INFO: suspicious rcu_dereference_check() usage
+Resolution: DUPLICATE
+
+Bug ID: 129
+Description: usb-storage crashes my pc when i plug in a SIIG Compact Flash reader
+Resolution: DUPLICATE
+
+Bug ID: 1614
+Description: Bug with scsi (emulation for my part, see logs)
+Resolution: DUPLICATE
+
+Bug ID: 9168
+Description: (pata_via) does not detect 40-wire cable
+Resolution: DUPLICATE
+
+Bug ID: 60709
+Description: With 3.10.3 / 3.10.5 screen output is "green" - looks like a green overlay
+Resolution: DUPLICATE
+
+Bug ID: 195323
+Description: ACPI customize method feature is broken
+Resolution: DUPLICATE
+
+Bug ID: 13975
+Description: BUG: unable to handle kernel paging request at 000d7a0b
+Resolution: DUPLICATE
+
+Bug ID: 1776
+Description: Some messages in syslog
+Resolution: DUPLICATE
+
+Bug ID: 7187
+Description: Integrated Gigabit LAN VIA Velocity on Abit AV8 hangs after ~6 hours of working
+Resolution: DUPLICATE
+
+Bug ID: 9175
+Description: ACPI several problems on ACER 5050-4697
+Resolution: DUPLICATE
+
+Bug ID: 210
+Description: undefined reference to .some problem with built in IO
+Resolution: DUPLICATE
+
+Bug ID: 8267
+Description: ACPI/sound issue with Toshiba laptop P100-473
+Resolution: DUPLICATE
+
+Bug ID: 744
+Description: Maestro3/Allegro-1 Soundcard has no midi support
+Resolution: DUPLICATE
+
+Bug ID: 59641
+Description: ArchLinux realtime kernel crash
+Resolution: DUPLICATE
+
+Bug ID: 43190
+Description: Syslog fills with message about reading an empty SD card slot.
+Resolution: DUPLICATE
+
+Bug ID: 3897
+Description: The linux kernel freezes when trying to access a LaCie Terabyte storage disk, connected via a Firewire 800 PCI Card
+Resolution: DUPLICATE
+
+Bug ID: 12223
+Description: kernel BUG at drivers/pci/intel-iommu.c:1373!
+Resolution: DUPLICATE
+
+Bug ID: 3367
+Description: S4 resume: problems with X server
+Resolution: DUPLICATE
+
+Bug ID: 3755
+Description: CDROM does not mount/ irq timeout/ only with ide-cdrom, not ide-scsi
+Resolution: DUPLICATE
+
+Bug ID: 12507
+Description: e100: netconsole not functional because of missing firmware
+Resolution: DUPLICATE
+
+Bug ID: 3487
+Description: Adaptec I2O SCSI driver dosen't work
+Resolution: DUPLICATE
+
+Bug ID: 173
+Description: ALSA soundblaster (AWE32) can't be compiled
+Resolution: DUPLICATE
+
+Bug ID: 153101
+Description: Dell Venue 11 Pro 7140 get suspend again while first wakeup, normally wakeup on second try
+Resolution: DUPLICATE
+
+Bug ID: 15773
+Description: 2.6.34-rc3-git9 boot hang
+Resolution: DUPLICATE
+
+Bug ID: 3203
+Description: S3 resume: video restored only w/ NVIDIA-ACPI X driver - Samsung X30 WVC1500, Dell 8600
+Resolution: DUPLICATE
+
+Bug ID: 63261
+Description: WARNING: CPU: 3 PID: 695 at kernel/lockdep.c:2740 lockdep_trace_alloc+0xdd/0xe0()
+Resolution: DUPLICATE
+
+Bug ID: 2695
+Description: Fails To Mount HDD
+Resolution: DUPLICATE
+
+Bug ID: 197729
+Description: Microcode SW error detected
+Resolution: DUPLICATE
+
+Bug ID: 3878
+Description: USB Bluetooth Dongles not working on USB 2.0 Hubs
+Resolution: DUPLICATE
+
+Bug ID: 96781
+Description: MacBook Pro early 2015 touchpad and keyboard are not fully functional
+Resolution: DUPLICATE
+
+Bug ID: 9377
+Description: 2.6.24-rc2 XFS nfsd hang
+Resolution: DUPLICATE
+
+Bug ID: 3750
+Description: Battery not recognized and ACPI-1138
+Resolution: DUPLICATE
+
+Bug ID: 43325
+Description: rfkill causes general protection fault when bluetooth speaker is connected
+Resolution: DUPLICATE
+
+Bug ID: 7067
+Description: Black screen after resume from S3
+Resolution: DUPLICATE
+
+Bug ID: 11181
+Description: power-off broken
+Resolution: DUPLICATE
+
+Bug ID: 198079
+Description: scsi sg
+Resolution: DUPLICATE
+
+Bug ID: 90351
+Description: \_SB_.PCI0:_OSC invalid UUID on Samsung NP530U3C  _OSC request data:1 1f 0
+Resolution: DUPLICATE
+
+Bug ID: 11356
+Description: Linux 2.6.27-rc3 - build failure: undefined reference to `.lockdep_count_forward_deps'
+Resolution: DUPLICATE
+
+Bug ID: 1093
+Description: mouse breaks when battery status polled - Acer Travelmate 260
+Resolution: DUPLICATE
+
+Bug ID: 16459
+Description: Socket option IP_FREEBIND undocumented.
+Resolution: DUPLICATE
+
+Bug ID: 23022
+Description: Fn keys no longer control backlight on Sony Vaio SZ650
+Resolution: DUPLICATE
+
+Bug ID: 60681
+Description: *ERROR* Kicking stuck semaphore on render ring with i915
+Resolution: DUPLICATE
+
+Bug ID: 16681
+Description: touchpad is recognized as generic mouse
+Resolution: DUPLICATE
+
+Bug ID: 14254
+Description: Hibernation broken by clocksource: Save mult_orig in clocksource_disable()
+Resolution: DUPLICATE
+
+Bug ID: 30162
+Description: xHCI Express Card causes "irq 23 nobody cared" error
+Resolution: DUPLICATE
+
+Bug ID: 11421
+Description: ACPI Exception (thermal-0377): AE_OK, No or invalid critical threshold [20080321]  - HP dv5z
+Resolution: DUPLICATE
+
+Bug ID: 8903
+Description: PCI: Bus #06 (-#09) is hidden behind transparent bridge #05 (-#05) (try 'pci=assign-busses')
+Resolution: DUPLICATE
+
+Bug ID: 15975
+Description: HP Pavillion dv6 2044el paralized just after the grub launch the kernel
+Resolution: DUPLICATE
+
+Bug ID: 1573
+Description: ProcessManagement-Preemtive kernel BUG at arch/i386/mm/fault.c:357!
+Resolution: DUPLICATE
+
+Bug ID: 3576
+Description: (sata sii) sata disk with nforce2 doesn't work
+Resolution: DUPLICATE
+
+Bug ID: 6013
+Description: compil 2.6.16-rc2-git1
+Resolution: DUPLICATE
+
+Bug ID: 84861
+Description: JMicron Technology Corp. JMB368 IDE controller dead after resume when async suspend is enabled
+Resolution: DUPLICATE
+
+Bug ID: 2677
+Description: HDD on AMD 8111 ide write cache failure.
+Resolution: DUPLICATE
+
+Bug ID: 1674
+Description: ACPI does not discover 2nd e1000 - Tyan S2707G2N
+Resolution: DUPLICATE
+
+Bug ID: 8857
+Description: ata3: port is slow to respond, please be patient (Status 0xd1)
+Resolution: DUPLICATE
+
+Bug ID: 16291
+Description: on ia64 machine, sometimes, power can't be off when "shutdown -h 0"
+Resolution: DUPLICATE
+
+Bug ID: 62941
+Description: Backlight control doesn't work with Acer Aspire 5733Z-P623G32Mikk
+Resolution: DUPLICATE
+
+Bug ID: 7783
+Description: Thinkpad 1161 43G Hangs on boot -IDE interrupt regression
+Resolution: DUPLICATE
+
+Bug ID: 34922
+Description: INFO: possible recursive locking detected: ps2_begin_command
+Resolution: DUPLICATE
+
+Bug ID: 20642
+Description: dvd drive fails on dvd's with 4gb~+ info wrighten on it.
+Resolution: DUPLICATE
+
+Bug ID: 105781
+Description: GPE flooding prevention - gpe06 interrupt storm on Macbook Pro (late 2013)
+Resolution: DUPLICATE
+
+Bug ID: 105491
+Description: GPE flooding prevention - ACPICA log improvement - ACPI AE_NOT_FOUND errors for GPE _L6F on Skylake system.
+Resolution: DUPLICATE
+
+Bug ID: 196531
+Description: Bond interface refuses to setup a slave because it cannot get its speed and duplex information
+Resolution: DUPLICATE
+
+Bug ID: 7147
+Description: garbled video after resume from suspend on Dell Inspiron 4150 - ATI Radeon
+Resolution: DUPLICATE
+
+Bug ID: 82071
+Description: OOPS in radeon_gart_unbind()
+Resolution: DUPLICATE
+
+Bug ID: 11449
+Description: The bug-filing FAQ URL is 404
+Resolution: DUPLICATE
+
+Bug ID: 28392
+Description: ACPI Error: Field [CMDX] at 224 exceeds Buffer [SCBF] size 168 (bits) (20110112/dsopcode-597)
+Resolution: DUPLICATE
+
+Bug ID: 67131
+Description: BUG: unable to handle kernel NULL pointer dereference at 0000000000000010
+Resolution: DUPLICATE
+
+Bug ID: 6370
+Description: cpufreq problems on Pentium-M
+Resolution: DUPLICATE
+
+Bug ID: 6464
+Description: drivers/char/pcmcia/synclink_cs.c:4554: undefined reference to `unregister_hdlc_device'
+Resolution: DUPLICATE
+
+Bug ID: 9082
+Description: something broke resume from s2ram on mbp c1d (??? :))
+Resolution: DUPLICATE
+
+Bug ID: 9181
+Description: cpu frequency governer does not change cpu frequency after hibernation and comeback
+Resolution: DUPLICATE
+
+Bug ID: 11501
+Description: Failed to open destination file: Permission deniedihex2fw
+Resolution: DUPLICATE
+
+Bug ID: 47991
+Description: [Ubuntu 12.04.1 LTS 32-bit] SiS chipset USB wakes up the system from ACPI S3 State instantly bug
+Resolution: DUPLICATE
+
+Bug ID: 11922
+Description: USB printer finding problem (USB 1.x)
+Resolution: DUPLICATE
+
+Bug ID: 11984
+Description: regression when switching TTY->X, input related?
+Resolution: DUPLICATE
+
+Bug ID: 12390
+Description: Notebook "pauses" when very idle with tickless kernel enabled
+Resolution: DUPLICATE
+
+Bug ID: 88421
+Description: data loss
+Resolution: DUPLICATE
+
+Bug ID: 63521
+Description: general protection fault: 0000 [#1] SMP
+Resolution: DUPLICATE
+
+Bug ID: 454
+Description: On kernel loading it shows errors
+Resolution: DUPLICATE
+
+Bug ID: 42643
+Description: oops during resume from s2disk
+Resolution: DUPLICATE
+
+Bug ID: 22702
+Description: divide error in select_task_rq_fair()
+Resolution: DUPLICATE
+
+Bug ID: 48101
+Description: [Ubuntu 12.04 LTS 32-bit] NVIDIA nForce 650i SLI and nForce 430i USB related ACPI S3 State Entry Failure
+Resolution: DUPLICATE
+
+Bug ID: 53011
+Description: Resumed system freezes - Toshiba Tecra R950-117
+Resolution: DUPLICATE
+
+Bug ID: 12873
+Description: irq 9: nobody cared - 2.6.26 regression - Toshiba Satellite P305D-S8828
+Resolution: DUPLICATE
+
+Bug ID: 1036
+Description: Badness in local_bh_enable at kernel/softirq.c:113
+Resolution: DUPLICATE
+
+Bug ID: 9731
+Description: 2.6.24-rc7: Deadlock when any ACPI eject sys node written
+Resolution: DUPLICATE
+
+Bug ID: 13299
+Description: reiserfs: WARNING: at fs/namei.c:1251 lookup_one_len
+Resolution: DUPLICATE
+
+Bug ID: 13295
+Description: WARNING: at fs/namei.c:1251 lookup_one_len+0xda/0xf0()
+Resolution: DUPLICATE
+
+Bug ID: 1658
+Description: No power off on poweroff command on IBM R40
+Resolution: DUPLICATE
+
+Bug ID: 10072
+Description: WARNING: at arch/x86/mm/ioremap.c:137 __ioremap+0x1d5/0x1f0() during bootup
+Resolution: DUPLICATE
+
+Bug ID: 7417
+Description: suspend to disk -> resume -> X with DRI extension on R100 chips hangs
+Resolution: DUPLICATE
+
+Bug ID: 16096
+Description: ACPI Error: ACPI path has too many parent prefixes and EC related issues
+Resolution: DUPLICATE
+
+Bug ID: 14904
+Description: slab: possible recursive locking detected
+Resolution: DUPLICATE
+
+Bug ID: 2350
+Description: rmmod processor.ko can panic() if CONFIG_PREEMPT is enabled
+Resolution: DUPLICATE
+
+Bug ID: 50661
+Description: sata_via VT8237 incompatibility with new WD drives
+Resolution: DUPLICATE
+
+Bug ID: 27662
+Description: [REGRESSION] S3 resume on SandyBridge doesn't work with NX protection (5bd5a45)
+Resolution: DUPLICATE
+
+Bug ID: 5932
+Description: PS/2 keyboard does not work with 2.6.15, 2.6.16rc1; BIOS USB legacy emulation
+Resolution: DUPLICATE
+
+Bug ID: 13252
+Description: "bio too big device md0" and possible data corruption
+Resolution: DUPLICATE
+
+Bug ID: 84221
+Description: Failure to recognize ATI backlight when off A/C power/using battery power
+Resolution: DUPLICATE
+
+Bug ID: 6435
+Description: PROBLEM: device-mapper SnapShots freeze Machine
+Resolution: DUPLICATE
+
+Bug ID: 1689
+Description: Via quirk fails to move interrupt on 2.6 -- worked on 2.4 -- IOAPIC
+Resolution: DUPLICATE
+
+Bug ID: 6742
+Description: Size of initramfs_data.cpio.gz is doubled.
+Resolution: DUPLICATE
+
+Bug ID: 1978
+Description: USB speedtch unplugging causes oops (in modem_run?)
+Resolution: DUPLICATE
+
+Bug ID: 1546
+Description: pppoe badness on connect failure/timeout
+Resolution: DUPLICATE
+
+Bug ID: 196837
+Description: keyboard fails after upgrade to 4.13.0 from 4.13.0-rc7
+Resolution: DUPLICATE
+
+Bug ID: 9127
+Description: boothang on mmconfig seen on desktop intel board DG33FB
+Resolution: DUPLICATE
+
+Bug ID: 20662
+Description: dvd drive fails on dvd's with 4gb~+ info on it.
+Resolution: DUPLICATE
+
+Bug ID: 2251
+Description: Battery Removal Undetected on Dell Inspiron 5150
+Resolution: DUPLICATE
+
+Bug ID: 13239
+Description: kernel BUG at arch/x86/kernel/irq_32.c:219!
+Resolution: DUPLICATE
+
+Bug ID: 11191
+Description: 2.6.26-git8: spinlock lockup in c1e_idle()
+Resolution: DUPLICATE
+
+Bug ID: 62291
+Description: mismatch in adjusted_mode.flags (expected 2, found 0)
+Resolution: DUPLICATE
+
+Bug ID: 6157
+Description: compile error in fs/nfs/direct.c: static declaration of 
+Resolution: DUPLICATE
+
+Bug ID: 12721
+Description: Hibernation Resumes Immediately on Acer Aspire 1690
+Resolution: DUPLICATE
+
+Bug ID: 83871
+Description: Lite-On Technology Corp. [04ca:2007] - Broadcom BCM43142A0
+Resolution: DUPLICATE
+
+Bug ID: 50681
+Description: kernel BUG at kernel/sched/core.c:1654 - acpi_processor_set_throttling() - HP Elitebook 8530w/30E7
+Resolution: DUPLICATE
+
+Bug ID: 11220
+Description: Screen stays black after resume
+Resolution: DUPLICATE
+
+Bug ID: 16546
+Description: 2.6.35.1 - kernel/sched.c:616 invoked rcu_dereference_check() without protection!
+Resolution: DUPLICATE
+
+Bug ID: 200713
+Description: SMBus timeout on asus laptop
+Resolution: DUPLICATE
+
+Bug ID: 5006
+Description: nForce 2 doesn't power-off
+Resolution: DUPLICATE
+
+Bug ID: 9529
+Description: General protection fault in thread_return, called by hrtimer code
+Resolution: DUPLICATE
+
+Bug ID: 2192
+Description: A game (enemy territory) has abnormal load times with 2.6
+Resolution: DUPLICATE
+
+Bug ID: 14937
+Description: WARNING: at kernel/lockdep.c:2830
+Resolution: DUPLICATE
+
+Bug ID: 451
+Description: unexpected IO-APIC
+Resolution: DUPLICATE
+
+Bug ID: 15759
+Description: my KDE-4.4.2 BAttery Monitor APplet dislike the ACPI changes in 2.6.34-rc3  betweeen f5284e7..cf90bfe
+Resolution: DUPLICATE
+
+Bug ID: 8675
+Description: SATA disks cannot be initialized if acpi is build into the kernel
+Resolution: DUPLICATE
+
+Bug ID: 12175
+Description: ath5k: connection sometimes fails, especially with WPA
+Resolution: DUPLICATE
+
+Bug ID: 1280
+Description: Reading ACPI info from /proc filesystem pauses system
+Resolution: DUPLICATE
+
+Bug ID: 6387
+Description: Various Linux distributions fail without ACPI disabled.
+Resolution: DUPLICATE
+
+Bug ID: 197331
+Description: iwlwifi: 7265: ASSERT 1007 when using AES-CCM and connecting with Mikrotik/RouterOS
+Resolution: DUPLICATE
+
+Bug ID: 26342
+Description: i801_i2c fails to load in 2.6.32: ACPI: resource ... conflicts with ACPI region...
+Resolution: DUPLICATE
+
+Bug ID: 6549
+Description: acpi_gbl_global_list randomly gets corroputed
+Resolution: DUPLICATE
+
+Bug ID: 1127
+Description: Asus PR-DLSW: Cannot boot with ACPI enabled
+Resolution: DUPLICATE
+
+Bug ID: 7575
+Description: Bus #03 (-#06) is hidden behind transparent bridge #01
+Resolution: DUPLICATE
+
+Bug ID: 14655
+Description: swapper generated call trace in 2.6.32-rc7
+Resolution: DUPLICATE
+
+Bug ID: 11214
+Description: 2.6.27-rc1: I/O errors after resume
+Resolution: DUPLICATE
+
+Bug ID: 2250
+Description: S3 resume: no video - Dell Latitude x200
+Resolution: DUPLICATE
+
+Bug ID: 16229
+Description: [REGRESSION]linux-2.6.35-rc3 in net/core/dev.c
+Resolution: DUPLICATE
+
+Bug ID: 12173
+Description: iwlwifi: wrong command queue 63, command id 0x0
+Resolution: DUPLICATE
+
+Bug ID: 1585
+Description: pci=noacpi required on P3/ServerWorks LE - 2xIOAPIC mode
+Resolution: DUPLICATE
+
+Bug ID: 16404
+Description: via velocity unusable after resume from suspend-to-disk (S4?)
+Resolution: DUPLICATE
+
+Bug ID: 1178
+Description: Initio 9100 driver should be updated for DMA-mappings
+Resolution: DUPLICATE
+
+Bug ID: 11187
+Description: [crash, bisected] Kernel BUG at ffffffff8079afb1 (__netif_schedule())
+Resolution: DUPLICATE
+
+Bug ID: 5883
+Description: PCI: Cannot allocate resource region (Motherboard: Epox 9HEAI - VIA K8T890 chipset)
+Resolution: DUPLICATE
+
+Bug ID: 4091
+Description: incorrect flags for kmalloc
+Resolution: DUPLICATE
+
+Bug ID: 10763
+Description: iwl3945/mac80211: association times out since 2.6.26-rc1
+Resolution: DUPLICATE
+
+Bug ID: 4911
+Description: Temp and voltages readings -- _TMP -- AE_TIME - Acer Aspire 5020
+Resolution: DUPLICATE
+
+Bug ID: 116711
+Description: yoga 900 does not reach lower power states
+Resolution: DUPLICATE
+
+Bug ID: 110871
+Description: iwlwifi fails to load firmware on iwl7260 when wifi is disabled (regression)
+Resolution: DUPLICATE
+
+Bug ID: 14173
+Description: w83627dhg temp & fan sensors are unavailable due to coflict with ACPI
+Resolution: DUPLICATE
+
+Bug ID: 14664
+Description: AR5008 with ath9k -> No probe response from AP ${AP_MAC} after 500ms, disconnecting.
+Resolution: DUPLICATE
+
+Bug ID: 12587
+Description: using >= linux-2.6.26-gentoo-r4 machine hangs when start hibernating
+Resolution: DUPLICATE
+
+Bug ID: 4745
+Description: On Running NFS stress test kernel came with oops, Failure with tcp
+Resolution: DUPLICATE
+
+Bug ID: 172911
+Description: iwlwifi 0000:01:00.0: Microcode SW error detected. Restarting 0x2000000.
+Resolution: DUPLICATE
+
+Bug ID: 3853
+Description: Special buttons are out of sync
+Resolution: DUPLICATE
+
+Bug ID: 187611
+Description: ASRock H170A-X1 (D): Rear Microphone Jack mapped to Line-Out
+Resolution: DUPLICATE
+
+Bug ID: 7647
+Description: sky2 88E8053 is going to down if it has big traffic
+Resolution: DUPLICATE
+
+Bug ID: 12226
+Description: ath5k sometimes hardlocks machine
+Resolution: DUPLICATE
+
+Bug ID: 5186
+Description: performance drop down 300% and more with high cpu load
+Resolution: DUPLICATE
+
+Bug ID: 110331
+Description: Lenovo Yoga 900 trackpad and touchscreen doesn't work
+Resolution: DUPLICATE
+
+Bug ID: 3002
+Description: ACPI subsystem not working unless "nolapic"
+Resolution: DUPLICATE
+
+Bug ID: 14412
+Description: pvrusb2: USB GOTVIEW DVD2 tuner does not work anymore
+Resolution: DUPLICATE
+
+Bug ID: 11203
+Description: error building linus tree (2.6.27-rc1)
+Resolution: DUPLICATE
+
+Bug ID: 57871
+Description: Cpu frequency scaling not working after waking up from suspend.
+Resolution: DUPLICATE
+
+Bug ID: 6444
+Description: (net 3c59x) transmit timed out
+Resolution: DUPLICATE
+
+Bug ID: 3098
+Description: vaio preempt + acpi ac/battery trouble
+Resolution: DUPLICATE
+
+Bug ID: 11857
+Description: no lid switch, ac adapter, or power button events - Sony VAIO VGN-SZ650N
+Resolution: DUPLICATE
+
+Bug ID: 57151
+Description: Backlight controls do not work
+Resolution: DUPLICATE
+
+Bug ID: 63231
+Description: Black screen after Boot
+Resolution: DUPLICATE
+
+Bug ID: 65581
+Description: ethernet controller don't have statistics info available
+Resolution: DUPLICATE
+
+Bug ID: 2921
+Description: Nullpointer exception in PCMCIA code
+Resolution: DUPLICATE
+
+Bug ID: 3360
+Description: EHCI fails to load after unexpected mouse disconnect
+Resolution: DUPLICATE
+
+Bug ID: 25862
+Description: amd64-agp causing oops
+Resolution: DUPLICATE
+
+Bug ID: 11390
+Description: forcedeth 10de:0373 doesn't work on resume
+Resolution: DUPLICATE
+
+Bug ID: 2689
+Description: ide: lost interrupt
+Resolution: DUPLICATE
+
+Bug ID: 106151
+Description: ACPI Lid broken, need samsung-laptop.lid_handling=1. - Samsung N210 Plus
+Resolution: DUPLICATE
+
+Bug ID: 15754
+Description: IP: [<ffffffffa0207589>] drm_mm_search_free+0x49/0x90 [drm] BUG: unable to handle kernel NULL pointer dereference at (null)
+Resolution: DUPLICATE
+
+Bug ID: 1605
+Description: cursor on tty2, tty3, tty4 and so on behaves strage
+Resolution: DUPLICATE
+
+Bug ID: 192091
+Description: iwlwifi N6205 firmware crash
+Resolution: DUPLICATE
+
+Bug ID: 13208
+Description: IPv6 Privacy extension doesn't
+Resolution: DUPLICATE
+
+Bug ID: 61741
+Description: MacBook Air 6,2 No sound after resume from s3
+Resolution: DUPLICATE
+
+Bug ID: 7484
+Description: Unable to handle kernel paging request for data at address 0x5a5a5a5a5a5a5a5a
+Resolution: DUPLICATE
+
+Bug ID: 11545
+Description: e1000e: Sometimes causes resume from suspend to RAM to fail
+Resolution: DUPLICATE
+
+Bug ID: 3310
+Description: Filling up XFS volumes freezes system
+Resolution: DUPLICATE
+
+Bug ID: 14928
+Description: Samsung N140 ATA exception after 5min uptime
+Resolution: DUPLICATE
+
+Bug ID: 15556
+Description: ata1 timeouts on 2.6.34-rc1
+Resolution: DUPLICATE
+
+Bug ID: 9769
+Description: CONFIG_SCSI_WAIT_SCAN configure error
+Resolution: DUPLICATE
+
+Bug ID: 12600
+Description: i915 lockdep warning
+Resolution: DUPLICATE
+
+Bug ID: 114221
+Description: there exists a wrong return value of function ieee802154_add_iface()
+Resolution: DUPLICATE
+
+Bug ID: 8919
+Description: Broken hotkeys on ASUS A6Km notebook with 2.6.23-rc3.
+Resolution: DUPLICATE
+
+Bug ID: 16257
+Description: sysfs changes break hwsim and bnep drivers
+Resolution: DUPLICATE
+
+Bug ID: 175471
+Description: warn_slowpath triggered by iwl_mvm_mac_ctxt_add after toggling rfkill switch
+Resolution: DUPLICATE
+
+Bug ID: 10339
+Description: Kernel oops (2.6.24) while booting with battery inserted
+Resolution: DUPLICATE
+
+Bug ID: 199171
+Description: battery drain while off (HP Pavilion 15 gaming AK112NL)
+Resolution: DUPLICATE
+
+Bug ID: 64511
+Description: GPF in read_extent_buffer
+Resolution: DUPLICATE
+
+Bug ID: 62711
+Description: USB-related NULL pointer dereference
+Resolution: DUPLICATE
+
+Bug ID: 5820
+Description: aic7xxx with tape drive connected
+Resolution: DUPLICATE
+
+Bug ID: 6920
+Description: prism54 doesn't work at all after upgrade to 2.6.17
+Resolution: DUPLICATE
+
+Bug ID: 7259
+Description: fan stops working after one resume cycle
+Resolution: DUPLICATE
+
+Bug ID: 10291
+Description: 2.6.25-rc6 hangs at resume after suspend to RAM on Mac mini Core Duo
+Resolution: DUPLICATE
+
+Bug ID: 114661
+Description: Elantech ETPS/2 touchpad doesn't work after suspend
+Resolution: DUPLICATE
+
+Bug ID: 200109
+Description: BUG: KASAN: use-after-free in ext4_xattr_set_entry fs/ext4/xattr.c:1598
+Resolution: DUPLICATE
+
+Bug ID: 45491
+Description: kernel panics after using the hotkey to disable then re-enable the wifi
+Resolution: DUPLICATE
+
+Bug ID: 5092
+Description: Kernel panic during boot. Only when CONFIG_ACPI_ASUS is set.
+Resolution: DUPLICATE
+
+Bug ID: 38232
+Description: kernel bug at drivers/gpu/drm/ttm/ttm_bo.c:272
+Resolution: DUPLICATE
+
+Bug ID: 3827
+Description: No relative acpi object, but need support(no thermal and fan support)
+Resolution: DUPLICATE
+
+Bug ID: 5805
+Description: sleeping function called from invalid context at include/asm/semaphore.h:99
+Resolution: DUPLICATE
+
+Bug ID: 15535
+Description: Alfa AWUS036NH not found during setup, or useable when added later.
+Resolution: DUPLICATE
+
+Bug ID: 11088
+Description: Warning about NULL pointer dereference when attaching usb hd
+Resolution: DUPLICATE
+
+Bug ID: 12731
+Description: laptop can't resume after suspend to memory - LG ED500 laptop
+Resolution: DUPLICATE
+
+Bug ID: 5680
+Description: endless loop/kernel crash after memory card insert into 6-in-1 pcmcia memory card reader reader
+Resolution: DUPLICATE
+
+Bug ID: 119761
+Description: system hangs possibly due to brcmfmac regression
+Resolution: DUPLICATE
+
+Bug ID: 15073
+Description: BUG at kernel/time/clockevents.c:262 prevents computer from completely shutting down
+Resolution: DUPLICATE
+
+Bug ID: 81971
+Description: [regression] hotkeys not working since commit eec15edbb0e14485998635ea7c62e30911b465f0
+Resolution: DUPLICATE
+
+Bug ID: 61881
+Description: Fatal exception in interrupt (IPv6, virtio-net)
+Resolution: DUPLICATE
+
+Bug ID: 112681
+Description: kernel marks internal drives as being removable
+Resolution: DUPLICATE
+
+Bug ID: 39812
+Description: HDMI output is green
+Resolution: DUPLICATE
+
+Bug ID: 13604
+Description: cascade of "mpage_da_map_blocks block allocation failed" errors
+Resolution: DUPLICATE
+
+Bug ID: 49631
+Description: iwlwifi crashes quite often with QoS errors
+Resolution: DUPLICATE
+
+Bug ID: 15019
+Description: kbuild changes render kernel image unbootable
+Resolution: DUPLICATE
+
+Bug ID: 200851
+Description: iwlwifi: completely opaque WARN_ON(1) in drivers/net/wireless/intel/iwlwifi/mvm/tx.c
+Resolution: DUPLICATE
+
+Bug ID: 43150
+Description: acpi_reroute_boot_interrupt introduces interrupt setup regression on a HP ML570G3
+Resolution: DUPLICATE
+
+Bug ID: 2635
+Description: no C1 usage/C1 usage not counted on nforce2
+Resolution: DUPLICATE
+
+Bug ID: 12468
+Description: Crash in acpi_cpufreq_init
+Resolution: DUPLICATE
+
+Bug ID: 4501
+Description: PCMCIA Card not powered on  - CardBus bridge: Ricoh Co Ltd RL5c476 II (rev ac)
+Resolution: DUPLICATE
+
+Bug ID: 2974
+Description: PBLK length 7 considered invalid
+Resolution: DUPLICATE
+
+Bug ID: 3820
+Description: undock, mute, vol. up, vol down not work.
+Resolution: DUPLICATE
+
+Bug ID: 20442
+Description: Suspend is now allowed if a cifs-mounted server goes offline
+Resolution: DUPLICATE
+
+Bug ID: 106191
+Description: there exists a wrong return value of function asd_map_memio() when ioremap_nocache() fails
+Resolution: DUPLICATE
+
+Bug ID: 35092
+Description: invalid opcode in gpu/drm/drm_irq.c:923
+Resolution: DUPLICATE
+
+Bug ID: 190251
+Description: Crash during early boot in efi_memmap_insert
+Resolution: DUPLICATE
+
+Bug ID: 17401
+Description: RAID1 should improve read performance
+Resolution: DUPLICATE
+
+Bug ID: 8120
+Description: SI3114 + Nvidia: Disk corruption - Content of large (>400mb) files changes when copying from one channel of SiI3114 to any of its  other channels
+Resolution: DUPLICATE
+
+Bug ID: 2435
+Description: No handler for Region [BIOS] (c1c3ec54) [SystemMemory]
+Resolution: DUPLICATE
+
+Bug ID: 74651
+Description: Backports did not support properly RTL8188RU
+Resolution: DUPLICATE
+
+Bug ID: 10432
+Description: Freeze during docking
+Resolution: DUPLICATE
+
+Bug ID: 51371
+Description: Zowie Celeritas modifier keys not working in usb mode
+Resolution: DUPLICATE
+
+Bug ID: 8308
+Description: boot hang w/o pci=nommconf - Acer Veriton 6900 Pro, Intel Pentium D
+Resolution: DUPLICATE
+
+Bug ID: 8747
+Description: MSG_ERRQUEUE messages do not pass to connected raw sockets
+Resolution: DUPLICATE
+
+Bug ID: 8352
+Description: [mmc] alternative TI FM MMC/SD driver
+Resolution: DUPLICATE
+
+Bug ID: 6284
+Description: sky2 network driver don't work good
+Resolution: DUPLICATE
+
+Bug ID: 99941
+Description: Shutdown after hibernation fails on Lenovo T60 with kernel 4.0.5
+Resolution: DUPLICATE
+
+Bug ID: 54771
+Description: Laptop screen stays off after resuming from suspend
+Resolution: DUPLICATE
+
+Bug ID: 19892
+Description: Trying to use any OpenGL application causes a kernel Oops [kernel NULL pointer dereference at (null)]
+Resolution: DUPLICATE
+
+Bug ID: 4092
+Description: Double timer interrupts -- IOAPIC mode -- ATI RX480
+Resolution: DUPLICATE
+
+Bug ID: 5490
+Description: Error: Method execution failed
+Resolution: DUPLICATE
+
+Bug ID: 5308
+Description: Extremely slow UMS write speed under >=2.6.12 kernels on Compaq nx8220 laptop
+Resolution: DUPLICATE
+
+Bug ID: 86311
+Description: HDMI audio requires intel_iommu=igfx_off boot option on Haswell
+Resolution: DUPLICATE
+
+Bug ID: 15763
+Description: ath9k: ath_tx_node_cleanup: WARNING: at kernel/softirq.c:143 _local_bh_enable_ip
+Resolution: DUPLICATE
+
+Bug ID: 5332
+Description: psmouse:PSMOUSE_CMD_RESET_DIS turns off newer mouses!
+Resolution: DUPLICATE
+
+Bug ID: 88181
+Description: btrfs root fs corrupted and neither fsck nor zero log helps
+Resolution: DUPLICATE
+
+Bug ID: 14056
+Description: "r8180: WW:No RX descriptor available"
+Resolution: DUPLICATE
+
+Bug ID: 150701
+Description: Dell Venue 11 Pro 7140 tablet - power button, home button and folio cover can't wakeup from suspend freeze state, while wakeup via keyboard works
+Resolution: DUPLICATE
+
+Bug ID: 4126
+Description: Don't work usb mass-storage driver for Vendor: ERATECH   Model: EMP-200 UMS DISK  Rev: 0.01
+Resolution: DUPLICATE
+
+Bug ID: 26832
+Description: Unable to regulate brightness
+Resolution: DUPLICATE
+
+Bug ID: 69671
+Description: 17ef:7203 (Lenovo): asix_rx_fixup() Bad Header Length
+Resolution: DUPLICATE
+
+Bug ID: 10119
+Description: boot hangs at "ACPI: EC non-query interrupt received. switching to interrupt mode" - Panasonic CF-30F
+Resolution: DUPLICATE
+
+Bug ID: 107861
+Description: iwlwifi: 7260: TFD queue hang when 11n is enabled
+Resolution: DUPLICATE
+
+Bug ID: 11422
+Description: Kernel freezes hard on Intel systems
+Resolution: DUPLICATE
+
+Bug ID: 4397
+Description: Kernela disk/file handling crash application
+Resolution: DUPLICATE
+
+Bug ID: 76
+Description: Radeon's Frame Buffer driver fails to compile
+Resolution: DUPLICATE
+
+Bug ID: 41112
+Description: HP EliteBook 8460p - Screen brightness not working
+Resolution: DUPLICATE
+
+Bug ID: 104641
+Description: i2c designware driver caused system to hang during boot and poweroff
+Resolution: DUPLICATE
+
+Bug ID: 9441
+Description: [2.6.24-rc] pdflush stuck in D state
+Resolution: DUPLICATE
+
+Bug ID: 2319
+Description: resume cause reboot - via chipset
+Resolution: DUPLICATE
+
+Bug ID: 63341
+Description: BUG: unable to handle kernel NULL pointer dereference at 00000000000001d4
+Resolution: DUPLICATE
+
+Bug ID: 12976
+Description: acpi=noirq required since 2.6.27 for Arima SDVIB board
+Resolution: DUPLICATE
+
+Bug ID: 15045
+Description: [i945] i915: *ERROR* Execbuf while wedged
+Resolution: DUPLICATE
+
+Bug ID: 1515
+Description: Region EmbeddedControl(3) has no handler - gateway 200x/200xl acpi missing battery, ac adapter, thermal support
+Resolution: DUPLICATE
+
+Bug ID: 80991
+Description: Kernel BUG at drivers/char/random.c
+Resolution: DUPLICATE
+
+Bug ID: 77781
+Description: [BYT] Baytrail machine sporadically get into S3 mode while resuming from S4 (with X and glxgears running)
+Resolution: DUPLICATE
+
+Bug ID: 14272
+Description: wlan rt73 dead
+Resolution: DUPLICATE
+
+Bug ID: 12235
+Description: /sys/devices/virtual/backlight/acpi_video0/brightness has it backwards
+Resolution: DUPLICATE
+
+Bug ID: 12982
+Description: Intel 5300agn hangs and doesn't work until the iwlagn module is reloaded
+Resolution: DUPLICATE
+
+Bug ID: 9787
+Description: Deadlock on _any_ ACPI event with nmi_watchdog=1
+Resolution: DUPLICATE
+
+Bug ID: 8682
+Description: BUG: at fs/inotify.c:172 set_dentry_child_flags()
+Resolution: DUPLICATE
+
+Bug ID: 3557
+Description: ACPI S3 don`t wakeup - sound card died
+Resolution: DUPLICATE
+
+Bug ID: 2417
+Description: "acpi_poweroff called" message on TravelMate630
+Resolution: DUPLICATE
+
+Bug ID: 3075
+Description: oops when trying to modprobe nsc-ircc irda driver
+Resolution: DUPLICATE
+
+Bug ID: 20502
+Description: Kernel locks up in macb interrupt handler on a flooded network
+Resolution: DUPLICATE
+
+Bug ID: 12541
+Description: I/O resource conflict between ACPI and i2c_i801 module
+Resolution: DUPLICATE
+
+Bug ID: 195735
+Description: ObjectReference Compatibility - ACPI error on macbook pro boot
+Resolution: DUPLICATE
+
+Bug ID: 8971
+Description: htb class delete causes kernelpanic and other htb bugs.
+Resolution: DUPLICATE
+
+Bug ID: 5236
+Description: AE_AML_BUFFER_LIMIT: ACPI + Battery monitor not funcitioning correctly
+Resolution: DUPLICATE
+
+Bug ID: 118811
+Description: Bisected: 30 secs boot delay + confusing UEFI on reboot
+Resolution: DUPLICATE
+
+Bug ID: 28222
+Description: Contrast/Sensor Problems in gspca_zc3xx
+Resolution: DUPLICATE
+
+Bug ID: 14848
+Description: Kernel fails to boot if compressed with bzip2 or lzma
+Resolution: DUPLICATE
+
+Bug ID: 7013
+Description: Accessing multiple cifs mounts at once locks kernel on an SMP machine
+Resolution: DUPLICATE
+
+Bug ID: 1688
+Description: blank screen after resume from S3
+Resolution: DUPLICATE
+
+Bug ID: 823
+Description: 2.5.67 > panics on boot with latest thinkpad bios 2.04
+Resolution: DUPLICATE
+
+Bug ID: 86281
+Description: CPU: 0 PID: 1611 Comm: Xorg Not tainted 3.17.0-031700-generic #201410051635
+Resolution: DUPLICATE
+
+Bug ID: 11679
+Description: MSI Wind U100 - /sys/class/power_supply/ADP1/online always contains 1
+Resolution: DUPLICATE
+
+Bug ID: 27812
+Description: 2.6.38-rc2: acpi backlight control missing
+Resolution: DUPLICATE
+
+Bug ID: 66021
+Description: kernel BUG at include/linux/mm.h:293!
+Resolution: DUPLICATE
+
+Bug ID: 14105
+Description: pcmcia cards stop working after resuming from snapshot cycle (hibernation)
+Resolution: DUPLICATE
+
+Bug ID: 6214
+Description: USB Media (usb storage weird error)
+Resolution: DUPLICATE
+
+Bug ID: 6913
+Description: Suspend to ram with kernel 2.6.20 works flawlessly, however laptop does not respond at all with > 2.6.17 and 2.6.18
+Resolution: DUPLICATE
+
+Bug ID: 3889
+Description: 3c556B breaks 3c59x driver (gives MAC of "ff:ff:ff:ff:ff:ff") if ACPI enabled in kernel
+Resolution: DUPLICATE
+
+Bug ID: 3845
+Description: Unable to handle kernel NULL pointer dereference at virtual address nfs3_request_init
+Resolution: DUPLICATE
+
+Bug ID: 55901
+Description: AR9485 Poor Performance with ath9k driver
+Resolution: DUPLICATE
+
+Bug ID: 14938
+Description: Unable to handle kernel paging request in radeon_fence_signaled
+Resolution: DUPLICATE
+
+Bug ID: 15801
+Description: _PR namespace not initialised on HP Pavilion dm1 with Intel Celeron SU2300
+Resolution: DUPLICATE
+
+Bug ID: 1004
+Description: "floppy" as module causes fail on boot
+Resolution: DUPLICATE
+
+Bug ID: 16428
+Description: HP ProBook 4710 requires noapic to boot
+Resolution: DUPLICATE
+
+Bug ID: 3405
+Description: shutdown -h now causes a reboot instead of shutdown
+Resolution: DUPLICATE
+
+Bug ID: 4986
+Description: Kernel OOPs while running Files System Stress on JFS
+Resolution: DUPLICATE
+
+Bug ID: 105271
+Description: build fails on bad if (gcc 5.1)
+Resolution: DUPLICATE
+
+Bug ID: 2845
+Description: ACPI_EC_UDELAY_COUNT too small
+Resolution: DUPLICATE
+
+Bug ID: 4728
+Description: second (ultrabay) battery not detected if inserted after boot
+Resolution: DUPLICATE
+
+Bug ID: 6237
+Description: A21m 2.6.16-rc6 after second sleep freeze
+Resolution: DUPLICATE
+
+Bug ID: 7434
+Description: tg3 module malfunction
+Resolution: DUPLICATE
+
+Bug ID: 4703
+Description: HIGHMEM enabled kernel incredible slow on I/O performance (_50x_ to 2x slower!)
+Resolution: DUPLICATE
+
+Bug ID: 11680
+Description: RTL8187B (0bda:8189) Communication Dropouts
+Resolution: DUPLICATE
+
+Bug ID: 5289
+Description: no fan control - Fujitsu-Siemens AMILO L1310G
+Resolution: DUPLICATE
+
+Bug ID: 47071
+Description: [bisected] Dockstar freezes at "Uncompressing Linux... done, booting the kernel."
+Resolution: DUPLICATE
+
+Bug ID: 8787
+Description: S-ATA Connect/Disconnect - kernel hang
+Resolution: DUPLICATE
+
+Bug ID: 4372
+Description: unplugging stv680-based pencam while in use freezes the system
+Resolution: DUPLICATE
+
+Bug ID: 13225
+Description: Severe problems with software suspend
+Resolution: DUPLICATE
+
+Bug ID: 10661
+Description: PCMCIA: CompactFlash card can't be mounted.
+Resolution: DUPLICATE
+
+Bug ID: 74381
+Description: ASUS T100TA panel video cannot be reenabled after it is disabled
+Resolution: DUPLICATE
+
+Bug ID: 8422
+Description: in kern.log many record of "fs/inotify.c:172"
+Resolution: DUPLICATE
+
+Bug ID: 34262
+Description: Enabling CONFIG_X86_X2APIC results in hard lock up on Intel i7-2820/QM67 platform
+Resolution: DUPLICATE
+
+Bug ID: 12783
+Description: ia64/tmpfs: cp complain "no space left" while lots of space unused on tmpfs partition
+Resolution: DUPLICATE
+
+Bug ID: 9666
+Description: ACPI Lid state problem - Samsung M50-2130 Baako
+Resolution: DUPLICATE
+
+Bug ID: 22102
+Description: [2.6.36-09452-g2d10d87] BUG: unable to handle kernel NULL pointer dereference at (null)
+Resolution: DUPLICATE
+
+Bug ID: 2306
+Description: Kernel panic with dmx3191d and preempting
+Resolution: DUPLICATE
+
+Bug ID: 86221
+Description: HDMI no sound output while intel IOMMU is enabled on Haswell-based board
+Resolution: DUPLICATE
+
+Bug ID: 10932
+Description: no ACPI events after S3 resume - T22
+Resolution: DUPLICATE
+
+Bug ID: 8245
+Description: acpi-cpufreq does not load - Pentium M processor 1.60GHz - Fujitsu Siemens Amilo M 1425
+Resolution: DUPLICATE
+
+Bug ID: 5694
+Description: Code vital to ACPI buried in character device option
+Resolution: DUPLICATE
+
+Bug ID: 60572
+Description: USB Keyboard Stopped Working In 3.10x
+Resolution: DUPLICATE
+
+Bug ID: 5435
+Description: Powernow code has random CPU speed
+Resolution: DUPLICATE
+
+Bug ID: 90
+Description: 2.5.48 compile failure on devfs
+Resolution: DUPLICATE
+
+Bug ID: 186231
+Description: pm_prepare_console takes 1.5 seconds to finish when entering freeze mode - Lenove B41
+Resolution: DUPLICATE
+
+Bug ID: 41232
+Description: Channel switching on Hauppauge Nova-T stick fails randomly
+Resolution: DUPLICATE
+
+Bug ID: 14370
+Description: ext4 corruptions
+Resolution: DUPLICATE
+
+Bug ID: 4775
+Description: Toshiba laptop yenta cardbus broken
+Resolution: DUPLICATE
+
+Bug ID: 3666
+Description: devfs_mk_symlink not found among the exported symbols
+Resolution: DUPLICATE
+
+Bug ID: 12554
+Description: PROBLEM: Can't boot a (HZ = 1000) kernel using an AMD Phenom-II processor
+Resolution: DUPLICATE
+
+Bug ID: 5009
+Description: usb-storage low speed when mounted with `sync'
+Resolution: DUPLICATE
+
+Bug ID: 61851
+Description: ten minute hang on boot
+Resolution: DUPLICATE
+
+Bug ID: 10383
+Description: CPU FREQ policy value scaling_max_freq gets stuck at 800MHz on core2duo
+Resolution: DUPLICATE
+
+Bug ID: 39042
+Description: 3.0-rc+git OOPS losetup on cifs
+Resolution: DUPLICATE
+
+Bug ID: 6363
+Description: Kernel inconrrectly detects pci bus
+Resolution: DUPLICATE
+
+Bug ID: 56451
+Description: Samsung NP530U3B and NP535U3C: Resume from suspend when lid is open doesn't work
+Resolution: DUPLICATE
+
+Bug ID: 10202
+Description: KMalloc redzone overwritten at very old battery insertion - Acer 1511 LMi laptop
+Resolution: DUPLICATE
+
+Bug ID: 69591
+Description: btrfsck --repair /dev/sdb2 always fails with
+Resolution: DUPLICATE
+
+Bug ID: 874
+Description: cpqfc does not compile
+Resolution: DUPLICATE
+
+Bug ID: 16514
+Description: Blank laptop panel after loading i915
+Resolution: DUPLICATE
+
+Bug ID: 5529
+Description: 2.6.14 won't compile on alpha
+Resolution: DUPLICATE
+
+Bug ID: 2449
+Description: ACPI Sleep not working
+Resolution: DUPLICATE
+
+Bug ID: 200911
+Description: This bug resets the network adapter enp0s31f6 unexpectedly.
+Resolution: DUPLICATE
+
+Bug ID: 2478
+Description: system noise when using ACPI -- HP nx7000
+Resolution: DUPLICATE
+
+Bug ID: 3552
+Description: Bug in chrdev_open 2.6.8.1
+Resolution: DUPLICATE
+
+Bug ID: 96451
+Description: the wrong return value of function sd_probe()
+Resolution: DUPLICATE
+
+Bug ID: 3040
+Description: kernel blocking whit HT and SMP actived if don't append acpi=ht and low performance
+Resolution: DUPLICATE
+
+Bug ID: 2541
+Description: No battery status - EC errors - ASUS M6N Laptop
+Resolution: DUPLICATE
+
+Bug ID: 12241
+Description: Crash during suspend to disk
+Resolution: DUPLICATE
+
+Bug ID: 14202
+Description: no connection with iwl4695
+Resolution: DUPLICATE
+
+Bug ID: 30272
+Description: BUG in xs_tcp_setup_socket
+Resolution: DUPLICATE
+
+Bug ID: 3836
+Description: 2.6.9-gentoo-r3, 2.6.9-gentoo-r4 and 2.6.10-rc2 crash with mplayer and celestia
+Resolution: DUPLICATE
+
+Bug ID: 15514
+Description: gadget confilct with OHCI
+Resolution: DUPLICATE
+
+Bug ID: 2687
+Description: Write Cache FAILED Flushing of hda
+Resolution: DUPLICATE
+
+Bug ID: 9730
+Description: No ACPI battery info
+Resolution: DUPLICATE
+
+Bug ID: 8280
+Description: Sil3122 LED Activity stay off
+Resolution: DUPLICATE
+
+Bug ID: 8496
+Description: Cannot change thermal trip points
+Resolution: DUPLICATE
+
+Bug ID: 3195
+Description: ide-cs: removing a CompactFlash Card hangs the kernel
+Resolution: DUPLICATE
+
+Bug ID: 10607
+Description: Confusing help text for NONPROMISC_DEVMEM
+Resolution: DUPLICATE
+
+Bug ID: 969
+Description: "rmmod uhci-hcd" - thread is blocked forever in kernel
+Resolution: DUPLICATE
+
+Bug ID: 10684
+Description: BUG: unable to handle kernel paging request at 00000000128e7000
+Resolution: DUPLICATE
+
+Bug ID: 4113
+Description: Dell Latitude X300 Battery status shows 0 mAh capacities
+Resolution: DUPLICATE
+
+Bug ID: 917
+Description: Badness in Badness in local_bh_enable at kernel/softirq.c:11 Badness in local_bh_enable at kernel/softirq.c:11 3
+Resolution: DUPLICATE
+
+Bug ID: 182
+Description: compile fails because of multiple undefined references in multiple functions
+Resolution: DUPLICATE
+
+Bug ID: 9313
+Description: suspend to RAM with "echo mem > /sys/power/state" do not reach S3 state
+Resolution: DUPLICATE
+
+Bug ID: 14132
+Description: it87 module conflicts with ACPI
+Resolution: DUPLICATE
+
+Bug ID: 7367
+Description: Touchpad does not wake up after resuming
+Resolution: DUPLICATE
+
+Bug ID: 18572
+Description: System reboots itself on resume (coming from suspend)
+Resolution: DUPLICATE
+
+Bug ID: 693
+Description: boot hang early, probably because of shared IRQ not handled correctly by hcd.c / usb_hcd_irq
+Resolution: DUPLICATE
+
+Bug ID: 10028
+Description: build #355 issue for v2.6.25-rc2-15-g1309d4e in function v4l2_i2c_attach
+Resolution: DUPLICATE
+
+Bug ID: 26652
+Description: Call Trace: for module [ath] and [ath9k]
+Resolution: DUPLICATE
+
+Bug ID: 3449
+Description: Opening a terminal fails. Logging in fails - remotely too.
+Resolution: DUPLICATE
+
+Bug ID: 196211
+Description: Kernel panic or freezes when connecting to wireless network
+Resolution: DUPLICATE
+
+Bug ID: 43342
+Description: WARNING: at net/sched/sch_generic.c:256 dev_watchdog+0x1aa/0x1c0()
+Resolution: DUPLICATE
+
+Bug ID: 3957
+Description: zt3000: lockup when entering S3
+Resolution: DUPLICATE
+
+Bug ID: 12639
+Description: Reversed mac address with MSI K7N2's integrated nic + forcedeth
+Resolution: DUPLICATE
+
+Bug ID: 231
+Description: Out of bounds according to stanford checker
+Resolution: DUPLICATE
+
+Bug ID: 23852
+Description: ath9k kernel oops with airmon-ng start wlan0
+Resolution: DUPLICATE
+
+Bug ID: 4015
+Description: activity on touchpad causes AE_TIME error in battery related method execution
+Resolution: DUPLICATE
+
+Bug ID: 20982
+Description: Radeon: Display doesn't fit the screen size
+Resolution: DUPLICATE
+
+Bug ID: 2927
+Description: After installing the patch from acpi.sf.net the system clock runs twice faster.
+Resolution: DUPLICATE
+
+Bug ID: 6898
+Description: don't compile kernel with 2.6.17.7 patch - in "ttpci budget av" error, skystar2 DVB PCI card
+Resolution: DUPLICATE
+
+Bug ID: 2667
+Description: no battery status (EmbeddedControl problem?)
+Resolution: DUPLICATE
+
+Bug ID: 79991
+Description: ThinkPad T440s: built-in display permanently disabled if system booted docked with lid closed
+Resolution: DUPLICATE
+
+Bug ID: 6360
+Description: alim15x3.c driver need to update
+Resolution: DUPLICATE
+
+Bug ID: 3843
+Description: connat compile earlyquirk.c
+Resolution: DUPLICATE
+
+Bug ID: 4141
+Description: Try to mount a sun nfs share. Apparently all ok but when I try to write something the cp go in segmentation fault.
+Resolution: DUPLICATE
+
+Bug ID: 4195
+Description: Request: adding the Panasonic ACPI driver to the ACPI tree
+Resolution: DUPLICATE
+
+Bug ID: 67161
+Description: general protection fault: 0000 [#2] SMP
+Resolution: DUPLICATE
+
+Bug ID: 10448
+Description: freeze when loading video.ko on Samsung Q45 laptop
+Resolution: DUPLICATE
+
+Bug ID: 19362
+Description: WARNING: at fs/fs-writeback.c:87 __mark_inode_dirty+0x1f2/0x230()
+Resolution: DUPLICATE
+
+Bug ID: 108391
+Description: Crack sound at boot
+Resolution: DUPLICATE
+
+Bug ID: 12213
+Description: ieee1394, sbp2: login timeout with Sony PCGA-CRWD1 and PL-3507 based CD-RW
+Resolution: DUPLICATE
+
+Bug ID: 1171
+Description: Boot hang - ThinkPad T40
+Resolution: DUPLICATE
+
+Bug ID: 67231
+Description: general protection fault: 0000 [#3] SMP.
+Resolution: DUPLICATE
+
+Bug ID: 6301
+Description: 2.6.16
+Resolution: DUPLICATE
+
+Bug ID: 28752
+Description: Hotkey[Fn+F5/F6] can't adjust brightness
+Resolution: DUPLICATE
+
+Bug ID: 6852
+Description: Kernel BUG at mm/truncate.c:76
+Resolution: DUPLICATE
+
+Bug ID: 768
+Description: IDE modules issue when all IDE is module
+Resolution: DUPLICATE
+
+Bug ID: 6718
+Description: Include wireless driver ipw3945 into kernel to support  Intel 3945ABG Network Connection adapter
+Resolution: DUPLICATE
+
+Bug ID: 1524
+Description: Missing Region filed attributes leads to error of index out of buffer.
+Resolution: DUPLICATE
+
+Bug ID: 5591
+Description: KERNEL: assertion (!sk->sk_forward_alloc) failed at net/core/stream.c (279)
+Resolution: DUPLICATE
+
+Bug ID: 100161
+Description: iwlwifi Microcode SW error detected.  Restarting 0x2000000. Firmware version: 25.17.12.0
+Resolution: DUPLICATE
+
+Bug ID: 1877
+Description: S3 resume: no video, no keyboard
+Resolution: DUPLICATE
+
+Bug ID: 24452
+Description: [ath9k] Kernel panic while entering monitor mode.
+Resolution: DUPLICATE
+
+Bug ID: 15427
+Description: alfresco smb shares won't list any file
+Resolution: DUPLICATE
+
+Bug ID: 3076
+Description: oops when trying to modprobe nsc-ircc irda driver
+Resolution: DUPLICATE
+
+Bug ID: 9151
+Description: Something broke cpufreq on laptop with lid behavior between 2.6.17 and 2.6.23
+Resolution: DUPLICATE
+
+Bug ID: 6908
+Description: Compile Error in drivers/media/dvb/ttpci/budget-av.c
+Resolution: DUPLICATE
+
+Bug ID: 613
+Description: kernel BUG at drivers/block/ll_rw_blk.c:1969!  when mounting xfs/sw-raid0
+Resolution: DUPLICATE
+
+Bug ID: 25602
+Description: [regression] 2.6.37-rc5: scsi_eh_11 CPU loop
+Resolution: DUPLICATE
+
+Bug ID: 23192
+Description: need to disable USB LPM on new macbook air
+Resolution: DUPLICATE
+
+Bug ID: 1081
+Description: alsa driver snd-powermac doesn't work with tumbler on iBook2
+Resolution: DUPLICATE
+
+Bug ID: 7679
+Description: RTC IRQ 8 screams unless pnpacpi=off - Intel STL2
+Resolution: DUPLICATE
+
+Bug ID: 7594
+Description: Performance problem on emulex driver due to incorrect DMA allocation
+Resolution: DUPLICATE
+
+Bug ID: 11622
+Description: SATA DVD drive doesn't work
+Resolution: DUPLICATE
+
+Bug ID: 4458
+Description: i2c-core compilation problem [using gcc 4]
+Resolution: DUPLICATE
+
+Bug ID: 8630
+Description: ACPI Exception (processor_core-0783): AE_NOT_FOUND, Processor Device is not present [20070126] - Core 2 Duo E4400
+Resolution: DUPLICATE
+
+Bug ID: 2857
+Description: Undock button not supported - [EmbeddedControl] returned AE_BAD_PARAMETER
+Resolution: DUPLICATE
+
+Bug ID: 200315
+Description: [Regression] Wired network does not come back after reboot
+Resolution: DUPLICATE
+
+Bug ID: 4243
+Description: Asus M6Ne Battery not supported
+Resolution: DUPLICATE
+
+Bug ID: 17001
+Description: ondemand governor non-functional / ACPI P-states driver
+Resolution: DUPLICATE
+
+Bug ID: 12263
+Description: Sata soft reset filling log
+Resolution: DUPLICATE
+
+Bug ID: 80811
+Description: XPS 15 Headset Audio Noise
+Resolution: DUPLICATE
+
+Bug ID: 8638
+Description: unregister_netdevice: waiting for ppp0 to become free. pppoe + multihome + htb qos?
+Resolution: DUPLICATE
+
+Bug ID: 9794
+Description: (processor_core-0819): AE_NOT_FOUND, Processor Device is not present
+Resolution: DUPLICATE
+
+Bug ID: 60741
+Description: When using the 3.10 kernel, System boot is blocked on the udev stage because of loading the radeon DRM module
+Resolution: DUPLICATE
+
+Bug ID: 11510
+Description: ATL1E OOPS
+Resolution: DUPLICATE
+
+Bug ID: 8091
+Description: sky2 losing speed in uplink
+Resolution: DUPLICATE
+
+Bug ID: 12630
+Description: EXT3-fs error (device dm-1): ext3_new_block: Allocating block in system zone
+Resolution: DUPLICATE
+
+Bug ID: 6359
+Description: alim15x3.c driver need to update
+Resolution: DUPLICATE
+
+Bug ID: 19082
+Description: fs/fs-writeback.c to dump
+Resolution: DUPLICATE
+
+Bug ID: 5252
+Description: AMD64 & ATI Radeo XPress 200P - Quick System Clock
+Resolution: DUPLICATE
+
+Bug ID: 11719
+Description: another HP laptop to blacklist with thermal trip points with insanely low values
+Resolution: DUPLICATE
+
+Bug ID: 80851
+Description: Radeon[Trinity HD 7520G] Resume Results in Blank Screen, no backlight
+Resolution: DUPLICATE
+
+Bug ID: 200841
+Description: Regression: Linux 4.17 cannot wake from STR after ACPICA: Events: Stop unconditionally clearing ACPI IRQs during suspend/resume
+Resolution: DUPLICATE
+
+Bug ID: 5952
+Description: easyRAID F8 IDE2SCSI adaptor problems with reporting too many luns
+Resolution: DUPLICATE
+
+Bug ID: 14216
+Description: backlight does not work, either via hotkey or /proc/acpi/video - Compal NTUC0
+Resolution: DUPLICATE
+
+Bug ID: 20572
+Description: Kernel locks up in macb interrupt handler on a flooded network
+Resolution: DUPLICATE
+
+Bug ID: 13371
+Description: s2disk hangs with e100, kernel 2.6.29 and later
+Resolution: DUPLICATE
+
+Bug ID: 5502
+Description: hotkey sysfs interface
+Resolution: DUPLICATE
+
+Bug ID: 2697
+Description: Problems booting 2.6.6 kernel on a  VIA KT 133A Chipset based computer
+Resolution: DUPLICATE
+
+Bug ID: 6903
+Description: drivers/media/dvb/ttpci/budget-av.c does not compile
+Resolution: DUPLICATE
+
+Bug ID: 3839
+Description: 2.6.9-gentoo-r3, 2.6.9-gentoo-r4 and 2.6.10-rc2 crash with mplayer and celestia
+Resolution: DUPLICATE
+
+Bug ID: 6972
+Description: alsa 1.0.12rc1 does not correctly make fm801 module if compiled extenally
+Resolution: DUPLICATE
+
+Bug ID: 44311
+Description: S3 wake up on Gigabyte M720-US3 causes reboot since commit 2feec47d4c5f80b05f1650f5a24865718978eea4
+Resolution: DUPLICATE
+
+Bug ID: 60788
+Description: xfstest generic/068 failure - kernel BUG at fs/buffer.c:3005!
+Resolution: DUPLICATE
+
+Bug ID: 12551
+Description: end_request: I/O error, dev cciss/c0d0, sector 87435720
+Resolution: DUPLICATE
+
+Bug ID: 13301
+Description: wrong mutex lock in lookup_one_len
+Resolution: DUPLICATE
+
+Bug ID: 5374
+Description: The Write access automatic dereference for Index reference doesn't work
+Resolution: DUPLICATE
+
+Bug ID: 9183
+Description: ACPI Battery Info in /sys but not /proc/acpi
+Resolution: DUPLICATE
+
+Bug ID: 113531
+Description: intel_pstate/max_perf_pct values above 80 aren't established
+Resolution: DUPLICATE
+
+Bug ID: 3693
+Description: Unstable System Timer
+Resolution: DUPLICATE
+
+Bug ID: 60707
+Description: Screen backlight on Macbook air 2013 after tuning off screen or suspending becomes zero
+Resolution: DUPLICATE
+
+Bug ID: 3297
+Description: Acer Tablet C100 - Bios contains two "RSD PTR"  signatures
+Resolution: DUPLICATE
+
+Bug ID: 10163
+Description: sporadic keyboard auto-repeat
+Resolution: DUPLICATE
+
+Bug ID: 2705
+Description: kernel panic after unloading acpi-modules in use
+Resolution: DUPLICATE
+
+Bug ID: 97081
+Description: iwlwifi: Error sending REPLY_TXFIFO_FLUSH: time out after 2000ms
+Resolution: DUPLICATE
+
+Bug ID: 6784
+Description: No screen unblank on resume (Dell Inspiron 640m)
+Resolution: DUPLICATE
+
+Bug ID: 9384
+Description: Appletalk packets are delivered to the last interface FD_SET
+Resolution: DUPLICATE
+
+Bug ID: 106211
+Description: there exists a wrong return value of function asd_map_memio() when ioremap_nocache() fails
+Resolution: DUPLICATE
+
+Bug ID: 15848
+Description: NULL pointer in inet6_csk_bind_conflict
+Resolution: DUPLICATE
+
+Bug ID: 93991
+Description: crash in i915_gem_object_unpin_from_display_plane+0x12/0x90
+Resolution: DUPLICATE
+
+Bug ID: 43299
+Description: fails to suspend - ubuntu 12.04 amd64 - Asus 1201n
+Resolution: DUPLICATE
+
+Bug ID: 68171
+Description: rt2x00: skb_pull panic in crypto_tx_remove_iv
+Resolution: DUPLICATE
+
+Bug ID: 1682
+Description: boot hang in ACPI mode unless "nolapic" - compaq 2110US
+Resolution: DUPLICATE
+
+Bug ID: 7607
+Description: Pentium M runs slow, cpufreq broken, speedstep will not load.
+Resolution: DUPLICATE
+
+Bug ID: 15476
+Description: kernel hangs/freeze till key press event acpi=noirq helps
+Resolution: DUPLICATE
+
+Bug ID: 197277
+Description: iwlwifi firmware 27.541033.0 crashing repeatedly
+Resolution: DUPLICATE
+
+Bug ID: 2658
+Description: Spontaneous reboot on battery insertion
+Resolution: DUPLICATE
+
+Bug ID: 6118
+Description: 2.6.15.4 freez with the io sheduler
+Resolution: DUPLICATE
+
+Bug ID: 7369
+Description: It's driver bug or hardware problem?
+Resolution: DUPLICATE
+
+Bug ID: 12849
+Description: ath5k corruption when downloading files >12MB
+Resolution: DUPLICATE
+
+Bug ID: 69051
+Description: iwlwifi 0000:01:00.0: fail to flush all tx fifo queues Q 2
+Resolution: DUPLICATE
+
+Bug ID: 192581
+Description: RT3290 wifi not working after reboot
+Resolution: DUPLICATE
+
+Bug ID: 4418
+Description: PREEMPT error when I switch off a device using USB ACM driver
+Resolution: DUPLICATE
+
+Bug ID: 16564
+Description: BUG: scheduling while atomic: swapper/0/0x10000002
+Resolution: DUPLICATE
+
+Bug ID: 1592
+Description: ACPI-1120: *** Error: Method execution failed [\_SB_.C046._CRS] (Node dffbdc00), AE_AML_BUFFER_LIMIT
+Resolution: DUPLICATE
+
+Bug ID: 6260
+Description: SATA hard disk with AHCI mode lost after S3
+Resolution: DUPLICATE
+
+Bug ID: 73111
+Description: the machine reboots after X is launched, without acpi=off
+Resolution: DUPLICATE
+
+Bug ID: 39282
+Description: wl runs out of iommu space no matter how large
+Resolution: DUPLICATE
+
+Bug ID: 11021
+Description: Asus M2A-MX (AMD 690V/SB600) - low performance SATA
+Resolution: DUPLICATE
+
+Bug ID: 14185
+Description: Oops in drivers\base\firmware_class
+Resolution: DUPLICATE
+
+Bug ID: 51831
+Description: [PATCH]bluetooth stopped work
+Resolution: DUPLICATE
+
+Bug ID: 8357
+Description: udp recvfrom() doesn't receive message as normal with select
+Resolution: DUPLICATE
+
+Bug ID: 3962
+Description: Kernel NULL pointer dereference on unloading ide-scsi
+Resolution: DUPLICATE
+
+Bug ID: 14332
+Description: Random AE_TIME exceptions
+Resolution: DUPLICATE
+
+Bug ID: 6674
+Description: MAINLINE
+Resolution: DUPLICATE
+
+Bug ID: 5053
+Description: S3 resume: serial port dead
+Resolution: DUPLICATE
+
+Bug ID: 43310
+Description: no backlight control present for 3.4 - Sony VAIO VGN-FW21M, ATI Radeon HD 3400, Intel Core 2 Duo (P8600)
+Resolution: DUPLICATE
+
+Bug ID: 6261
+Description: SATA hard disk with AHCI mode lost after S3
+Resolution: DUPLICATE
+
+Bug ID: 194807
+Description: [e1000e] Unable to resume from hibernation
+Resolution: DUPLICATE
+
+Bug ID: 10159
+Description: 2.6.25-rc2 IDE + smartd = hang
+Resolution: DUPLICATE
+
+Bug ID: 1943
+Description: ACPI extentiosn for Display Adapters
+Resolution: DUPLICATE
+
+Bug ID: 45281
+Description: sony_laptop module crashes while loading
+Resolution: DUPLICATE
+
+Bug ID: 11650
+Description: Bug in rt2x00 rt73usb driver in latest git kernel
+Resolution: DUPLICATE
+
+Bug ID: 195319
+Description: PCI IRQ allocation broken
+Resolution: DUPLICATE
+
+Bug ID: 13089
+Description: ACPI: I/O resource ... conflicts with ACPI region ...
+Resolution: DUPLICATE
+
+Bug ID: 68361
+Description: NFS over RDMA stops working for data larger than 812 Bytes
+Resolution: DUPLICATE
+
+Bug ID: 2005
+Description: Processor LOCKUP/oops on SMP poweroff - Shuttle SB61G2
+Resolution: DUPLICATE
+
+Bug ID: 64751
+Description: [pandaboard] btwilink doesn't see device
+Resolution: DUPLICATE
+
+Bug ID: 1207
+Description: pcm_lib.c:214: Unexpected hw_pointer value
+Resolution: DUPLICATE
+
+Bug ID: 6567
+Description: Kernel Panic-not syncing
+Resolution: DUPLICATE
+
+Bug ID: 43156
+Description: On netbook Acer Aspire One 521 battery indicator is absent.
+Resolution: DUPLICATE
+
+Bug ID: 12571
+Description: ohci-hcd resume problem on Dell Latitude D410
+Resolution: DUPLICATE
+
+Bug ID: 13639
+Description: tun regression
+Resolution: DUPLICATE
+
+Bug ID: 95811
+Description: iwlwifi: Failed to load firmware chunk
+Resolution: DUPLICATE
+
+Bug ID: 6265
+Description: radeonfb - Radeon Mobility 9000 needs video bios POST on S3 resume on Dell 600m (and others)
+Resolution: DUPLICATE
+
+Bug ID: 4967
+Description: S3 wakeup - "Failed to acquire semaphore" AE_TIME
+Resolution: DUPLICATE
+
+Bug ID: 9486
+Description: error loading acpi_cpufreq module: -1 No such device    -- Intel Penryn X9650
+Resolution: DUPLICATE
+
+Bug ID: 69631
+Description: kernel BUG at /home/abuild/rpmbuild/BUILD/kernel-desktop-3.11.6/linux-3.11/mm/slab.c:3011
+Resolution: DUPLICATE
+
+Bug ID: 8039
+Description: Hang before INIT when CONFIG_HIGHMEM4G=y
+Resolution: DUPLICATE
+
+Bug ID: 1901
+Description: poweroff fails -- T41
+Resolution: DUPLICATE
+
+Bug ID: 145
+Description: ALSA: SB-AWE ISA detection fails
+Resolution: DUPLICATE
+
+Bug ID: 14244
+Description: 2.6.31-1 hangs early during boot
+Resolution: DUPLICATE
+
+Bug ID: 14463
+Description: usb thumbdrive forgotten to umount resulting in error upon subsequent physical plugging in.
+Resolution: DUPLICATE
+
+Bug ID: 3046
+Description: 3com fails to initialize unless acpi=off - T22
+Resolution: DUPLICATE
+
+Bug ID: 58151
+Description: kernel 3.2.45 regression in i915 driver for 00:02.0 VGA compatible controller: Intel Corporation Mobile 4 Series Chipset Integrated Graphics Controller (rev 07)
+Resolution: DUPLICATE
+
+Bug ID: 2310
+Description: No battery informations on Toshiba laptop Tecra S1
+Resolution: DUPLICATE
+
+Bug ID: 8530
+Description: udivdi3 and libgcc detrimental to kernel
+Resolution: DUPLICATE
+
+Bug ID: 14947
+Description: Blank screen for Intel KMS
+Resolution: DUPLICATE
+
+Bug ID: 115591
+Description: snd_usb_audio fails on boot
+Resolution: DUPLICATE
+
+Bug ID: 14317
+Description: Commit 275582 introduced acpi_get_pci_dev() which sometimes hits a NULL pointer
+Resolution: DUPLICATE
+
+Bug ID: 15584
+Description: 2.6.34-rc1: lockdep warning on geode subnotebook
+Resolution: DUPLICATE
+
+Bug ID: 11056
+Description: constant disconnects and reconnects on Broadcom NIC (wired) when under load
+Resolution: DUPLICATE
+
+Bug ID: 5255
+Description: cdrtools-2.01.01_alpha03: Operation not permitted. Cannot send SCSI cmd via ioctl
+Resolution: DUPLICATE
+
+Bug ID: 14728
+Description: Graphic corruption
+Resolution: DUPLICATE
+
+Bug ID: 1880
+Description: IDE driver modules fail to load due to dependency loops and missing symbols
+Resolution: DUPLICATE
+
+Bug ID: 198877
+Description: Lot of ACPI Errors (AE_NOT_FOUND) on Dell XPS 15 9550 with newer BIOS
+Resolution: DUPLICATE
+
+Bug ID: 111241
+Description: one need root credentials to read cpuinfo_cur_freq content
+Resolution: DUPLICATE
+
+Bug ID: 2288
+Description: *** DANGER *** unable to remove socket power
+Resolution: DUPLICATE
+
+Bug ID: 60798
+Description: b43: not connects normally to hidden networks
+Resolution: DUPLICATE
+
+Bug ID: 15023
+Description: Inotify produces errors a bit before the machine goes mad and panics
+Resolution: DUPLICATE
+
+Bug ID: 4442
+Description: Double clock ticks -- IOAPIC - ATI chipset x86_64
+Resolution: DUPLICATE
+
+Bug ID: 198935
+Description: iwlwifi: Random crashes on Intel Wireless 7260
+Resolution: DUPLICATE
+
+Bug ID: 1774
+Description: Latest ACPI prevents kernel from booting the system
+Resolution: DUPLICATE
+
+Bug ID: 12361
+Description: xbacklight doesn't change the display brightness on ThinkPad X61s
+Resolution: DUPLICATE
+
+Bug ID: 399
+Description: some ethernet cards, eg. netgear FA311 does not work if acpi is on with 2.5.62
+Resolution: DUPLICATE
+
+Bug ID: 8356
+Description: udp recvfrom() doesn't receive message as normal with select
+Resolution: DUPLICATE
+
+Bug ID: 8534
+Description: USB input death then system freeze
+Resolution: DUPLICATE
+
+Bug ID: 1324
+Description: the alsa driver for the ens-1371 sound card went away
+Resolution: DUPLICATE
+
+Bug ID: 1362
+Description: non routed IRQs in Acer Aspire 1310 laptop
+Resolution: DUPLICATE
+
+Bug ID: 109241
+Description: Asus zenbook touchpad not recognized
+Resolution: DUPLICATE
+
+Bug ID: 696
+Description: alsa mixer and installation problem
+Resolution: DUPLICATE
+
+Bug ID: 2227
+Description: audio disabled - irq 21: nobody cared! - nForce2 IOAPIC
+Resolution: DUPLICATE
+
+Bug ID: 187091
+Description: bluetooth needs 2s after resume, or else it causes delay/crash if the second suspend is delivered immediately - Lenovo Yoga 900
+Resolution: DUPLICATE
+
+Bug ID: 11672
+Description: Kernel locks with 4GB of RAM on core2duo.
+Resolution: DUPLICATE
+
+Bug ID: 64111
+Description: mwifiex_usb USB8797 crash failed to get signal information
+Resolution: DUPLICATE
+
+Bug ID: 3727
+Description: Using include/linux/crc-ccitt.h causes compilation errors
+Resolution: DUPLICATE
+
+Bug ID: 16029
+Description: ACPI resource conflicts with ACPI region SMBI
+Resolution: DUPLICATE
+
+Bug ID: 105991
+Description: System does not suspend on lid close
+Resolution: DUPLICATE
+
+Bug ID: 10058
+Description: rt2x00-2.0.14 freezes my laptop
+Resolution: DUPLICATE
+
+Bug ID: 60785
+Description: 3.11rc6 results in SIGSEGV fatal error in program. 3.11rc5 O.K.
+Resolution: DUPLICATE
+
+Bug ID: 43611
+Description: ACPI Warning: Incorrect Checksum in Table [TAMG]
+Resolution: DUPLICATE
+
+Bug ID: 2693
+Description: shutdown /dev/hdb under reboot
+Resolution: DUPLICATE
+
+Bug ID: 11990
+Description: Kernel hang in spin_unlock_irq from scsi_request_fn from do_IRQ
+Resolution: DUPLICATE
+
+Bug ID: 198
+Description: compile failure on drivers/message/i2o/i2o_lan.c
+Resolution: DUPLICATE
+
+Bug ID: 15317
+Description: Lockdep report while running aplay with pulse as the default
+Resolution: DUPLICATE
+
+Bug ID: 70341
+Description: kernel: WARNING: CPU: 2 PID: 15905 at lib/list_debug.c:62 __list_del_entry+0x82/0xd0()
+Resolution: DUPLICATE
+
+Bug ID: 80631
+Description: v4l2
+Resolution: DUPLICATE
+
+Bug ID: 2348
+Description: Sound interrupts when HDD buffers flushing.
+Resolution: DUPLICATE
+
+Bug ID: 84911
+Description: OOPS: kernel BUG at net/core/skbuff.c:99! Bricked my system.
+Resolution: DUPLICATE
+
+Bug ID: 15983
+Description: WiFi REGRESSION: iwlagn Intel 4965 AGN [Kedron] drops connection
+Resolution: DUPLICATE
+
+Bug ID: 4390
+Description: fujitsu-siemens c-1020 - video issue
+Resolution: DUPLICATE
+
+Bug ID: 2528
+Description: IRQ 10 Disabled (USB) - VIA Apollo PRO133x
+Resolution: DUPLICATE
+
+Bug ID: 1144
+Description: Bootup hangs just after message: "mice: PS/2 mouse device common for all mice"
+Resolution: DUPLICATE
+
+Bug ID: 11651
+Description: 2.6.27 kernel disables frequency switching on x86_64
+Resolution: DUPLICATE
+
+Bug ID: 5066
+Description: Add acpi_specific_hotkey  in kernel-parameters.txt
+Resolution: DUPLICATE
+
+Bug ID: 875
+Description: pm3fb does not compile
+Resolution: DUPLICATE
+
+Bug ID: 11283
+Description: MSI patch blamed for T60p not coming out of suspend to ram
+Resolution: DUPLICATE
+
+Bug ID: 7227
+Description: fan stops working after one suspend/resume cycle
+Resolution: DUPLICATE
+
+Bug ID: 10929
+Description: Memory reader not working with kernel >2.6.24 but works with kernel 2.6.23 and 2.6.22!
+Resolution: DUPLICATE
+
+Bug ID: 92431
+Description: Fan Running at Full Speed with 3.18.1+
+Resolution: DUPLICATE
+
+Bug ID: 67321
+Description: Cannot hear anything using HDMI/DisplayPort audio connection on Intel D54250WYK with igfx IOMMU on
+Resolution: DUPLICATE
+
+Bug ID: 11623
+Description: scaling_available_frequencies reports too high frequencies
+Resolution: DUPLICATE
+
+Bug ID: 5996
+Description: RAID with SATA fails on drive un-plug
+Resolution: DUPLICATE
+
+Bug ID: 14888
+Description: 2.6.32-rc8 shuts down after reaching critical temperature - thinkpad T500
+Resolution: DUPLICATE
+
+Bug ID: 2343
+Description: moving with USB mouse while loading hid module via hotplug freezes the mouse
+Resolution: DUPLICATE
+
+Bug ID: 4991
+Description: Kernel OOPS in reiserfs_releasepage on Dual Opteron system
+Resolution: DUPLICATE
+
+Bug ID: 25562
+Description: Backlight settings lost when changing monitor resolution.
+Resolution: DUPLICATE
+
+Bug ID: 486
+Description: compile failure in drivers/video/pm2fb.c
+Resolution: DUPLICATE
+
+Bug ID: 14927
+Description: reiserfs: circular locking dependency detected
+Resolution: DUPLICATE
+
+Bug ID: 58501
+Description: [drm:i915_hangcheck_hung] *ERROR* Hangcheck timer elapsed... GPU hung
+Resolution: DUPLICATE
+
+Bug ID: 5648
+Description: compilation problems
+Resolution: DUPLICATE
+
+Bug ID: 17181
+Description: BUG: pin refleak
+Resolution: DUPLICATE
+
+Bug ID: 6499
+Description: ethernet freeze when uploading a file
+Resolution: DUPLICATE
+
+Bug ID: 14451
+Description: b44 BCM4401 immediate disconnect and power down after ip assignment
+Resolution: DUPLICATE
+
+Bug ID: 5406
+Description: cpqfc driver will not compile...
+Resolution: DUPLICATE
+
+Bug ID: 644
+Description: Unable to handle kernel paging request
+Resolution: DUPLICATE
+
+Bug ID: 22552
+Description: AMD boot freeze bisected to b126b4703afa4010b161784a43650337676dd03b
+Resolution: DUPLICATE
+
+Bug ID: 110371
+Description: Only 1 CPU core usable on Intel Skylake
+Resolution: DUPLICATE
+
+Bug ID: 4902
+Description: Asus_acpi module doesn't load in 2.6.13-rc3
+Resolution: DUPLICATE
+
+Bug ID: 605
+Description: ACPI S1: display blanking broken
+Resolution: DUPLICATE
+
+Bug ID: 90051
+Description: WARNING: CPU: 0 PID: 243 at drivers/gpu/drm/i915/intel_display.c:901 intel_wait_for_vblank+0x225/0x230 [i915]()
+Resolution: DUPLICATE
+
+Bug ID: 68
+Description: NFS module depedency
+Resolution: DUPLICATE
+
+Bug ID: 107471
+Description: iwlwifi: 7260: TFD queue hang Core14 - MWG100250315
+Resolution: DUPLICATE
+
+Bug ID: 119401
+Description: system sometimes freezes during resume, probably related to Realtek's memory stick driver
+Resolution: DUPLICATE
+
+Bug ID: 20542
+Description: Kernel locks up in macb interrupt handler on a flooded network
+Resolution: DUPLICATE
+
+Bug ID: 17131
+Description: WARN with 3c905 boomerang NIC
+Resolution: DUPLICATE
+
+Bug ID: 17371
+Description: Total freeze at boot
+Resolution: DUPLICATE
+
+Bug ID: 196969
+Description: cpuidle panic
+Resolution: DUPLICATE
+
+Bug ID: 62271
+Description: [drm:intel_pipe_config_compare] *ERROR* mismatch in adjusted_mode.flags(DRM_MODE_FLAG_NHSYNC) (expected 2, found 0)
+Resolution: DUPLICATE
+
+Bug ID: 4339
+Description: apache: page allocation failure. order:0, mode:0x20
+Resolution: DUPLICATE
+
+Bug ID: 5831
+Description: Intel P3 SMP Crash after HALT
+Resolution: DUPLICATE
+
+Bug ID: 6901
+Description: 3-5 error and 1 normal with connecting with DVB-S SkyStar2 tuner
+Resolution: DUPLICATE
+
+Bug ID: 6386
+Description: Various Linux distributions fail without ACPI disabled.
+Resolution: DUPLICATE
+
+Bug ID: 4393
+Description: CONFIG_ACPI_DEBUG  boot _STA hang unless ACPI_ENABLE_OBJECT_CACHE
+Resolution: DUPLICATE
+
+Bug ID: 24192
+Description: Power Off after resume - dell vostro v13
+Resolution: DUPLICATE
+
+Bug ID: 7545
+Description: 2.6.18-gentoo-r2 hotplug with mcp55(sata_nv) not working
+Resolution: DUPLICATE
+
+Bug ID: 7857
+Description: S3: no wake - HP NC8230 notebook
+Resolution: DUPLICATE
+
+Bug ID: 25512
+Description: Black bars on both sides of screen when running at lower resolution.
+Resolution: DUPLICATE
+
+Bug ID: 91651
+Description: wlan0: HW problem - can not stop rx aggregation
+Resolution: DUPLICATE
+
+Bug ID: 5008
+Description: TP 600X os_wait_semaphore errors from setting polling frequency
+Resolution: DUPLICATE
+
+Bug ID: 11711
+Description: "Kernel reboots if Powersupply of the Laptop is connected or disconnected"
+Resolution: DUPLICATE
+
+Bug ID: 4366
+Description: On Running File System stress on XFS File system (over x225) results in kernel oops
+Resolution: DUPLICATE
+
+Bug ID: 15528
+Description: LCD Brightness Acer Aspire 5740
+Resolution: DUPLICATE
+
+Bug ID: 114081
+Description: there exists six wrong return values of function meye_probe()
+Resolution: DUPLICATE
+
+Bug ID: 20602
+Description: dvd drive fails on dvd's with 4gb~+ info wrighten on it.
+Resolution: DUPLICATE
+
+Bug ID: 5390
+Description: Unexpected dereference of Index reference returned by Method and immediately passed to another Method
+Resolution: DUPLICATE
+
+Bug ID: 181
+Description: Kernel oops when connecting USB digital camera
+Resolution: DUPLICATE
+
+Bug ID: 96431
+Description: the wrong return value of function r592_probe()
+Resolution: DUPLICATE
+
+Bug ID: 10237
+Description: Kernel panic - cannot find/configure processor AMD Turion x2 TL-60 after bios update
+Resolution: DUPLICATE
+
+Bug ID: 4528
+Description: drivers/usb/image/microtek.c: FAILURE not defined
+Resolution: DUPLICATE
+
+Bug ID: 197341
+Description: cannot reload intel wifi module after unloading it (iwlwifi)
+Resolution: DUPLICATE
+
+Bug ID: 3622
+Description: S3 resume: no video - Dell Inspiron 510m
+Resolution: DUPLICATE
+
+Bug ID: 12694
+Description: Cant power off in Asus cusi-m
+Resolution: DUPLICATE
+
+Bug ID: 3899
+Description: acpi_bus-0081 [03] acpi_bus_get_device: Error getting context for object
+Resolution: DUPLICATE
+
+Bug ID: 107011
+Description: there exists a wrong return value of function sh_mobile_lcdc_probe() when ioremap_nocache() fails
+Resolution: DUPLICATE
+
+Bug ID: 46681
+Description: RealTek PCI-E Card Reader support - CONFIG_RTS_PSTOR
+Resolution: DUPLICATE
+
+Bug ID: 8088
+Description: oops at mount
+Resolution: DUPLICATE
+
+Bug ID: 6673
+Description: MAINLINE
+Resolution: DUPLICATE
+
+Bug ID: 7530
+Description: swapper: page allocation failure
+Resolution: DUPLICATE
+
+Bug ID: 20652
+Description: dvd drive fails on dvd's with 4gb~+ info on it.
+Resolution: DUPLICATE
+
+Bug ID: 10953
+Description: 2.6.26-rc7: x86 build error
+Resolution: DUPLICATE
+
+Bug ID: 14192
+Description: f71882fg will not load
+Resolution: DUPLICATE
+
+Bug ID: 44871
+Description: Kernel Panic during IO from CD-ROM related to 16414
+Resolution: DUPLICATE
+
+Bug ID: 2346
+Description: Radeon framebuffer is a mess
+Resolution: DUPLICATE
+
+Bug ID: 7611
+Description: sky2 ethernet driver - eth0: hw csum failure.
+Resolution: DUPLICATE
+
+Bug ID: 10800
+Description: Hard lock up after removing forcedeth module
+Resolution: DUPLICATE
+
+Bug ID: 151671
+Description: [REGRESSION][BISECTED] AMD 700: CPU stalls on boot unless a key is pressed
+Resolution: DUPLICATE
+
+Bug ID: 20622
+Description: dvd drive fails on dvd's with 4gb~+ info wrighten on it.
+Resolution: DUPLICATE
+
+Bug ID: 6701
+Description: 4-in-1 reader's LED still shines after shutdown
+Resolution: DUPLICATE
+
+Bug ID: 11737
+Description: boot fails unless acpi=off - asus m51ta-x2 notebook, Turion Ultra zm-82
+Resolution: DUPLICATE
+
+Bug ID: 195975
+Description: Kernels 4.11+ reset BIOS settings on Thinkpad Yoga
+Resolution: DUPLICATE
+
+Bug ID: 17321
+Description: i386 WARNING: at kernel/softirq.c:143 _local_bh_enable_ip+0x2f/0x7e
+Resolution: DUPLICATE
+
+Bug ID: 12652
+Description: rb433 ah hangs when we use ath5k and ping it with large size datat bytes
+Resolution: DUPLICATE
+
+Bug ID: 198583
+Description: `acpi_pm_finish()` takes over 140 ms during suspend
+Resolution: DUPLICATE
+
+Bug ID: 96901
+Description: Focaltech touchpad not working after suspend/resume on Asus R409LD
+Resolution: DUPLICATE
+
+Bug ID: 95831
+Description: Random inability to mount RAID1
+Resolution: DUPLICATE
+
+Bug ID: 86101
+Description: iwlwifi driver failure - kernel-firmware 20140903git - kernel 3.15.8 to 3.17.0
+Resolution: DUPLICATE
+
+Bug ID: 10113
+Description: Header file not exist
+Resolution: DUPLICATE
+
+Bug ID: 85881
+Description: gpe66 interrupt keeps cpu continuously active
+Resolution: DUPLICATE
+
+Bug ID: 8056
+Description: Realplay streaming Air America causes machines on network to loose network connectivity
+Resolution: DUPLICATE
+
+Bug ID: 66041
+Description: 2 attempts needed to hibernate
+Resolution: DUPLICATE
+
+Bug ID: 4469
+Description: Sync problems with wheel mouse on ps2 port
+Resolution: DUPLICATE
+
+Bug ID: 5432
+Description: Pentium 4 prescott does not support C states but is being report that it does.
+Resolution: DUPLICATE
+
+Bug ID: 120
+Description: build fail
+Resolution: DUPLICATE
+
+Bug ID: 91891
+Description: [gm45] after boot time display swicth off and on one time
+Resolution: DUPLICATE
+
+Bug ID: 5396
+Description: reboot hang - HP/Compaq tc4200
+Resolution: DUPLICATE
+
+Bug ID: 1255
+Description: PS/2 mouse problem with KVM switch
+Resolution: DUPLICATE
+
+Bug ID: 118151
+Description: Kernel panic when laptop is idle
+Resolution: DUPLICATE
+
+Bug ID: 15933
+Description: Alps touchpad in Dell M4500 not recognized
+Resolution: DUPLICATE
+
+Bug ID: 14717
+Description: Computer feeling quite slow after suspend/resume
+Resolution: DUPLICATE
+
+Bug ID: 14952
+Description: instant reboot on loading 2.6.33-rc on Celeron 900
+Resolution: DUPLICATE
+
+Bug ID: 21932
+Description: Regression in 2.6.36 in single stepping over hardware breakpoint (Wine)
+Resolution: DUPLICATE
+
+Bug ID: 109211
+Description: Touchpad not working on Asus Zenbook UX305CA-FC022T
+Resolution: DUPLICATE
+
+Bug ID: 43201
+Description: kernel crashes when compiled with a modified keymap using GCC 4.6 or 4.7
+Resolution: DUPLICATE
+
+Bug ID: 4193
+Description: Add the sony_acpi driver to the ACPI main tree
+Resolution: DUPLICATE
+
+Bug ID: 12203
+Description: ACPI Exception (thermal-0469): AE_ERROR, ACPI thermal trip point state changed - Clevo M7X0SU
+Resolution: DUPLICATE
+
+Bug ID: 175431
+Description: scsi host6: runtime PM trying to activate child device host6 but parent (3-1:1.0) is not active
+Resolution: DUPLICATE
+
+Bug ID: 201133
+Description: ACPI BIOS Error (bug): Failure creating [\_SB.PCI0._OSC.CAPB], AE_ALREADY_EXISTS - Toshiba NB250 Netbook
+Resolution: DUPLICATE
+
+Bug ID: 8574
+Description: OOPS performing ioctl
+Resolution: DUPLICATE
+
+Bug ID: 51461
+Description: 3.6 and 3.7 kernels do not boot on m2n-sli motherboards
+Resolution: DUPLICATE
+
+Bug ID: 10022
+Description: [2.6.25-rc1] jerky mouse cursor and randoooom key repeats
+Resolution: DUPLICATE
+
+Bug ID: 3665
+Description: devfs_mk_symlink found among the exported symbols
+Resolution: DUPLICATE
+
+Bug ID: 5140
+Description: none of the 2.6.13-rc? kernels survives longer than 4 days.
+Resolution: DUPLICATE
+
+Bug ID: 15280
+Description: Cannot change brightness with Intel Arrandale on Sony VPCS111FM laptop
+Resolution: DUPLICATE
+
+Bug ID: 45751
+Description: WOL doesn't work in r8169 but works with r8168
+Resolution: DUPLICATE
+
+Bug ID: 103921
+Description: system call issue - Error : sigsuspend doesn't return from block stage in the case of SIGINT signal
+Resolution: DUPLICATE
+
+Bug ID: 30952
+Description: asix driver broken since 2.6.35
+Resolution: DUPLICATE
+
+Bug ID: 8436
+Description: kernel 2.6.17.** (ok) --> kernel 2.6.18.** with snd-ca0106. no sound
+Resolution: DUPLICATE
+
+Bug ID: 5270
+Description: usb_storage fails to unregister
+Resolution: DUPLICATE
+
+Bug ID: 42686
+Description: iwlagn is getting even worse with 3.3-rc1
+Resolution: DUPLICATE
+
+Bug ID: 7945
+Description: poweroff regression 2.6.20, unless CONFIG_USB_SUSPEND=n
+Resolution: DUPLICATE
+
+Bug ID: 2183
+Description: Regression: halt -p nolonger kills the power - ACPICA 20031203
+Resolution: DUPLICATE
+
+Bug ID: 11714
+Description: Kernel panic on boot if SMP - ASUS M3A-H/HDMI
+Resolution: DUPLICATE
+
+Bug ID: 65301
+Description: Cores stuck at max frequency after resume from suspend (Haswell)
+Resolution: DUPLICATE
+
+Bug ID: 12026
+Description: ACE-1001 cable IDs is not in cp2101 driver
+Resolution: DUPLICATE
+
+Bug ID: 19832
+Description: hci_cmd_task: hci0 command tx timeout
+Resolution: DUPLICATE
+
+Bug ID: 5920
+Description: USB vibration feedback gamepad problem
+Resolution: DUPLICATE
+
+Bug ID: 9142
+Description: Probing of SATA-ports hangs on Asus P5W-DH
+Resolution: DUPLICATE
+
+Bug ID: 1528
+Description: Error removing USB Flash hard drive
+Resolution: DUPLICATE
+
+Bug ID: 4182
+Description: smb mount hangs while coping files
+Resolution: DUPLICATE
+
+Bug ID: 110621
+Description: iwlwifi: Driver stops working for Intel 3165 AC dual band several minutes after boot
+Resolution: DUPLICATE
+
+Bug ID: 10938
+Description: lockd error causes system hang requiring server reboot
+Resolution: DUPLICATE
+
+Bug ID: 29492
+Description: kernel BUG at /home/kernel-ppa/COD/linux/fs/inode.c:1421!
+Resolution: DUPLICATE
+
+Bug ID: 29912
+Description: slow resume from suspend
+Resolution: DUPLICATE
+
+Bug ID: 3485
+Description: Kernel panic: Attempted to kill init!
+Resolution: DUPLICATE
+
+Bug ID: 42382
+Description: Soft-lockup during cpu-hotplug in VFS callpaths
+Resolution: DUPLICATE
+
+Bug ID: 23122
+Description: Regression in 2.6.37-rc1 for Intel 915 Graphics Adapter - bisected to commit e9e331a
+Resolution: DUPLICATE
+
+Bug ID: 15020
+Description: Bug in quota: chown process wrote segmentation fault (fs/quota/dquot.c:1398)
+Resolution: DUPLICATE
+
+Bug ID: 114251
+Description: there exists a wrong return value of function beiscsi_create_cqs()
+Resolution: DUPLICATE
+
+Bug ID: 42750
+Description: Unable to detect bluetooth device
+Resolution: DUPLICATE
+
+Bug ID: 8271
+Description: Synaptics driver "synaptics reset failed" during boot
+Resolution: DUPLICATE
+
+Bug ID: 11124
+Description: less power consumption after suspend to ram (HP Laptops)
+Resolution: DUPLICATE
+
+Bug ID: 8772
+Description: PCI: Bus #07 (-#0a) is hidden behind transparent bridge #06 (-#07)
+Resolution: DUPLICATE
+
+Bug ID: 8046
+Description: ACPI errors during kernel boot complaining about IDE controller
+Resolution: DUPLICATE
+
+Bug ID: 187741
+Description: iwlwifi with latest firmware causes 'Microcode SW error detected'
+Resolution: DUPLICATE
+
+Bug ID: 33752
+Description: can't wake up from suspend on msi ex 600 x
+Resolution: DUPLICATE
+
+Bug ID: 12929
+Description: Network interface names are randomly assigned, problems with PXE boot
+Resolution: DUPLICATE
+
+Bug ID: 3406
+Description: C3 causes noise
+Resolution: DUPLICATE
+
+Bug ID: 11557
+Description: Controlling backlight on thinkpad x60
+Resolution: DUPLICATE
+
+Bug ID: 66271
+Description: subwoofer doesn't work in ALC668
+Resolution: DUPLICATE
+
+Bug ID: 14862
+Description: intel-agp breaks X, regression from 2.6.31
+Resolution: DUPLICATE
+
+Bug ID: 18682
+Description: Acer Aspire Timeline 3820T ALPS Touchpad does not work.
+Resolution: DUPLICATE
+
+Bug ID: 358
+Description: erronous 'use usbfs filetype instead' message
+Resolution: DUPLICATE
+
+Bug ID: 43107
+Description: i915: Missed a PM interrupt
+Resolution: DUPLICATE
+
+Bug ID: 195623
+Description: can't shutdown after suspending to ram
+Resolution: DUPLICATE
+
+Bug ID: 15079
+Description: Atheros AR5211 - ath5k driver connection and performance issues
+Resolution: DUPLICATE
+
+Bug ID: 518
+Description: unable to handle kernel paging request
+Resolution: DUPLICATE
+
+Bug ID: 43221
+Description: ACPI Backlight support reported when not present
+Resolution: DUPLICATE
+
+Bug ID: 42172
+Description: WARNING: at drivers/gpu/drm/radeon/radeon_fence.c:267 radeon_fence_wait+0x39f/0x3d0()
+Resolution: DUPLICATE
+
+Bug ID: 6251
+Description: S3 can't resume multiple times unless ec_intr=0 - ThinkPad X20
+Resolution: DUPLICATE
+
+Bug ID: 81341
+Description: NULL pointer deference race-condition in fanotify close descriptor while requests outstanding
+Resolution: DUPLICATE
+
+Bug ID: 1257
+Description: ACPI PCI routing causes hang in i8042_init -- SiS 650/85C503/5513
+Resolution: DUPLICATE
+
+Bug ID: 43047
+Description: Need help: soft lockup for siglock in linux kernel 2.6.24.7
+Resolution: DUPLICATE
+
+Bug ID: 92381
+Description: iwldvm: Timeout waiting for hardware access - while flushing for AP probe
+Resolution: DUPLICATE
+
+Bug ID: 20592
+Description: dvd drive fails on dvd's with 4gb~+ info wrighten on it.
+Resolution: DUPLICATE
+
+Bug ID: 1741
+Description: Asus PR-DLS533 motherboard PCI problem
+Resolution: DUPLICATE
+
+Bug ID: 12773
+Description: no wake - HP nc4010
+Resolution: DUPLICATE
+
+Bug ID: 20682
+Description: Kernel bug, possible double free, effecting kernel.org machines
+Resolution: DUPLICATE
+
+Bug ID: 8453
+Description: Sky2 network module stops working
+Resolution: DUPLICATE
+
+Bug ID: 63461
+Description: BUG: unable to handle kernel NULL pointer dereference at 00000000000000c0
+Resolution: DUPLICATE
+
+Bug ID: 45391
+Description: ACPI Warning: 0x0000000000000460-0x000000000000047f SystemIO conflicts with Region \PMIO 1 (20120320/utaddress-251)
+Resolution: DUPLICATE
+
+Bug ID: 28942
+Description: no more brightness control on Fujitsu-Siemens SI 2636 laptop with 2.6.38-RC4 kernel
+Resolution: DUPLICATE
+
+Bug ID: 199447
+Description: iwlwifi for 8260 fails with firmware iwlwifi-8000C-34.ucode
+Resolution: DUPLICATE
+
+Bug ID: 5754
+Description: Optical PS/2 Mouse lights off after moving it
+Resolution: DUPLICATE
+
+Bug ID: 70641
+Description: BUG: unable to handle kernel paging request at ffffc9000c5ba000
+Resolution: DUPLICATE
+
+Bug ID: 70971
+Description: general protection fault
+Resolution: DUPLICATE
+
+Bug ID: 42737
+Description: Kernel oops when try to compile something
+Resolution: DUPLICATE
+
+Bug ID: 8032
+Description: Brand new Seagate HDD 250 16 IDE/ATA :: slow writes
+Resolution: DUPLICATE
+
+Bug ID: 11979
+Description: phy0 -> rt2x00pci_write_tx_data: Error - Arrived at non-free entry in the non-full queue 1.
+Resolution: DUPLICATE
+
+Bug ID: 25072
+Description: backlight level is not maintened during LID close/open
+Resolution: DUPLICATE
+
+Bug ID: 4558
+Description: P4P800-MX (possibly others with i865) extremely slow with onboard video
+Resolution: DUPLICATE
+
+Bug ID: 43371
+Description: Lenovo touch inductive SlideNav panel not work
+Resolution: DUPLICATE
+
+Bug ID: 201213
+Description: Segfault in smp_call_function_single on Ryzen 2500U
+Resolution: DUPLICATE
+
+Bug ID: 7573
+Description: Bus #03 (-#06) is hidden behind transparent bridge #01
+Resolution: DUPLICATE
+
+Bug ID: 434
+Description: unexpected IO-APIC
+Resolution: DUPLICATE
+
+Bug ID: 20522
+Description: Kernel locks up in macb interrupt handler on a flooded network
+Resolution: DUPLICATE
+
+Bug ID: 51721
+Description: kernel panic when switching from battery to AC power supply
+Resolution: DUPLICATE
+
+Bug ID: 189691
+Description: Samsung NVME 950 pro gets 500+ AVG!
+Resolution: DUPLICATE
+
+Bug ID: 67721
+Description: SATA driver spew a lot of "hard resetting link" message after suspend cycle on macbook air 6,2
+Resolution: DUPLICATE
+
+Bug ID: 2578
+Description: Linux locks when running XFree
+Resolution: DUPLICATE
+
+Bug ID: 10178
+Description: SIGPROF isn't dispatched properly when do profiling with gprof
+Resolution: DUPLICATE
+
+Bug ID: 16379
+Description: i915: ACPI brightness control misses _BQC function
+Resolution: DUPLICATE
+
+Bug ID: 3462
+Description: FAT module throws warning about utf8 usage
+Resolution: DUPLICATE
+
+Bug ID: 7015
+Description: S3 resume black console on T60p
+Resolution: DUPLICATE
+
+Bug ID: 8710
+Description: VMWare Fusion-MPT SCSI drives no longer recognized
+Resolution: DUPLICATE
+
+Bug ID: 3013
+Description: Removing processor module causes oops, reinserting doesn't result in power saving
+Resolution: DUPLICATE
+
+Bug ID: 11232
+Description: Console Suspend - Resume Regression
+Resolution: DUPLICATE
+
+Bug ID: 10632
+Description: [2.6.26-rc1] Output to console stops when booted without 'vga=791'
+Resolution: DUPLICATE
+
+Bug ID: 100411
+Description: No Power Related Items: AC/Battery/Power Button
+Resolution: DUPLICATE
+
+Bug ID: 4159
+Description: sleeping function called with interrupts disabled
+Resolution: DUPLICATE
+
+Bug ID: 16036
+Description: _BCM doesn't work (writing to EC BLVL but no effect) - Toshiba T130
+Resolution: DUPLICATE
+
+Bug ID: 43064
+Description: [00:1a.0 Intel USB] Asus U36SD kernel freeze at suspend
+Resolution: DUPLICATE
+
+Bug ID: 14440
+Description: Kernel Panic with lots of page allocation errors, related to the iwlagn driver
+Resolution: DUPLICATE
+
+Bug ID: 17141
+Description: [REGRESSION, Radeon-KMS] 2.6.36-rc1 - graphic issues in 0. A.D.
+Resolution: DUPLICATE
+
+Bug ID: 110581
+Description: HFSC Dequeue Warning
+Resolution: DUPLICATE
+
+Bug ID: 14966
+Description: FM Radio can not tune frequency
+Resolution: DUPLICATE
+
+Bug ID: 1894
+Description: Suspend to ram freeze system
+Resolution: DUPLICATE
+
+Bug ID: 560
+Description: Wacom driver isn't working
+Resolution: DUPLICATE
+
+Bug ID: 10988
+Description: Hangs on resume with acpi_sleep=s3_bios
+Resolution: DUPLICATE
+
+Bug ID: 15971
+Description: drm regression on resume with -rc7 (bisected to 797fd5b9dad12a100c81b5782573a41259728cb1)
+Resolution: DUPLICATE
+
+Bug ID: 4018
+Description: after wake from sleep, the system clock is ahead of the correct time
+Resolution: DUPLICATE
+
+Bug ID: 7386
+Description: (acpi_battery-0208): AE_NOT_FOUND on battery monitoring
+Resolution: DUPLICATE
+
+Bug ID: 2940
+Description: ehci_hcd blocks suspend to RAM
+Resolution: DUPLICATE
+
+Bug ID: 2843
+Description: modprobe acpi segfaults, kernel OOPS
+Resolution: DUPLICATE
+
+Bug ID: 13945
+Description: Kernel freezes dual pentium-3 system
+Resolution: DUPLICATE
+
+Bug ID: 12448
+Description: system does not power off after shutdown
+Resolution: DUPLICATE
+
+Bug ID: 18752
+Description: kernel oops  memory\hibernate
+Resolution: DUPLICATE
+
+Bug ID: 1921
+Description: scanner module causes oops
+Resolution: DUPLICATE
+
+Bug ID: 25312
+Description: Blanked screen with 2.6.37-rc6, -rc5 works OK (bisected to 541cc966915b6756e54c20eebe60ae957afdb537)
+Resolution: DUPLICATE
+
+Bug ID: 4123
+Description: S3 resume: no video - Dell X300 - 855GM
+Resolution: DUPLICATE
+
+Bug ID: 8194
+Description: Asus Notebooks only have full power off the dc
+Resolution: DUPLICATE
+
+Bug ID: 3074
+Description: oops when trying to modprobe nsc-ircc irda driver
+Resolution: DUPLICATE
+
+Bug ID: 3696
+Description: S5 reboots when on AC - broken as of ACPICA 20040715
+Resolution: DUPLICATE
+
+Bug ID: 7179
+Description: Compilation of .tmp_linux1 fails due to missing declaration in net/netfilter/xt_physdev.c
+Resolution: DUPLICATE
+
+Bug ID: 7090
+Description: ACPI: Looking for DSDT ... not found!
+Resolution: DUPLICATE
+
+Bug ID: 16522
+Description: Persistant critical shutdown because of bogus temperature got from EC address space - Asus V1S
+Resolution: DUPLICATE
+
+Bug ID: 179901
+Description: iwlwifi: Microcode SW error detected after to resume from supend to RAM
+Resolution: DUPLICATE
+
+Bug ID: 5487
+Description: Boot fails with BIOS memory remapping enabled on an Adaptec SCSI system with Asus A8V and 4GB of RAM
+Resolution: DUPLICATE
+
+Bug ID: 43184
+Description: [Intel 6300] WLAN 802.11n connections stall regularly
+Resolution: DUPLICATE
+
+Bug ID: 10169
+Description: [BUG 2.6.25-rc3] scheduler/hotplug: some processes are dealocked when cpu is set to offline
+Resolution: DUPLICATE
+
+Bug ID: 4292
+Description: usb harddisk don' work, problem with the ehci_hcd module
+Resolution: DUPLICATE
+
+Bug ID: 20552
+Description: Kernel locks up in macb interrupt handler on a flooded network
+Resolution: DUPLICATE
+
+Bug ID: 15549
+Description: [2.6.34-rc1][libata] regression?
+Resolution: DUPLICATE
+
+Bug ID: 12706
+Description: Oopses and ACPI problems (Linus 2.6.29-rc4)
+Resolution: DUPLICATE
+
+Bug ID: 11279
+Description: 2.6.27-rc0 Power Bugs with HP/Compaq Laptops
+Resolution: DUPLICATE
+
+Bug ID: 17702
+Description: Stable2.6.35.x  kernel regression: KMS/xorg fails to start, xorg log ending as DRI2 starts
+Resolution: DUPLICATE
+
+Bug ID: 45361
+Description: unable to boot due to KMS activation for i915
+Resolution: DUPLICATE
+
+Bug ID: 60598
+Description: skip_vt_switch = true in linux 3.10.1 for i915 causes defects in X display after resume from RAM
+Resolution: DUPLICATE
+
+Bug ID: 10656
+Description: dmesg timestamps to small and jumping back and forth. Regression from 2.6.24
+Resolution: DUPLICATE
+
+Bug ID: 6056
+Description: SATA problem on sata_nv (NFPIK8AA-8EKRS)
+Resolution: DUPLICATE
+
+Bug ID: 60527
+Description: [IVB hybrid] Linux 3.10.0: black screen on Asus UX32VD, please revert -> Revert "drm/i915: revert eDP bpp clamping code changes"
+Resolution: DUPLICATE
+
+Bug ID: 4734
+Description: PCMCIA Card - Creative Sounblaster Audigy2 ZS Notebook crashes Kernel
+Resolution: DUPLICATE
+
+Bug ID: 30172
+Description: xHCI Express Card causes "irq 23 nobody cared" error
+Resolution: DUPLICATE
+
+Bug ID: 26092
+Description: /sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0003:00/power_supply/ACAD doesn't update always.
+Resolution: DUPLICATE
+
+Bug ID: 8243
+Description: Problem with Throttling and CPU power state
+Resolution: DUPLICATE
+
+Bug ID: 5016
+Description: rp_filter documentation error in Kconfig
+Resolution: DUPLICATE
+
+Bug ID: 63701
+Description: GPF when doing df -h in btrfs partition
+Resolution: DUPLICATE
+
+Bug ID: 83071
+Description: iwlwifi 0000:01:00.0: fail to flush all tx fifo queues Q 2
+Resolution: DUPLICATE
+
+Bug ID: 4960
+Description: VIA PCI IRQ routing broken
+Resolution: DUPLICATE
+
+Bug ID: 198239
+Description: [drm:r600_ring_test [radeon]] *ERROR* radeon: ring 0 test failed (scratch(0x8504)=0xCAFEDEAD)
+Resolution: DUPLICATE
+
+Bug ID: 8500
+Description: udivdi3  absence with gcc-4.3.0 on kernels 2.6.20.11 & 2.6.22.-rc1
+Resolution: DUPLICATE
+
+Bug ID: 18692
+Description: 2.6.36-rc4/iwl: warning triggered in net/mac80211/scan.c:266
+Resolution: DUPLICATE
+
+Bug ID: 12352
+Description: kernel panic with asus m3a-h/hdmi and amd hybrid crossfire turned on
+Resolution: DUPLICATE
+
+Bug ID: 3159
+Description: ttyS input overrun(s)
+Resolution: DUPLICATE
+
+Bug ID: 118291
+Description: Fujitsu Siemens U9210: Adjusting headphone volume does not have an effect
+Resolution: DUPLICATE
+
+Bug ID: 15335
+Description: Not message of ECC enable in dmesg with Kernel command line ecc_enable_override
+Resolution: DUPLICATE
+
+Bug ID: 4381
+Description: When i try to start a pppoe conn., crash at net/core/skbuff.c:91
+Resolution: DUPLICATE
+
+Bug ID: 8030
+Description: bogomips reports incorrectly and gettimeofday increments too slowly
+Resolution: DUPLICATE
+
+Bug ID: 3840
+Description: 2.6.9-gentoo-r3, 2.6.9-gentoo-r4 and 2.6.10-rc2 crash with mplayer and celestia
+Resolution: DUPLICATE
+
+Bug ID: 4070
+Description: possible 2.6.8-2.6.9 regression (Random screen dimming/brightening, and fn buttons work in reverse or delayed)
+Resolution: DUPLICATE
+
+Bug ID: 14764
+Description: battery status info dissapears in 2.6.27.5 - MSI GX700, EX600 laptops
+Resolution: DUPLICATE
+
+Bug ID: 6012
+Description: compil 2.6.16, 2.6.16-rc2-git1
+Resolution: DUPLICATE
+
+Bug ID: 35332
+Description: irq 17: nobody cared
+Resolution: DUPLICATE
+
+Bug ID: 8086
+Description: oops at mount
+Resolution: DUPLICATE
+
+Bug ID: 12930
+Description: Very low signal strenghts with ath9k in 2.6.29
+Resolution: DUPLICATE
+
+Bug ID: 100741
+Description: The DRM interfaces show status "unknown" after suspend/resume
+Resolution: DUPLICATE
+
+Bug ID: 16435
+Description: ath5k (AR5001) does not work after resume and fails with "ath5k phy0: gain calibration timeout"
+Resolution: DUPLICATE
+
+Bug ID: 5031
+Description: Sempron 2800+ (1.6GHz) sleeps half as long as it should
+Resolution: DUPLICATE
+
+Bug ID: 177291
+Description: CONFIG_EEPROM_LEGACY causes very high interrupts on i801_smbus
+Resolution: DUPLICATE
+
+Bug ID: 8390
+Description: Batery always charging at 10% on thinkpad t43
+Resolution: DUPLICATE
+
+Bug ID: 1355
+Description: 2.6 poweroff always fails -- Centrino
+Resolution: DUPLICATE
+
+Bug ID: 49161
+Description: Kernel 3.4 + on Samsung Ultrabook Series 9 - Machine Check Exception
+Resolution: DUPLICATE
+
+Bug ID: 200017
+Description: BUG: KASAN: slab-out-of-bounds in predicate_parse kernel/trace/trace_events_filter.c
+Resolution: DUPLICATE
+
+Bug ID: 4020
+Description: Reboot no longer works after suspend
+Resolution: DUPLICATE
+
+Bug ID: 197135
+Description: Thinkpad 8 realtek ASoC no sound
+Resolution: DUPLICATE
+
+Bug ID: 4454
+Description: Mobile Intel Prescott with Enhanced Speedstep not recognized, acpi-cpufreq & speedstep-centrino don't recognize
+Resolution: DUPLICATE
+
+Bug ID: 15627
+Description: ACPI brightness bug no FN F7 F8 brightness control, no keycode of 4 keys and start up with a dim brightness
+Resolution: DUPLICATE
+
+Bug ID: 28152
+Description: ALPS touchpad detected as ImPS/2 Generic Wheel Mouse
+Resolution: DUPLICATE
+
+Bug ID: 1316
+Description: infinite "drivers/usb/input/hid-core.c: control queue full" on apcupsd load
+Resolution: DUPLICATE
+
+Bug ID: 3594
+Description: Linux attempts to acces removable media that is not present
+Resolution: DUPLICATE
+
+Bug ID: 4963
+Description: Encounter this Kernel oops while running file system race around test suite
+Resolution: DUPLICATE
+
+Bug ID: 14180
+Description: Lockup in pty_write/tty_wakeup when using PPTP
+Resolution: DUPLICATE
+
+Bug ID: 8504
+Description: regression 2.6.21 boot hang - Redion EmbeddedControl(3) has no handler - Asus M6700NE
+Resolution: DUPLICATE
+
+Bug ID: 20582
+Description: Kernel locks up in macb interrupt handler on a flooded network
+Resolution: DUPLICATE
+
+Bug ID: 16671
+Description: DOS - bzr causes kernel wedge when used over nfs4
+Resolution: DUPLICATE
+
+Bug ID: 25482
+Description: Backlight hotkeys behave erratically on FSC Esprimo Mobile U9200
+Resolution: DUPLICATE
+
+Bug ID: 4579
+Description: "'FAILURE' undeclared" in microtek.c line 338
+Resolution: DUPLICATE
+
+Bug ID: 150481
+Description: i2c_designware: probe of 808622C1:06 failed with error -110
+Resolution: DUPLICATE
+
+Bug ID: 9837
+Description: I can't boot with a PLEXTOR PX-740A
+Resolution: DUPLICATE
+
+Bug ID: 101361
+Description: Touchpad is not working on the Dell XPS 13 9343
+Resolution: DUPLICATE
+
+Bug ID: 58801
+Description: intel_pstate/powersave - cpu frequency remains at high level if if system is idle
+Resolution: DUPLICATE
+
+Bug ID: 2858
+Description: Boot/shutdown messages not visible with Radeon 9000
+Resolution: DUPLICATE
+
+Bug ID: 65491
+Description: moxart: ifconfig: Bad page state in process sh
+Resolution: DUPLICATE
+
+Bug ID: 198853
+Description: BUG: unable to handle kernel NULL pointer dereference at 0000000000000040
+Resolution: DUPLICATE
+
+Bug ID: 14115
+Description: HP dv2910us EC errors
+Resolution: DUPLICATE
+
+Bug ID: 2053
+Description: PDC20267 DMA timeout errors
+Resolution: DUPLICATE
+
+Bug ID: 5771
+Description: OOPS in libata when scaling cpu frequency
+Resolution: DUPLICATE
+
+Bug ID: 74131
+Description: Kernel 3.14 ACPICA changes prevent kernel from booting on some motherboards
+Resolution: DUPLICATE
+
+Bug ID: 8610
+Description: [2.6.21.1] soft lockup detected on CPU#1 - timers
+Resolution: DUPLICATE
+
+Bug ID: 20612
+Description: dvd drive fails on dvd's with 4gb~+ info wrighten on it.
+Resolution: DUPLICATE
+
+Bug ID: 2004
+Description: No Detection of Olympus D-380 Camera with USB Mass Storage in 2.6.x
+Resolution: DUPLICATE
+
+Bug ID: 1343
+Description: Problems with input devices driver PS/2 Touchpad on 2.6.0-test7 kernel
+Resolution: DUPLICATE
+
+Bug ID: 9089
+Description: sky2 do not write UDP checksum after reinitialisation
+Resolution: DUPLICATE
+
+Bug ID: 53431
+Description: busy inodes on umounted fat device - when deconnecting not safely a digital camera on USB
+Resolution: DUPLICATE
+
+Bug ID: 103681
+Description: wifi randomly disconnects
+Resolution: DUPLICATE
+
+Bug ID: 7989
+Description: High IOWait on HP DL360
+Resolution: DUPLICATE
+
+Bug ID: 105301
+Description: Suspend sometimes fails if mei_me RUNTIME_PM enabled - Zenbook UX303
+Resolution: DUPLICATE
+
+Bug ID: 23312
+Description: asix usb network driver non-functional in 2.6.36, and breaks system suspend
+Resolution: DUPLICATE
+
+Bug ID: 15046
+Description: Flicker on laptop monitor
+Resolution: DUPLICATE
+
+Bug ID: 16831
+Description: Mainline's asix driver does not work with A-Link NA1GU - does not send data
+Resolution: DUPLICATE
+
+Bug ID: 7958
+Description: AE_AML_PACKAGE_LIMIT is beyond end of object
+Resolution: DUPLICATE
+
+Bug ID: 5935
+Description: boot process hangs in pci_init, when initializing EHCI USB2 host controller (ATI IXP SB400 chipset)
+Resolution: DUPLICATE
+
+Bug ID: 4919
+Description: APM resume: freeze at disk access
+Resolution: DUPLICATE
+
+Bug ID: 12784
+Description: Boot dies while initializing yenta cardbus
+Resolution: DUPLICATE
+
+Bug ID: 38172
+Description: ACPI Error: [RAMB] Namespace lookup failure, AE_NOT_FOUND on ASUS P8H67
+Resolution: DUPLICATE
+
+Bug ID: 2336
+Description: Severe data corrupt on XFS RAID and XFS LVM dev after reboot
+Resolution: DUPLICATE
+
+Bug ID: 175
+Description: module.h header file stops compile.
+Resolution: DUPLICATE
+
+Bug ID: 4704
+Description: HIGHMEM enabled kernel incredible slow on I/O performance (_50x_ to 2x slower!)
+Resolution: DUPLICATE
+
+Bug ID: 16236
+Description: Desktop is larger than display
+Resolution: DUPLICATE
+
+Bug ID: 7069
+Description: use unsigned long long for statistics
+Resolution: DUPLICATE
+
+Bug ID: 195871
+Description: ThinkPad T560, Intel Wireless 8260, iwlwifi, "no suitable firmware found". Works in 4.4.0-78.
+Resolution: DUPLICATE
+
+Bug ID: 10673
+Description: build issue #380 for v2.6.26-rc1-279-g28a4acb : mach-voyager: multiple definition of `phys_cpu_present_map'
+Resolution: DUPLICATE
+
+Bug ID: 1245
+Description: usb hangs kernel on boot.
+Resolution: DUPLICATE
+
+Bug ID: 196313
+Description: 4.9 lts kernel ，sush: page allocation failure: order:9, mode:0x2604000(GFP_NOIO|__GFP_COMP|__GFP_NOTRACK)
+Resolution: DUPLICATE
+
+Bug ID: 13811
+Description: [GM965/KMS/UXA] memory corruption on resume from hibernate
+Resolution: DUPLICATE
+
+Bug ID: 43048
+Description: [thinkpad-acpi]Fan control doesn't work
+Resolution: DUPLICATE
+
+Bug ID: 36102
+Description: Plug-in of USB HDD crashes system
+Resolution: DUPLICATE
+
+Bug ID: 1026
+Description: ACPI and Local APIC don't work together on Presario 2540EA
+Resolution: DUPLICATE
+
+Bug ID: 3158
+Description: ttyS input overrun(s)
+Resolution: DUPLICATE
+
+Bug ID: 60001
+Description: kernel: *BAD*gran_size on Linux version 3.9.5
+Resolution: DUPLICATE
+
+Bug ID: 34022
+Description: Kernel OOPS turning on Radeon on vgaswitcheroo enabled system
+Resolution: DUPLICATE
+
+Bug ID: 9524
+Description: [PATCH] scheduler: fix x86 regression in native_sched_clock
+Resolution: DUPLICATE
+
+Bug ID: 10137
+Description: DVD record doesn't work on SATA.
+Resolution: DUPLICATE
+
+Bug ID: 6424
+Description: Intel
+Resolution: DUPLICATE
+
+Bug ID: 13619
+Description: Inserting a video DVD causes a kernel panic
+Resolution: DUPLICATE
+
+Bug ID: 43097
+Description: Screen brightness and other Fn keys do not work on HP Folio 13
+Resolution: DUPLICATE
+
+Bug ID: 1609
+Description: same as bug # 1550, which was never touched
+Resolution: DUPLICATE
+
+Bug ID: 11816
+Description: mount: /dev/cciss/c0d0p1 already mounted or /boot busy
+Resolution: DUPLICATE
+
+Bug ID: 13991
+Description: e100 Freezes Kernel-2.6.30
+Resolution: DUPLICATE
+
+Bug ID: 15756
+Description: HPET module broken with Dell Precision M6500
+Resolution: DUPLICATE
+
+Bug ID: 116591
+Description: Mobile does not reach states deeper than PC2 - Lenovo YOGA 900-13ISK, Skylake
+Resolution: DUPLICATE
+
+Bug ID: 15339
+Description: Error Message of e1000 driver
+Resolution: DUPLICATE
+
+Bug ID: 32652
+Description: System locks up after resuming from s2disk (bisected)
+Resolution: DUPLICATE
+
+Bug ID: 955
+Description: Nvidia Nforce2 interrupt handling problems
+Resolution: DUPLICATE
+
+Bug ID: 3940
+Description: EPIA integrated serial port not recognized
+Resolution: DUPLICATE
+
+Bug ID: 27042
+Description: Call Trace: <IRQ>  [<ffffffff8111023a>] __alloc_pages_slowpath+0x45a/0x5b0
+Resolution: DUPLICATE
+
+Bug ID: 10693
+Description: sky2: driver-specific VLAN support is broken with "Marvell 88E8053 PCI-E Gigabit Ethernet Controller (rev 22)"
+Resolution: DUPLICATE
+
+Bug ID: 71011
+Description: BUG: unable to handle kernel paging request at ffffffff81ed0330
+Resolution: DUPLICATE
+
+Bug ID: 13578
+Description: Kernel crash during suspend resume on IBM Thinkpad R52 with Fedora 11
+Resolution: DUPLICATE
+
+Bug ID: 101161
+Description: X-Power module doesn't work on Linx7 Tablet (keeps hanging on refreshing)
+Resolution: DUPLICATE
+
+Bug ID: 6153
+Description: Compilation error in nfs module (direct.c)
+Resolution: DUPLICATE
+
+Bug ID: 9965
+Description: drivers/built-in.o: In function `v4l2_i2c_attach': undefined reference to `i2c_attach_client'
+Resolution: DUPLICATE
+
+Bug ID: 10513
+Description: Incorrect checksum in table  [SSDT], HP Pavilion dv2765tx
+Resolution: DUPLICATE
+
+Bug ID: 7615
+Description: sky2 hangs entire system under load
+Resolution: DUPLICATE
+
+Bug ID: 6156
+Description: Kernel panic with kernel 2.6.16-rc5 and bridge code
+Resolution: DUPLICATE
+
+Bug ID: 10270
+Description: hci crash with bluetooth headset
+Resolution: DUPLICATE
+
+Bug ID: 54011
+Description: USB HDD not recognised since 3.8rc7
+Resolution: DUPLICATE
+
+Bug ID: 69161
+Description: xf86-video-omapfb & CONFIG_FB_OMAP2 segfaults
+Resolution: DUPLICATE
+
+Bug ID: 3283
+Description: SMP DEBUG_PAGEALLOC in nfs3_request_init
+Resolution: DUPLICATE
+
+Bug ID: 66551
+Description: 3.12 or later kernel always reboot when need shutdown machine
+Resolution: DUPLICATE
+
+Bug ID: 29792
+Description: BUG: fs/inode.c:1422 when deleting device-mapper devices
+Resolution: DUPLICATE
+
+Bug ID: 20512
+Description: Kernel locks up in macb interrupt handler on a flooded network
+Resolution: DUPLICATE
+
+Bug ID: 38062
+Description: Lenovo Ideapad S10-3C keyboard isn't working with ACPI enabled.
+Resolution: DUPLICATE
+
+Bug ID: 2347
+Description: S3 resume: reboot instead of resume
+Resolution: DUPLICATE
+
+Bug ID: 9049
+Description: pci=assign-busses suggested when booting my system
+Resolution: DUPLICATE
+
+Bug ID: 651
+Description: floppy is broken
+Resolution: DUPLICATE
+
+Bug ID: 15155
+Description: Cannot shutdown linux
+Resolution: DUPLICATE
+
+Bug ID: 10299
+Description: fedora: "linux-2.6-acpi-fix-sizeof.patch" breaks acpi-cpufreq
+Resolution: DUPLICATE
+
+Bug ID: 42568
+Description: ThinkPad T520 I/O errors during accessing SD card with internal reader
+Resolution: DUPLICATE
+
+Bug ID: 868
+Description: Files missing?
+Resolution: DUPLICATE
+
+Bug ID: 2352
+Description: Please apply patch to ignore known-non-removable devices
+Resolution: DUPLICATE
+
+Bug ID: 1170
+Description: compile error iph5526.c
+Resolution: DUPLICATE
+
+Bug ID: 112841
+Description: iwlwifi: mvm: A
+Resolution: DUPLICATE
+
+Bug ID: 13157
+Description: Fan not switching properly with Intel ICH9 and Insyde H2O bios
+Resolution: DUPLICATE
+
+Bug ID: 9697
+Description: No battery on laptop because of "No handler for Region [EC__]" acpi error
+Resolution: DUPLICATE
+
+Bug ID: 9781
+Description: kacpid uses 80% CPU - E4400/D945GCNL
+Resolution: DUPLICATE
+
+Bug ID: 199997
+Description: use-after-free detected by KASAN in ext4_xattr_set_entry() when mounting and writing to a crafted ext4 image
+Resolution: DUPLICATE
+
+Bug ID: 4007
+Description: No USB 2.0 on Acer Travelmate 4000LMi (and some other notebooks
+Resolution: DUPLICATE
+
+Bug ID: 30292
+Description: BUG in xs_tcp_setup_socket
+Resolution: DUPLICATE
+
+Bug ID: 70511
+Description: t440p haswell hdmi no sound
+Resolution: DUPLICATE
+
+Bug ID: 32102
+Description: Spurious GPU hangups with 2.6.38
+Resolution: DUPLICATE
+
+Bug ID: 6099
+Description: 2 times IO slowdown in APIC enabled mode
+Resolution: DUPLICATE
+
+Bug ID: 8518
+Description: System hangs with gentoo-sources-2.6.21 with acpi thermal zone enabled
+Resolution: DUPLICATE
+
+Bug ID: 606
+Description: Hang occurs at reboot
+Resolution: DUPLICATE
+
+Bug ID: 34532
+Description: Battery not detected
+Resolution: DUPLICATE
+
+Bug ID: 43731
+Description: sis190 doesn't assemble packets
+Resolution: DUPLICATE
+
+Bug ID: 2044
+Description: boot hang unless "nolapic" - hp pavilion ze4125
+Resolution: DUPLICATE
+
+Bug ID: 30372
+Description: using VirtualBox on external file system crashes
+Resolution: DUPLICATE
+
+Bug ID: 8234
+Description: Creator3D Framebuffer (sparc64) on Sbus/UPA workstation
+Resolution: DUPLICATE
+
+Bug ID: 28632
+Description: chromium-browse: page allocation failure. order:1, mode:0x4020
+Resolution: DUPLICATE
+
+Bug ID: 15359
+Description: ALPS Touchpad in Compaq Mini 311 recognized as "ImPS/2 Generic Wheel Mouse"
+Resolution: DUPLICATE
+
+Bug ID: 20562
+Description: Kernel locks up in macb interrupt handler on a flooded network
+Resolution: DUPLICATE
+
+Bug ID: 3102
+Description: kernel fails to boot
+Resolution: DUPLICATE
+
+Bug ID: 43288
+Description: panic occurred switching back to text console ubuntu 11.10
+Resolution: DUPLICATE
+
+Bug ID: 10308
+Description: Dates and times of copied files not preserved
+Resolution: DUPLICATE
+
+Bug ID: 2514
+Description: modem_run doesn't work anymore
+Resolution: DUPLICATE
+
+Bug ID: 109281
+Description: Touchpad on Asus UX305CA not recognized
+Resolution: DUPLICATE
+
+Bug ID: 3219
+Description: C-state failure on IBM ThinkPad R40e
+Resolution: DUPLICATE
+
+Bug ID: 353
+Description: Kernel panic on boot after realtek RTL-8139 ethernet intialization
+Resolution: DUPLICATE
+
+Bug ID: 13296
+Description: Lockdep violation at cleanup_workqueue_thread during suspend
+Resolution: DUPLICATE
+
+Bug ID: 191421
+Description: No Audio device on Odys Vario Pro 12
+Resolution: DUPLICATE
+
+Bug ID: 2660
+Description: Bad argument value to the acpi_scan_rsdp
+Resolution: DUPLICATE
+
+Bug ID: 16489
+Description: kmemleak after suspend2ram in cpufreq driver
+Resolution: DUPLICATE
+
+Bug ID: 73031
+Description: crash [saa7134] and [videodev] opening tvtime and xawtv
+Resolution: DUPLICATE
+
+Bug ID: 7224
+Description: marvell NIC 88e8036 freeze
+Resolution: DUPLICATE
+
+Bug ID: 3611
+Description: Ext3 Sequential read doesn't reach hardware speed
+Resolution: DUPLICATE
+
+Bug ID: 43076
+Description: Kernel panic after upgrade to 3.3.1
+Resolution: DUPLICATE
+
+Bug ID: 113671
+Description: there exists a wrong return value of function bnx2x_init_firmware() when kmalloc() fails
+Resolution: DUPLICATE
+
+Bug ID: 11020
+Description: Asus M2A-MX (AMD 690V/SB600) - low performance SATA
+Resolution: DUPLICATE
+
+Bug ID: 13515
+Description: Copying big file (8GB) cause oops
+Resolution: DUPLICATE
+
+Bug ID: 38372
+Description: unable to handle kernel NULL pointer dereference in ext3
+Resolution: DUPLICATE
+
+Bug ID: 6183
+Description: Battery incorrectly detected as "absent" on boot
+Resolution: DUPLICATE
+
+Bug ID: 3882
+Description: Burning a session beyond 2.2 Gig on a multisession DVD.
+Resolution: DUPLICATE
+
+Bug ID: 4150
+Description: AE_AML_BUFFER_LIMIT:  EC (battery) failures [AE_TIME] - Asus M6R
+Resolution: DUPLICATE
+
+Bug ID: 3451
+Description: boot freeze unless "nolapic" - EVO N110
+Resolution: DUPLICATE
+
+Bug ID: 5713
+Description: ec burst
+Resolution: DUPLICATE
+
+Bug ID: 2519
+Description: Kernel OOPS when removing processor module
+Resolution: DUPLICATE
+
+Bug ID: 1677
+Description: boot hang: "ACPI: IRQ9 SCI: Level Trigger" - ATI
+Resolution: DUPLICATE
+
+Bug ID: 197017
+Description: CPU frequency stuck to maximum
+Resolution: DUPLICATE
+
+Bug ID: 4034
+Description: clock_gettime doesn't work with CLOCK_THREAD_CPUTIME_ID
+Resolution: DUPLICATE
+
+Bug ID: 2407
+Description: ACPI-1133: *** Error: Method execution failed [_PRW] AE_NOT_EXIST
+Resolution: DUPLICATE
+
+Bug ID: 12638
+Description: eeepc_laptop module ignores eeepc wifi bios status on 701
+Resolution: DUPLICATE
+
+Bug ID: 16563
+Description: High load since 2.6.35
+Resolution: DUPLICATE
+
+Bug ID: 512
+Description: CONFIG_PREEMPT / Invalid module format / version magic
+Resolution: DUPLICATE
+
+Bug ID: 16391
+Description: Hp Envy 14 Brightness Problem (ACPI brightness control misses _BQC function)
+Resolution: DUPLICATE
+
+Bug ID: 7687
+Description: nVidia CK804 PCIe <=> ATA/SATA Problem
+Resolution: DUPLICATE
+
+Bug ID: 9203
+Description: raid5 doesnt shut down cleanly on 2.6.23-git1[3-6]
+Resolution: DUPLICATE
+
+Bug ID: 41292
+Description: scaling_min_freq reverts to cpuinfo_min_freq after wake up
+Resolution: DUPLICATE
+
+Bug ID: 14188
+Description: conflicts with ACPI region
+Resolution: DUPLICATE
+
+Bug ID: 8744
+Description: Doesn't find BAT0
+Resolution: DUPLICATE
+
+Bug ID: 85681
+Description: PREEMPT_RT isn't able to run the openPOWERLINK stack without distorting the output of "ps"
+Resolution: DUPLICATE
+
+Bug ID: 6010
+Description: 2.6.16-rc2 on debian testing with cc version 4.0.3 20051201 (prerelease) (Debian 4.0.2-5)
+Resolution: DUPLICATE
+
+Bug ID: 4302
+Description: Device 'i823650' does not have a release() function, it is broken and must be fixed.
+Resolution: DUPLICATE
+
+Bug ID: 3142
+Description: Loading speedstep-ich module seg faults
+Resolution: DUPLICATE
+
+Bug ID: 133
+Description: qconf crashes editing max # of CPUs
+Resolution: DUPLICATE
+
+Bug ID: 3837
+Description: 2.6.9-gentoo-r3, 2.6.9-gentoo-r4 and 2.6.10-rc2 crash with mplayer and celestia
+Resolution: DUPLICATE
+
+Bug ID: 82831
+Description: gm45 render ring initialization error regression
+Resolution: DUPLICATE
+
+Bug ID: 4025
+Description: Returning from S3 sleep advances the clock too much
+Resolution: DUPLICATE
+
+Bug ID: 13192
+Description: ENOMEM when shmat of pre-existing hugepage segment at explicit virtual address
+Resolution: DUPLICATE
+
+Bug ID: 2678
+Description: HDD on AMD 8111 ide write cache failure.
+Resolution: DUPLICATE
+
+Bug ID: 14735
+Description: ACPI sleep button and lid events not generated in 2.6.32 series
+Resolution: DUPLICATE
+
+Bug ID: 11868
+Description: agpgart-intel fails on gigabyte ga-g31mf-s1 board with low (1+1megabyte shared ram) chipset framebuffer size
+Resolution: DUPLICATE
+
+Bug ID: 200389
+Description: iwlmvm: 7265: stops working after kernel warning / trace
+Resolution: DUPLICATE
+
+Bug ID: 550
+Description: reading /proc/bus/pnp/escd results in oops
+Resolution: DUPLICATE
+
+Bug ID: 8238
+Description: nvidia timer: MP-BIOS bug: 8254 timer not connected to IO-APIC
+Resolution: DUPLICATE
+
+Bug ID: 15224
+Description: i915 crash ([drm:i915_gem_do_execbuffer] *ERROR* Invalid object handle 1073741824 at index 1)
+Resolution: DUPLICATE
+
+Bug ID: 57561
+Description: [drm] capturing error event;
+Resolution: DUPLICATE
+
+Bug ID: 12116
+Description: acpid battery status faliure - Asus laptop PRO50Gseries
+Resolution: DUPLICATE
+
+Bug ID: 20492
+Description: Kernel locks up in macb interrupt handler on a flooded network
+Resolution: DUPLICATE
+
+Bug ID: 8445
+Description: SI3112/3512 + Nvidia - Filesystem silent corrupt on SATA
+Resolution: DUPLICATE
+
+Bug ID: 2965
+Description: tp r50p sound stops (IRQ 5) after suspend-resume cycle
+Resolution: DUPLICATE
+
+Bug ID: 3800
+Description: S3 resume: no video - HP OmniBook 6000
+Resolution: DUPLICATE
+
+Bug ID: 14911
+Description: kernel BUG at fs/ext4/inode.c
+Resolution: DUPLICATE
+
+Bug ID: 4651
+Description: Clock runs too fast and I get  APIC error on CPU0: 40(40)  and 00(40)
+Resolution: DUPLICATE
+
+Bug ID: 7798
+Description: [sparc64] nfsd randomly crashes
+Resolution: DUPLICATE
+
+Bug ID: 11538
+Description: WARNING: at net/ipv4/tcp_input.c:2569 tcp_ack+0xcd9/0x1f90()
+Resolution: DUPLICATE
+
+Bug ID: 6015
+Description: Kernel does't boot without "acpi=noirq" option on I/O-4 chipset.
+Resolution: DUPLICATE
+
+Bug ID: 12037
+Description: [PATCH] Fix reversed brightness behavior on ThinkPad SL series
+Resolution: DUPLICATE
+
+Bug ID: 197995
+Description: iwlwifi Intel 8260 (rev 3a) firmware version 34.0.1 crashes on 4.14.2
+Resolution: DUPLICATE
+
+Bug ID: 7579
+Description: Sky2 receive checksum errors
+Resolution: DUPLICATE
+
+Bug ID: 1977
+Description: USB speedtch unplugging causes oops (in modem_run?)
+Resolution: DUPLICATE
+
+Bug ID: 78211
+Description: GPU lockup
+Resolution: DUPLICATE
+
+Bug ID: 5219
+Description: Audio problem (5.1 surround sound) with Audigy 2 (EMU10K1) ALSA
+Resolution: DUPLICATE
+
+Bug ID: 11709
+Description: Case-insensitive search does not work on FAT when UTF8=1
+Resolution: DUPLICATE
+
+Bug ID: 15123
+Description: The new Kernel has a big problem with driver rtl8187.
+Resolution: DUPLICATE
+
+Bug ID: 12348
+Description: MSI M673 Laptop does not poweroff after shutdown
+Resolution: DUPLICATE
+
+Bug ID: 96911
+Description: alx: Qualcomm Atheros AR8161 stops working after a few seconds
+Resolution: DUPLICATE
+
+Bug ID: 16311
+Description: [REGRESSION][SUSPEND] 2.6.35-rcX won't suspend Lenovo W500 laptop
+Resolution: DUPLICATE
+
+Bug ID: 15805
+Description: reiserfs locking
+Resolution: DUPLICATE
+
+Bug ID: 2781
+Description: kernel panic with acpi processor module and speedstep
+Resolution: DUPLICATE
+
+Bug ID: 26122
+Description: zaurus bluetooth regression
+Resolution: DUPLICATE
+
+Bug ID: 3572
+Description: When Dell Inspiron 4000 goes into S3, the backlight is left on (the screen turns white)
+Resolution: DUPLICATE
+
+Bug ID: 33872
+Description: e1000e runtime suspend breaks shutdown - ThinkPad T510, X60, X61s, X201
+Resolution: DUPLICATE
+
+Bug ID: 29942
+Description: oops at drivers/gpu/drm/ttm/ttm_bo.c:272
+Resolution: DUPLICATE
+
+Bug ID: 4715
+Description: Unpluging ACM device crash the kernel
+Resolution: DUPLICATE
+
+Bug ID: 15028
+Description: kernel segfaults during system halt
+Resolution: DUPLICATE
+
+Bug ID: 4127
+Description: Don't work usb mass-storage driver for Vendor: ERATECH   Model: EMP-200 UMS DISK  Rev: 0.01
+Resolution: DUPLICATE
+
+Bug ID: 13667
+Description: drm: display arifacts when X.Org is stopped
+Resolution: DUPLICATE
+
+Bug ID: 8591
+Description: Problem with the PCI : Bus
+Resolution: DUPLICATE
+
+Bug ID: 29872
+Description: toshiba_acpi issues with high temperature (fan does not cool), etc. Laptop: Toshiba Satellite Pro U500
+Resolution: DUPLICATE
+
+Bug ID: 4542
+Description: S3 resume: no video - Averatec 3300
+Resolution: DUPLICATE
+
+Bug ID: 5447
+Description: Crash dump for Dlink DFE-580TX under high load
+Resolution: DUPLICATE
+
+Bug ID: 5536
+Description: Encountered kernel oops with file system stress test
+Resolution: DUPLICATE
+
+Bug ID: 13466
+Description: 2.6.30rc regression - Undocking attempt fails, keyboard dead, flush_cpu_workqueue() warning - IBM Thinkpad T42, Dock II
+Resolution: DUPLICATE
+
+Bug ID: 3168
+Description: S1, S3 resume hang - Inspiron 8500
+Resolution: DUPLICATE
+
+Bug ID: 10668
+Description: "unknown mode" error when copying a file over legacy mount
+Resolution: DUPLICATE
+
+Bug ID: 4122
+Description: S3 resume: IDE fails -  Sony VAIO
+Resolution: DUPLICATE
+
+Bug ID: 7167
+Description: Sky2 driver hangs when heavy load
+Resolution: DUPLICATE
+
+Bug ID: 970
+Description: Broadcom 4401 link is down
+Resolution: DUPLICATE
+
+Bug ID: 65621
+Description: BUG bio-0 (Not tainted): Poison overwritten
+Resolution: DUPLICATE
+
+Bug ID: 15716
+Description: ata2: lost interrupt with kernel 2.6.34-rc1
+Resolution: DUPLICATE
+
+Bug ID: 45871
+Description: ACPI Warning: 0x0000000000000460-0x000000000000047f SystemIO conflicts with Region \PMIO 1 (20120320/utaddress-251)
+Resolution: DUPLICATE
+
+Bug ID: 16038
+Description: vga_switcheroo: kernel hang after OFF/ON after resume from pm-suspend
+Resolution: DUPLICATE
+
+Bug ID: 6152
+Description: Fiber Optic interface don't works on 3c905B-FX
+Resolution: DUPLICATE
+
+Bug ID: 18802
+Description: kworker: high CPU usage -> system sluggish
+Resolution: DUPLICATE
+
+Bug ID: 14233
+Description: Different "Method parse/execution failed" errors on eeepc p1005ha
+Resolution: DUPLICATE
+
+Bug ID: 11893
+Description: Long delays and keystrokes required - related to disk encryption?
+Resolution: DUPLICATE
+
+Bug ID: 67221
+Description: BUG: unable to handle kernel paging request at 0000000000800000
+Resolution: DUPLICATE
+
+Bug ID: 3216
+Description: linux-2.6.8: IPv6-in-IPv6 undefined references
+Resolution: DUPLICATE
+
+Bug ID: 6476
+Description: CONFIG_MK6 results in reads to /proc/*/maps hanging
+Resolution: DUPLICATE
+
+Bug ID: 191181
+Description: Fans blowing at max speed after resuming - ThinkPad X1/T4xx series
+Resolution: DUPLICATE
+
+Bug ID: 14590
+Description: Request to add force key release for Samsung N310 netbook
+Resolution: DUPLICATE
+
+Bug ID: 3835
+Description: 2.6.9-gentoo-r3, 2.6.9-gentoo-r4 and 2.6.10-rc2 crash with mplayer and celestia
+Resolution: DUPLICATE
+
+Bug ID: 63811
+Description: Backlight keys do not work on Lenovo Yoga
+Resolution: DUPLICATE
+
+Bug ID: 60654
+Description: ACPI backlight control doesn't work for HP Elitebook 8560w with NVIDIA discrete graphics card
+Resolution: DUPLICATE
+
+Bug ID: 6902
+Description: 3-5 error and 1 normal with connecting with DVB-S SkyStar2 tuner
+Resolution: DUPLICATE
+
+Bug ID: 93621
+Description: Intel i915 driver crash (kernel panic)
+Resolution: DUPLICATE
+
+Bug ID: 59571
+Description: CPU overheating on Dell XPS L502x laptop
+Resolution: DUPLICATE
+
+Bug ID: 14561
+Description: ath5k card stops working after a while and requires reboot
+Resolution: DUPLICATE
+
+Bug ID: 2596
+Description: /proc/acpi/event stops giving back LID events after suspend
+Resolution: DUPLICATE
+
+Bug ID: 27672
+Description: [BUG] 2.6.38-rc1-git1: hard lockup related to i915 / automated cgroup scheduling
+Resolution: DUPLICATE
+
+Bug ID: 60658
+Description: Wireless doesn't work, iwlwifi floods dmesg
+Resolution: DUPLICATE
+
+Bug ID: 15745
+Description: WARNING: at /build/buildd/linux-2.6.31/arch/x86/kernel/hpet.c:390
+Resolution: DUPLICATE
+
+Bug ID: 26672
+Description: Call Trace: for module [ath] and [ath9k]
+Resolution: DUPLICATE
+
+Bug ID: 10396
+Description: BUG: soft lockup - CPU#0 stuck for 61s! [modprobe:2096]
+Resolution: DUPLICATE
+
+Bug ID: 4224
+Description: sensors no longer working on 2.6.10 kernel release
+Resolution: DUPLICATE
+
+Bug ID: 30252
+Description: BUG in xs_tcp_setup_socket
+Resolution: DUPLICATE
+
+Bug ID: 49031
+Description: [ivb] Major power consumption regression probably with i915 drm error
+Resolution: DUPLICATE
+
+Bug ID: 57131
+Description: Backlight regulate works incorrectly
+Resolution: DUPLICATE
+
+Bug ID: 9788
+Description: Deadlock on _any_ ACPI event
+Resolution: DUPLICATE
+
+Bug ID: 14315
+Description: kernel BUG at fs/ext4/inode.c
+Resolution: DUPLICATE
+
+Bug ID: 14559
+Description: WARNING: at lib/dma-debug.c:917 check_sync+0x231/0x3f7()
+Resolution: DUPLICATE
+
+Bug ID: 8844
+Description: atkbd.c: Use 'setkeycodes e078 <keycode>' to make it known.
+Resolution: DUPLICATE
+
+Bug ID: 12202
+Description: crappy disk performance after suspend/resume [ata_piix?]
+Resolution: DUPLICATE
+
+Bug ID: 48721
+Description: cpufreq stuck at max frequency, suspend/resume, i915 may affect
+Resolution: DUPLICATE
+
+Bug ID: 12859
+Description: Special keys unusable after resume on battery - T21
+Resolution: DUPLICATE
+
+Bug ID: 1960
+Description: S3 resume - no video - Dell 5150
+Resolution: DUPLICATE
+
+Bug ID: 61981
+Description: No HDMI audio (pass through) on ASUS F2A55-M (ATI Trinity Aruba GPU)
+Resolution: DUPLICATE
+
+Bug ID: 14343
+Description: kernel BUG at drivers/block/aoe/aoeblk.c:177
+Resolution: DUPLICATE
+
+Bug ID: 95591
+Description: SBS driver very often stalls boot when built into the kernel, fine as a module however
+Resolution: DUPLICATE
+
+Bug ID: 3671
+Description: libata, sil 3112a, maxtor harddrives
+Resolution: DUPLICATE
+
+Bug ID: 4971
+Description: dual head and 2.6.13rc4
+Resolution: DUPLICATE
+
+Bug ID: 7104
+Description: VIA VT8237a PCI Chipset Not Detected
+Resolution: DUPLICATE
+
+Bug ID: 83881
+Description: WPA2-Enterprise networks with many AP in one location cause connection troubles, inability to use network, workaround is 11n_disable=1 (not optimal)
+Resolution: DUPLICATE
+
+Bug ID: 2506
+Description: Problem on loading AHA-2940AU SCSI driver
+Resolution: DUPLICATE
+
+Bug ID: 82651
+Description: Battery information still missing on ASUS t100ta
+Resolution: DUPLICATE
+
+Bug ID: 1540
+Description: Error removing USB Flash hard drive
+Resolution: DUPLICATE
+
+Bug ID: 11632
+Description: Battery information wrong - MSI S271
+Resolution: DUPLICATE
+
+Bug ID: 198137
+Description: Clock Skew between clock_gettime(CLOCK_MONOTONIC) and clock_gettime(CLOCK_REALTIME) and getimeofday()
+Resolution: DUPLICATE
+
+Bug ID: 28212
+Description: WPA: Invalid EAPOL-Key MIC when using TPTK - ignoring TPTK
+Resolution: DUPLICATE
+
+Bug ID: 197983
+Description: iwlwifi: 8265: firmware version 34.0.1 unusable
+Resolution: DUPLICATE
+
