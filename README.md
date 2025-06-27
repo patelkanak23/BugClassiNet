@@ -1,6 +1,6 @@
 # 🐞 BugClassiNet
 
-**DeepBugSIM** is a deep learning-based framework for automatically classifying software bug reports into **real bugs** or **non-bugs** (such as feature requests, duplicates, or invalid entries). It leverages the power of **Sentence-BERT** to extract rich semantic embeddings and classifies these using a custom-designed **1D Convolutional Neural Network (CNN)** for high accuracy.
+**BugClassiNet** is a deep learning-based framework for automatically classifying software bug reports into **real bugs** or **non-bugs** (such as feature requests, duplicates, or invalid entries). It leverages the power of **Sentence-BERT** to extract rich semantic embeddings and classifies these using a custom-designed **1D Convolutional Neural Network (CNN)** for high accuracy.
 
 ---
 
